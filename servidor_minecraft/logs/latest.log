@@ -4897,3 +4897,34 @@ java.lang.IllegalArgumentException: sectionPos out of bounds
 [13Jan2025 21:31:30.873] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
 [13Jan2025 21:31:35.541] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/kinetics/transmission/sequencer/SequencerInstructions
 [13Jan2025 21:31:40.230] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[13Jan2025 21:31:52.859] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=62, y=28, z=-961}
+[13Jan2025 21:31:55.865] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/RangedCrossbowAttackGoal$CrossbowState
+[13Jan2025 21:32:16.300] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting insane96mcp/enhancedai/modules/illager/shoot/EAPillagerAttackGoal$CrossbowState
+[13Jan2025 21:33:07.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft has made the advancement [Getting an Upgrade]
+[13Jan2025 21:34:43.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <denercraft> mmm
+[13Jan2025 21:34:53.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> dale bb
+[13Jan2025 21:34:57.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> quiero dormir con jenny
+[13Jan2025 21:36:55.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco is bleeding. PavoLoco was slain by Sucker
+[13Jan2025 21:38:01.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco is bleeding. PavoLoco fell from a high place
+[13Jan2025 21:38:06.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported PavoLoco to denercraft]
+[13Jan2025 21:38:45.923] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[13Jan2025 21:38:45.924] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_1_pool
+[13Jan2025 21:38:45.924] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_2_pool
+[13Jan2025 21:38:45.978] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_4_pool
+[13Jan2025 21:38:45.978] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[13Jan2025 21:38:45.978] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[13Jan2025 21:38:45.979] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[13Jan2025 21:38:45.979] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[13Jan2025 21:38:55.808] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: denercraft moved too quickly! -0.13625225929729368,-1.7970003898374785,-17.331176160238556
+[13Jan2025 21:39:17.770] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-375, y=44, z=-1673}
+[13Jan2025 21:39:23.894] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[13Jan2025 21:39:23.895] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_4_pool
+[13Jan2025 21:39:23.900] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_1_pool
+[13Jan2025 21:39:23.900] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_2_pool
+[13Jan2025 21:39:23.901] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[13Jan2025 21:39:23.901] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[13Jan2025 21:39:24.572] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
+[13Jan2025 21:40:17.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <denercraft> xaero-waypoint:dsadwa:D:-409:78:-1527:14:false:0:Internal-overworld-waypoints
+[13Jan2025 21:41:00.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco has made the advancement [Strange Scrolls]
+[13Jan2025 21:41:35.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft has made the advancement [Suit Up]
+[13Jan2025 21:41:35.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft has made the advancement [I Found It Underground]

@@ -425,6 +425,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-01-13 21:33:10 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_small_bricks_stonecutter_stair": {
     "criteria": {
       "has_journal": "2025-01-13 21:02:02 +0000"
@@ -464,6 +470,12 @@
   "majruszsdifficulty:bleeding": {
     "criteria": {
       "bleeding_applied": "2025-01-13 21:12:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-01-13 21:40:50 +0000"
     },
     "done": true
   },
@@ -560,6 +572,12 @@
   "ars_nouveau:recipes/misc/ritual_disintegration": {
     "criteria": {
       "has_journal": "2025-01-13 21:02:02 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:biomesoplenty/root": {
+    "criteria": {
+      "dune_beach": "2025-01-13 21:38:59 +0000"
     },
     "done": true
   },
@@ -686,6 +704,12 @@
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2025-01-13 21:18:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-01-13 21:40:50 +0000"
     },
     "done": true
   },
@@ -854,6 +878,12 @@
   "supplementaries:recipes/timber_cross_brace": {
     "criteria": {
       "forge:rods/wooden": "2025-01-13 21:18:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2025-01-13 21:41:35 +0000"
     },
     "done": true
   },
@@ -1511,6 +1541,12 @@
     },
     "done": true
   },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-01-13 21:33:07 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/bone_broth": {
     "criteria": {
       "has_bone": "2025-01-13 21:25:50 +0000"
@@ -1562,6 +1598,12 @@
   "valhelsia_furniture:recipes/decorations/white_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2025-01-13 21:29:22 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/pumpkin_seeds_from_pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2025-01-13 21:33:10 +0000"
     },
     "done": true
   },
@@ -1896,6 +1938,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
+    "criteria": {
+      "has_pumpkin": "2025-01-13 21:33:10 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/crank": {
     "criteria": {
       "forge:rods/wooden": "2025-01-13 21:18:27 +0000"
@@ -1995,6 +2043,12 @@
   "ars_nouveau:root": {
     "criteria": {
       "ars_nouveau:worn_notebook": "2025-01-13 21:02:02 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap": {
+    "criteria": {
+      "has_porkchop": "2025-01-13 21:40:50 +0000"
     },
     "done": true
   },
@@ -2922,6 +2976,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-13 21:40:50 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/clear_allow": {
     "criteria": {
       "has_journal": "2025-01-13 21:02:02 +0000"
@@ -2931,6 +2991,12 @@
   "ars_nouveau:recipes/building_blocks/smooth_gilded_sourcestone_small_bricks_slab": {
     "criteria": {
       "has_journal": "2025-01-13 21:02:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-01-13 21:33:10 +0000"
     },
     "done": true
   },
@@ -2951,6 +3017,14 @@
       "has_spruce_planks": "2025-01-13 21:29:22 +0000"
     },
     "done": true
+  },
+  "biomesoplenty:biomesoplenty/all_biomes": {
+    "criteria": {
+      "lavender_forest": "2025-01-13 21:39:11 +0000",
+      "dune_beach": "2025-01-13 21:38:59 +0000",
+      "lavender_field": "2025-01-13 21:39:02 +0000"
+    },
+    "done": false
   },
   "storagedrawers:recipes/storagedrawers/warped_trim": {
     "criteria": {
@@ -2991,6 +3065,18 @@
   "ars_nouveau:recipes/building_blocks/stripped_purple_archwood_wood": {
     "criteria": {
       "has_journal": "2025-01-13 21:02:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-01-13 21:40:50 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-13 21:33:10 +0000"
     },
     "done": true
   },
@@ -3081,6 +3167,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2025-01-13 21:12:44 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/chests": {
+    "criteria": {
+      "sword": "2025-01-13 21:41:35 +0000"
     },
     "done": true
   },
@@ -3177,6 +3269,12 @@
   "refurbished_furniture:recipes/misc/constructing/red_stool": {
     "criteria": {
       "has_wheat": "2025-01-13 21:24:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2025-01-13 21:33:07 +0000"
     },
     "done": true
   },
@@ -3532,12 +3630,14 @@
     "criteria": {
       "minecraft:mushroom_fields": "2025-01-13 21:21:53 +0000",
       "minecraft:deep_ocean": "2025-01-13 21:22:41 +0000",
+      "minecraft:river": "2025-01-13 21:39:01 +0000",
       "minecraft:stony_shore": "2025-01-13 21:13:53 +0000",
       "minecraft:snowy_taiga": "2025-01-13 21:12:42 +0000",
       "minecraft:grove": "2025-01-13 21:02:04 +0000",
       "minecraft:cold_ocean": "2025-01-13 21:20:22 +0000",
       "minecraft:deep_cold_ocean": "2025-01-13 21:20:23 +0000",
-      "minecraft:frozen_ocean": "2025-01-13 21:12:44 +0000"
+      "minecraft:frozen_ocean": "2025-01-13 21:12:44 +0000",
+      "minecraft:ocean": "2025-01-13 21:38:53 +0000"
     },
     "done": false
   },
