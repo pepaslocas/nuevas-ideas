@@ -5022,3 +5022,34 @@ java.lang.IllegalArgumentException: sectionPos out of bounds
 [13Jan2025 22:11:19.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported denercraft to 650.500000, 95.500000, -2445.500000]
 [13Jan2025 22:11:24.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco was slain by Sucker
 [13Jan2025 22:11:27.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported PavoLoco to denercraft]
+[13Jan2025 22:12:53.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported PavoLoco to denercraft]
+[13Jan2025 22:12:55.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported PavoLoco to denercraft]
+[13Jan2025 22:12:55.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco is bleeding. PavoLoco fell from a high place
+[13Jan2025 22:13:53.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft is bleeding. denercraft fell from a high place
+[13Jan2025 22:13:59.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft fell from a high place
+[13Jan2025 22:14:05.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported denercraft to 616.500000, 78.500000, -2478.500000]
+[13Jan2025 22:14:16.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported denercraft to PavoLoco]
+[13Jan2025 22:14:18.821] [pool-3-thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[13Jan2025 22:14:19.273] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/material/MapColor$Brightness
+[13Jan2025 22:15:06.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco is bleeding. PavoLoco fell from a high place
+[13Jan2025 22:15:35.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco is bleeding. PavoLoco was slain by Piglin Brute
+[13Jan2025 22:16:03.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft is bleeding. denercraft was slain by Piglin Brute
+[13Jan2025 22:16:09.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft was slain by Piglin Brute
+[13Jan2025 22:16:11.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported denercraft to PavoLoco]
+[13Jan2025 22:16:16.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft is bleeding. denercraft was slain by Piglin Brute
+[13Jan2025 22:16:17.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft tried to swim in lava to escape Piglin Brute
+[13Jan2025 22:16:19.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported denercraft to PavoLoco]
+[13Jan2025 22:16:24.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco is bleeding. PavoLoco was slain by Piglin Brute
+[13Jan2025 22:16:32.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft is bleeding. denercraft was slain by Zombified Piglin
+[13Jan2025 22:16:38.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft tried to swim in lava
+[13Jan2025 22:16:40.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported denercraft to PavoLoco]
+[13Jan2025 22:16:45.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft is bleeding. denercraft was slain by Piglin Brute
+[13Jan2025 22:16:52.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft tried to swim in lava
+[13Jan2025 22:17:03.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported denercraft to 575.500000, 181.500000, -2524.500000]
+[13Jan2025 22:18:39.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft has made the advancement [Cover Me with Diamonds]
+[13Jan2025 22:20:51.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco has made the advancement [Cover Me with Diamonds]
+[13Jan2025 22:21:27.771] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[13Jan2025 22:21:27.772] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[13Jan2025 22:21:54.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Set own game mode to Spectator Mode]
+[13Jan2025 22:22:18.253] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Set own game mode to Survival Mode]
+[13Jan2025 22:22:33.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft has made the advancement [Spooky Scary Skeleton]
