@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/hay_warped_chair": {
+    "criteria": {
+      "has_hay_block": "2025-01-13 21:51:43 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_table": {
     "criteria": {
       "has_spruce_planks": "2025-01-13 21:29:22 +0000"
@@ -395,6 +401,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/baked_cod_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-13 21:55:12 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/transportation/dead_boat": {
     "criteria": {
       "in_water": "2025-01-13 21:12:44 +0000"
@@ -728,6 +740,12 @@
   "ars_nouveau:recipes/building_blocks/archwood_fence": {
     "criteria": {
       "has_journal": "2025-01-13 21:02:02 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/heating/baked_potato": {
+    "criteria": {
+      "has_ingredient": "2025-01-13 21:55:12 +0000"
     },
     "done": true
   },
@@ -1214,6 +1232,12 @@
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_sword": "2025-01-13 21:07:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-01-13 21:55:12 +0000"
     },
     "done": true
   },
@@ -1973,6 +1997,12 @@
     },
     "done": true
   },
+  "friendsandfoes:adventure/complete_hide_and_seek_game": {
+    "criteria": {
+      "friendsandfoes:complete_hide_and_seek_game": "2025-01-13 21:59:47 +0000"
+    },
+    "done": true
+  },
   "valhelsia_structures:recipes/building_blocks/red_metal_framed_glass": {
     "criteria": {
       "has_ingots/iron": "2025-01-13 21:44:29 +0000"
@@ -2033,6 +2063,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/hay_jungle_chair": {
+    "criteria": {
+      "has_hay_block": "2025-01-13 21:51:43 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/decorations/sourcestone_2": {
     "criteria": {
       "has_journal": "2025-01-13 21:02:02 +0000"
@@ -2054,6 +2090,12 @@
   "ars_nouveau:recipes/decorations/sourcestone_3": {
     "criteria": {
       "has_journal": "2025-01-13 21:02:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-01-13 21:55:12 +0000"
     },
     "done": true
   },
@@ -2826,6 +2868,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/hay_birch_chair": {
+    "criteria": {
+      "has_hay_block": "2025-01-13 21:51:43 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/spruce_desk_drawer": {
     "criteria": {
       "has_spruce_planks": "2025-01-13 21:29:22 +0000"
@@ -3072,6 +3120,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/baking/baked_potato": {
+    "criteria": {
+      "has_ingredient": "2025-01-13 21:55:12 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/brown_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2025-01-13 21:29:22 +0000"
@@ -3216,6 +3270,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2025-01-13 21:51:43 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/arcane_platform": {
     "criteria": {
       "has_journal": "2025-01-13 21:02:02 +0000"
@@ -3243,6 +3303,12 @@
   "create:recipes/building_blocks/spruce_window": {
     "criteria": {
       "has_ingredient": "2025-01-13 21:29:22 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/fodder": {
+    "criteria": {
+      "has_hay_block": "2025-01-13 21:51:43 +0000"
     },
     "done": true
   },
@@ -3546,6 +3612,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/gem": {
+    "criteria": {
+      "gem": "2025-01-13 21:58:21 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/mimic_scroll": {
     "criteria": {
       "has_journal": "2025-01-13 21:02:02 +0000"
@@ -3651,6 +3723,12 @@
   "ars_nouveau:recipes/building_blocks/gilded_sourcestone_basketweave_slab": {
     "criteria": {
       "has_journal": "2025-01-13 21:02:02 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/hay_cherry_chair": {
+    "criteria": {
+      "has_hay_block": "2025-01-13 21:51:43 +0000"
     },
     "done": true
   },
@@ -3762,6 +3840,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/hay_mangrove_chair": {
+    "criteria": {
+      "has_hay_block": "2025-01-13 21:51:43 +0000"
+    },
+    "done": true
+  },
   "ars_nouveau:recipes/misc/smooth_sourcestone_basketweave_stairs": {
     "criteria": {
       "has_journal": "2025-01-13 21:02:02 +0000"
@@ -3849,6 +3933,12 @@
   "ars_nouveau:recipes/misc/gilded_sourcestone_small_bricks_stairs": {
     "criteria": {
       "has_journal": "2025-01-13 21:02:02 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/hay_oak_chair": {
+    "criteria": {
+      "has_hay_block": "2025-01-13 21:51:43 +0000"
     },
     "done": true
   },
@@ -4008,6 +4098,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-01-13 21:55:12 +0000"
+    },
+    "done": true
+  },
   "majruszsdifficulty:game_stage_normal": {
     "criteria": {
       "is_triggered": "2025-01-13 21:02:03 +0000"
@@ -4074,7 +4170,10 @@
       "lavender_forest": "2025-01-13 21:39:11 +0000",
       "mediterranean_forest": "2025-01-13 21:47:42 +0000",
       "dune_beach": "2025-01-13 21:38:59 +0000",
-      "lavender_field": "2025-01-13 21:39:02 +0000"
+      "rocky_rainforest": "2025-01-13 21:56:28 +0000",
+      "volcanic_plains": "2025-01-13 21:53:17 +0000",
+      "lavender_field": "2025-01-13 21:39:02 +0000",
+      "rainforest": "2025-01-13 21:54:21 +0000"
     },
     "done": false
   },
@@ -4186,6 +4285,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-01-13 21:52:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2025-01-13 21:44:29 +0000"
@@ -4267,6 +4372,12 @@
   "apotheosis:affix/chests": {
     "criteria": {
       "sword": "2025-01-13 21:41:35 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/hay_acacia_chair": {
+    "criteria": {
+      "has_hay_block": "2025-01-13 21:51:43 +0000"
     },
     "done": true
   },
@@ -4552,6 +4663,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/beef_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-13 21:55:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2025-01-13 21:50:34 +0000"
@@ -4678,6 +4795,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/hay_crimson_chair": {
+    "criteria": {
+      "has_hay_block": "2025-01-13 21:51:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2025-01-13 21:29:22 +0000"
@@ -4796,6 +4919,8 @@
     "criteria": {
       "minecraft:mushroom_fields": "2025-01-13 21:21:53 +0000",
       "minecraft:deep_ocean": "2025-01-13 21:22:41 +0000",
+      "minecraft:beach": "2025-01-13 21:51:59 +0000",
+      "minecraft:lukewarm_ocean": "2025-01-13 22:01:20 +0000",
       "minecraft:river": "2025-01-13 21:39:01 +0000",
       "minecraft:stony_shore": "2025-01-13 21:13:53 +0000",
       "minecraft:snowy_taiga": "2025-01-13 21:12:42 +0000",
@@ -4825,6 +4950,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/hay_dark_oak_chair": {
+    "criteria": {
+      "has_hay_block": "2025-01-13 21:51:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-01-13 21:18:48 +0000"
@@ -4834,6 +4965,12 @@
   "refurbished_furniture:recipes/misc/constructing/yellow_cooler": {
     "criteria": {
       "has_planks": "2025-01-13 21:29:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-01-13 21:51:43 +0000"
     },
     "done": true
   },

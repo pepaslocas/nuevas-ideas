@@ -4958,3 +4958,36 @@ java.lang.IllegalArgumentException: sectionPos out of bounds
 [13Jan2025 21:50:09.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft has made the advancement [Diamonds!]
 [13Jan2025 21:50:29.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco has made the advancement [Isn't It Iron Pick]
 [13Jan2025 21:50:29.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco has made the advancement [I Found It Underground]
+[13Jan2025 21:52:15.046] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=479, y=16, z=-1890}
+[13Jan2025 21:52:25.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft has made the advancement [Mine? Mine? Mine?]
+[13Jan2025 21:52:43.593] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[13Jan2025 21:52:56.623] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/BeehiveBlockEntity$BeeReleaseStatus
+[13Jan2025 21:53:31.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported PavoLoco to denercraft]
+[13Jan2025 21:53:37.735] [Worker-Main-1/ERROR] [Supplementaries/]: Failed to load textholder data for block at BlockPos{x=508, y=69, z=-2259}
+[13Jan2025 21:53:37.750] [Worker-Main-3/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13Jan2025 21:53:40.535] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13Jan2025 21:53:40.536] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/content/building/entity/GlassItemFrame$SignAttachment
+[13Jan2025 21:53:40.553] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13Jan2025 21:53:40.656] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[13Jan2025 21:54:09.037] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[13Jan2025 21:54:09.654] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[13Jan2025 21:54:09.654] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[13Jan2025 21:54:09.655] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[13Jan2025 21:54:09.655] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[13Jan2025 21:54:09.655] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[13Jan2025 21:54:32.780] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/contraptions/IControlContraption$MovementMode
+[13Jan2025 21:54:38.181] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[13Jan2025 21:55:25.673] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/ShulkerBoxBlockEntity$AnimationStatus
+[13Jan2025 21:56:29.676] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[13Jan2025 21:56:29.677] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_end_1_pool
+[13Jan2025 21:57:00.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> hmmm
+[13Jan2025 21:57:51.174] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/faboslav/friendsandfoes/entity/animation/Transformation$Type
+[13Jan2025 21:58:21.619] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft has made the advancement [Not a Diamond]
+[13Jan2025 21:59:06.576] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tech/thatgravyboat/creeperoverhaul/common/entity/custom/PufferfishCreeper$Variant
+[13Jan2025 21:59:47.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft has made the advancement [Hide and Seek]
+[13Jan2025 22:00:25.503] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[13Jan2025 22:00:25.504] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_end_1_pool
+[13Jan2025 22:00:42.277] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/frog/ShootTongue$State
+[13Jan2025 22:00:56.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <denercraft> xaero-waypoint:volcan:V:585:222:-2513:8:false:0:Internal-overworld-waypoints
+[13Jan2025 22:01:02.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> add
+[13Jan2025 22:01:41.236] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/vehicle/Boat$Status
