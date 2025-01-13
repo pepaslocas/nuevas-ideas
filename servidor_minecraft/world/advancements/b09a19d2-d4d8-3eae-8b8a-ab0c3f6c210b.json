@@ -347,6 +347,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/decorations/biomesoplenty/sign_post_mahogany": {
+    "criteria": {
+      "has_planks": "2025-01-13 22:06:08 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/gray_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2025-01-13 21:29:22 +0000"
@@ -428,6 +434,12 @@
   "ars_nouveau:recipes/misc/moonfall_2": {
     "criteria": {
       "has_journal": "2025-01-13 21:02:02 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mahogany_wood": {
+    "criteria": {
+      "has_log": "2025-01-13 22:05:33 +0000"
     },
     "done": true
   },
@@ -548,6 +560,12 @@
   "ars_nouveau:recipes/building_blocks/sourcestone_basketweave_stone_cutterslab": {
     "criteria": {
       "has_journal": "2025-01-13 21:02:02 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mahogany_planks": {
+    "criteria": {
+      "has_logs": "2025-01-13 22:05:33 +0000"
     },
     "done": true
   },
@@ -1511,6 +1529,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/mahogany_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-13 22:06:08 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/red_grill": {
     "criteria": {
       "has_iron_ingot": "2025-01-13 21:44:29 +0000"
@@ -1700,6 +1724,12 @@
   "supplementaries:recipes/flags/flag_light_blue": {
     "criteria": {
       "has_stick": "2025-01-13 21:18:27 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/mahogany_sign": {
+    "criteria": {
+      "has_mahogany_planks": "2025-01-13 22:06:08 +0000"
     },
     "done": true
   },
@@ -2141,6 +2171,12 @@
     },
     "done": true
   },
+  "born_in_chaos_v1:exorcism": {
+    "criteria": {
+      "exorcism_0": "2025-01-13 22:02:49 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/orange_grill": {
     "criteria": {
       "has_iron_ingot": "2025-01-13 21:44:29 +0000"
@@ -2264,6 +2300,12 @@
   "refurbished_furniture:recipes/misc/constructing/cherry_toilet": {
     "criteria": {
       "has_iron_ingot": "2025-01-13 21:44:29 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mahogany_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-13 22:06:08 +0000"
     },
     "done": true
   },
@@ -2625,6 +2667,12 @@
   "farmersdelight:recipes/cooking/stuffed_pumpkin_block": {
     "criteria": {
       "has_pumpkin": "2025-01-13 21:33:10 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/hunting_post": {
+    "criteria": {
+      "has_arrow": "2025-01-13 22:10:41 +0000"
     },
     "done": true
   },
@@ -3050,6 +3098,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-01-13 22:03:19 +0000",
       "minecraft:zombie": "2025-01-13 21:13:35 +0000"
     },
     "done": false
@@ -3213,6 +3262,12 @@
   "valhelsia_furniture:recipes/decorations/purple_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2025-01-13 21:29:22 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mahogany_slab": {
+    "criteria": {
+      "has_planks": "2025-01-13 22:06:08 +0000"
     },
     "done": true
   },
@@ -3396,6 +3451,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/decorations/mahogany_fence": {
+    "criteria": {
+      "has_planks": "2025-01-13 22:06:08 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/spruce_mail_box": {
     "criteria": {
       "has_spruce_planks": "2025-01-13 21:29:22 +0000"
@@ -3417,6 +3478,12 @@
   "refurbished_furniture:recipes/misc/constructing/green_grill": {
     "criteria": {
       "has_iron_ingot": "2025-01-13 21:44:29 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-13 22:06:08 +0000"
     },
     "done": true
   },
@@ -3567,6 +3634,12 @@
   "ars_nouveau:recipes/misc/smooth_sourcestone_mosaic_to_sourcestone": {
     "criteria": {
       "has_journal": "2025-01-13 21:02:02 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_button": {
+    "criteria": {
+      "has_planks": "2025-01-13 22:06:08 +0000"
     },
     "done": true
   },
@@ -3771,6 +3844,12 @@
   "ars_nouveau:recipes/misc/manipulation_essence_to_vexing_sapling": {
     "criteria": {
       "has_journal": "2025-01-13 21:02:02 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_door": {
+    "criteria": {
+      "has_planks": "2025-01-13 22:06:08 +0000"
     },
     "done": true
   },
@@ -4822,6 +4901,12 @@
   "supplementaries:recipes/flags/flag_light_gray": {
     "criteria": {
       "has_stick": "2025-01-13 21:18:27 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-13 22:06:08 +0000"
     },
     "done": true
   },

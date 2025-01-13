@@ -4991,3 +4991,34 @@ java.lang.IllegalArgumentException: sectionPos out of bounds
 [13Jan2025 22:00:56.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <denercraft> xaero-waypoint:volcan:V:585:222:-2513:8:false:0:Internal-overworld-waypoints
 [13Jan2025 22:01:02.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <PavoLoco> add
 [13Jan2025 22:01:41.236] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/vehicle/Boat$Status
+[13Jan2025 22:02:49.276] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft has reached the goal [Exorcism]
+[13Jan2025 22:03:34.080] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: denercraft moved wrongly!
+[13Jan2025 22:03:59.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported denercraft to PavoLoco]
+[13Jan2025 22:04:35.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco has made the advancement [Suit Up]
+[13Jan2025 22:07:12.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported denercraft to PavoLoco]
+[13Jan2025 22:07:56.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported PavoLoco to denercraft]
+[13Jan2025 22:07:58.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported PavoLoco to denercraft]
+[13Jan2025 22:07:58.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco is bleeding. PavoLoco fell from a high place
+[13Jan2025 22:08:00.227] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported PavoLoco to denercraft]
+[13Jan2025 22:08:00.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco fell from a high place
+[13Jan2025 22:08:30.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft is bleeding. denercraft was doomed to fall by Skeleton
+[13Jan2025 22:08:35.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported PavoLoco to denercraft]
+[13Jan2025 22:09:34.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft is bleeding. denercraft was doomed to fall by Sucker
+[13Jan2025 22:09:38.381] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported denercraft to PavoLoco]
+[13Jan2025 22:09:43.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco is bleeding. PavoLoco was slain by Sucker
+[13Jan2025 22:09:43.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported denercraft to PavoLoco]
+[13Jan2025 22:09:52.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft was doomed to fall by Sucker
+[13Jan2025 22:09:59.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported denercraft to 635.500000, 96.500000, -2460.500000]
+[13Jan2025 22:10:15.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft is bleeding. denercraft was slain by Sucker
+[13Jan2025 22:10:21.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco is bleeding. PavoLoco was slain by Sucker
+[13Jan2025 22:10:27.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft was slain by Sucker
+[13Jan2025 22:10:33.127] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Set the time to 1000]
+[13Jan2025 22:10:39.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported denercraft to 636.500000, 95.500000, -2459.500000]
+[13Jan2025 22:10:50.319] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft is bleeding. denercraft was slain by The Bigger Suck
+[13Jan2025 22:10:56.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft was slain by The Bigger Suck
+[13Jan2025 22:11:01.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported denercraft to 648.500000, 91.500000, -2458.500000]
+[13Jan2025 22:11:07.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft is bleeding. denercraft was slain by Sucker
+[13Jan2025 22:11:14.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft was slain by Sucker
+[13Jan2025 22:11:19.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported denercraft to 650.500000, 95.500000, -2445.500000]
+[13Jan2025 22:11:24.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco was slain by Sucker
+[13Jan2025 22:11:27.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported PavoLoco to denercraft]
