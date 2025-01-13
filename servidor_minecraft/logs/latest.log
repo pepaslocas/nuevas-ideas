@@ -4928,3 +4928,33 @@ java.lang.IllegalArgumentException: sectionPos out of bounds
 [13Jan2025 21:41:00.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco has made the advancement [Strange Scrolls]
 [13Jan2025 21:41:35.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft has made the advancement [Suit Up]
 [13Jan2025 21:41:35.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft has made the advancement [I Found It Underground]
+[13Jan2025 21:42:29.083] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_2_pool
+[13Jan2025 21:42:29.083] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_1_pool
+[13Jan2025 21:42:29.084] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[13Jan2025 21:42:29.084] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_4_pool
+[13Jan2025 21:42:29.084] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[13Jan2025 21:42:29.084] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[13Jan2025 21:42:29.086] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[13Jan2025 21:42:29.086] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[13Jan2025 21:42:29.086] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[13Jan2025 21:42:29.087] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[13Jan2025 21:43:41.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco has made the advancement [Acquire Hardware]
+[13Jan2025 21:43:49.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Created new objective [vida]]
+[13Jan2025 21:44:07.515] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/faboslav/friendsandfoes/entity/MaulerEntity$Type
+[13Jan2025 21:44:08.452] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[13Jan2025 21:44:08.453] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_2_pool
+[13Jan2025 21:44:08.453] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_1_pool
+[13Jan2025 21:44:08.453] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_4_pool
+[13Jan2025 21:44:08.454] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[13Jan2025 21:44:08.454] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[13Jan2025 21:44:08.454] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[13Jan2025 21:44:19.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Set display slot list to show objective vida]
+[13Jan2025 21:44:29.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft has made the advancement [Acquire Hardware]
+[13Jan2025 21:46:51.168] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting insane96mcp/enhancedai/modules/witch/darkart/DarkArtWitchGoal$Phase
+[13Jan2025 21:47:53.829] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/common/block/tiles/StatueBlockTile$StatuePose
+[13Jan2025 21:48:55.981] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/DisplaySide
+[13Jan2025 21:48:55.986] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/TankPosition
+[13Jan2025 21:49:02.531] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[13Jan2025 21:50:09.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft has made the advancement [Diamonds!]
+[13Jan2025 21:50:29.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco has made the advancement [Isn't It Iron Pick]
+[13Jan2025 21:50:29.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco has made the advancement [I Found It Underground]
