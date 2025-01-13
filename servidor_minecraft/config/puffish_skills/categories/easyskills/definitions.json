@@ -1,0 +1,898 @@
+{
+	"root_luck": {
+		"title": "lucky foot",
+		"description": "you open a lot of chess but dont find good items? here is a lucky foot\n\n§4here is 10 points of luck cost 4",
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "majruszsdifficulty:recall_potion"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.luck",
+					"value": 10,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "say Luckier"
+				}
+			}
+		],
+		"cost": 4
+	},
+	"Luck": {
+		"title": "Luckier",
+		"description": "you feel lucky but you want more luck?\n\n§2you get 1 point of luck",
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "task"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "stalwart_dungeons:chorundum"
+			}
+		},
+		"rewards": 
+		[
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.luck",
+					"value": 1,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.max_health",
+					"value": 3,
+					"operation": "addition"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "q4xqoeobxuxo5j54"
+		}
+	},
+	"Root_Vampire": {
+		"title": "You are a vampire",
+		"description": "I know you are a chunky boy but its not necesary be a fury...\n\n§4you get 25% life steal per attack",
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "effect",
+			"data": {
+				"effect": "majruszsdifficulty:bleeding"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "attributeslib:life_steal",
+					"value": 0.25,
+					"operation": "addition"
+				}
+			}
+		],
+		"metadata": {
+			"icon": "oeab9twu6cwt6dki"
+		}
+	},
+	"Vampire": {
+		"title": "I need blood",
+		"description": "you thinks other ability are better? you lose\n\n§1you get 5% to life steal per attack cost 2",
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "task"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "alexsmobs:blobfish"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "attributeslib:life_steal",
+					"value": 0.05,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.max_health",
+					"value": 2,
+					"operation": "addition"
+				}
+			}
+		],
+		"cost": 2
+	},
+	"Root_Attackspeed": {
+		"title": "Now attack",
+		"description": "you are excited to attack like a monkey?\n\n§5Attack speed 0.6 more",
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "magistuarmory:messer_sword"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.attack_speed",
+					"value": 0.6,
+					"operation": "addition"
+				}
+			}
+		]
+	},
+	"Attackspeed": {
+		"title": "axes are useless",
+		"description": "You want to use axe but you choose different attrubute here is a tip AXE ARE USELESS\n\n§5Attack speed 0.1 more cost 2",
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "task"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "simplyswords:runic_greataxe"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.attack_speed",
+					"value": 0.1,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.max_health",
+					"value": 2,
+					"operation": "addition"
+				}
+			}
+		],
+		"cost": 2
+	},
+	"Root_dodge": {
+		"title": "you are not a man, you are gay",
+		"description": "Do you want to dodge some attacks like a gay? this is your skill\n\n§5you get 5% to dodge attacks cost 4",
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:end_rod"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "attributeslib:dodge_chance",
+					"value": 0.05,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "say I love the mand with a big ####"
+				}
+			}
+		],
+		"cost": 4
+	},
+	"dodge": {
+		"title": "JAJA gay",
+		"description": "some person say that they are not gay but this is the proof\n\n§5you get 2% to dodge attacks cost 2",
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "task"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "minecraft:feather"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "attributeslib:dodge_chance",
+					"value": 0.02,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:command",
+				"data": {
+					"command": "say Im a little gay"
+				}
+			}
+		],
+		"cost": 2
+	},
+	"Root_xpbonus": {
+		"title": "Really? more xp?",
+		"description": "you dont have patience really?\n\n§4you get 50% more xp for your own and also for the skill tree cost 5 points",
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "quark:diamond_heart"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "attributeslib:experience_gained",
+					"value": 0.5,
+					"operation": "addition"
+				}
+			}
+		],
+		"cost": 5
+	},
+	"morexp": {
+		"title": "little more xp",
+		"description": "need a little boost?\n\n§3you get 5% more xp cost 3",
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "task"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "quark:soul_bead"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "attributeslib:experience_gained",
+					"value": 0.05,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.max_health",
+					"value": 3,
+					"operation": "addition"
+				}
+			}
+		],
+		"cost": 3
+	},
+	"root_critical_damage": {
+		"title": "MORE, I NEED, MORE",
+		"description": "Not enought damage\n\n§4increase the critical damage a 100%",
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "iter_rpg:blood_bottle"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "attributeslib:crit_damage",
+					"value": 1,
+					"operation": "addition"
+				}
+			}
+		]
+	},
+	"critical_damage": {
+		"title": "not insta-kill",
+		"description": "no more damage for you\n\n§4increase the critical damage a 25% cost 2",
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "task"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "iter_rpg:blood_bottle"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "attributeslib:crit_damage",
+					"value": 0.25,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.max_health",
+					"value": 2,
+					"operation": "addition"
+				}
+			}
+		],
+		"cost": 2
+	},
+	"Arrow damage": {
+		"title": "usefull or useless?",
+		"description": "Are you a gobling or a survivor?\n\n§5Gets a 1.25x arrow damage",
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "goal"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "supplementaries:rope_arrow"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "attributeslib:arrow_damage",
+					"value": 0.25,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "attributeslib:armor_pierce",
+					"value": 1.5,
+					"operation": "addition"
+				}
+			}
+		]
+	},
+	"better Arrow damage": {
+		"title": "just better",
+		"description": "its better bro\n\n§5Gets a 1.75x arrow damage cost 3",
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "goal"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "Skilltree:gilded_quiver"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "attributeslib:arrow_damage",
+					"value": 0.75,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "attributeslib:armor_pierce",
+					"value": 6,
+					"operation": "addition"
+				}
+			}
+		],
+		"cost": 3
+	},
+	"Armor": {
+		"title": "Tanky boy",
+		"description": "120kg\n\n§5Gets +1 of armor",
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "goal"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "allthemodium:allthemodium_chestplate"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.armor",
+					"value": 1,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.max_health",
+					"value": 0.5,
+					"operation": "addition"
+				}
+			}
+		]
+	},
+	"Start Root": {
+		"title": "Loans Start",
+		"description": "Loan is proud of you\n\n§1The start is hard but also fun!!",
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "supplementaries:slice_map"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.armor",
+					"value": 5,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.max_health",
+					"value": 7,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "attributeslib:mining_speed",
+					"value": 1.5,
+					"operation": "addition"
+				}
+			}
+		]
+	},
+	"Attack damage": {
+		"title": "more damage why?",
+		"description": "assasin\n\n§5got +0.50 damage cost 2",
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "task"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "magistuarmory:wood_shortsword"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.attack_damage",
+					"value": 0.5,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.armor",
+					"value": 1,
+					"operation": "addition"
+				}
+			}
+		],
+		"cost": 2
+	},
+	"More Attack damage": {
+		"title": "more damage why?",
+		"description": "you are not satisfied\n\n§5got +2 damage cost 6",
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "cataclysm:athame"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.attack_damage",
+					"value": 2,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.armor",
+					"value": 2,
+					"operation": "addition"
+				}
+			}
+		],
+		"cost": 6
+	},
+	"healing boost": {
+		"title": "More healing yeeeii",
+		"description": "you want to tank bro\n\n§5Get 50% more healing cost 4",
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "iter_rpg:warped_goo"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "attributeslib:healing_received",
+					"value": 0.5,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.max_health",
+					"value": 8,
+					"operation": "addition"
+				}
+			}
+		],
+		"cost": 4
+	},
+	"less healing boost": {
+		"title": "Could be more",
+		"description": "I need it\n\n§5Get 5% more healing",
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "task"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "iter_rpg:beer_mug"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "attributeslib:healing_received",
+					"value": 0.05,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.max_health",
+					"value": 2,
+					"operation": "addition"
+				}
+			}
+		]
+	},
+	"Protection pierce": {
+		"title": "Axe goat",
+		"description": "Like a cactus bro\n\n§5Pierce the armor by 6 cost 2",
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "iter_rpg:netherite_spear"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "attributeslib:armor_pierce",
+					"value": 6,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "attributeslib:armor_shred",
+					"value": 0.05,
+					"operation": "addition"
+				}
+			}
+		],
+		"cost": 2
+	},
+	"less Protection pierce": {
+		"title": "Just a little more",
+		"description": "Like a cactus bro\n\n§5Pierce the armor by 1",
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "task"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "stalwart_dungeons:awful_dagger"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "attributeslib:armor_pierce",
+					"value": 1,
+					"operation": "addition"
+				}
+			}
+		]
+	},
+	"regeneration": {
+		"title": "REGENERATION FINALLY",
+		"description": "The best to tank 600kg of pure oil\n\n§5regenerate half a heart every 6 seconds cost 4",
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "paraglider:heart_container"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "skilltree:regeneration",
+					"value": 0.3,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.max_health",
+					"value": 8,
+					"operation": "addition"
+				}
+			}
+		],
+		"cost": 4
+	},
+	"less regeneration": {
+		"title": "very low D:",
+		"description": "I need More reegeneration\n\n§5regenerate half a heart every 18 seconds",
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "task"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "apotheosis:gem"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "skilltree:regeneration",
+					"value": 0.1,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.max_health",
+					"value": 2,
+					"operation": "addition"
+				}
+			}
+		]
+	},
+	"speed": {
+		"title": "Sonic inflation",
+		"description": "Faster\n\n§5Your speed increase by 5% cost 2",
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "challenge"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "cataclysm:sandstorm_in_a_bottle"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.movement_speed",
+					"value": 0.05,
+					"operation": "addition"
+				}
+			}
+		],
+		"cost": 2
+	},
+	"Mid Vampire": {
+		"title": "A little bit better",
+		"description": "just more than others\n\n§1you get 10% to life steal per attack cost 3",
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "goal"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "alexsmobs:blobfish"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "attributeslib:life_steal",
+					"value": 0.1,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.max_health",
+					"value": 3,
+					"operation": "addition"
+				}
+			}
+		],
+		"cost": 3
+	},
+	"Mid attack speed": {
+		"title": "Speedy guy",
+		"description": "You are a rusher right?\n\n§5Attack speed 0.3 more cost 3",
+		"frame": {
+			"type": "advancement",
+			"data": {
+				"frame": "task"
+			}
+		},
+		"icon": {
+			"type": "item",
+			"data": {
+				"item": "simplyswords:runic_greataxe"
+			}
+		},
+		"rewards": [
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.attack_speed",
+					"value": 0.3,
+					"operation": "addition"
+				}
+			},
+			{
+				"type": "puffish_skills:attribute",
+				"data": {
+					"attribute": "minecraft:generic.max_health",
+					"value": 2,
+					"operation": "addition"
+				}
+			}
+		],
+		"cost": 3
+	}
+}

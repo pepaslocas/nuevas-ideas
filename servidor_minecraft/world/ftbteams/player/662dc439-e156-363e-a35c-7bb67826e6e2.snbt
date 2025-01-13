@@ -1,0 +1,17 @@
+{
+	id: "662dc439-e156-363e-a35c-7bb67826e6e2"
+	type: "player"
+	player_name: "PavoLoco"
+	ranks: {
+		662dc439-e156-363e-a35c-7bb67826e6e2: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "PavoLoco"
+		"ftbteams:description": ""
+		"ftbteams:color": "#98FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

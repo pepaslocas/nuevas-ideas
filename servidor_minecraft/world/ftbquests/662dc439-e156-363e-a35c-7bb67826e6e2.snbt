@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "662dc439e156363ea35c7bb67826e6e2"
+	name: "PavoLoco#662dc439"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

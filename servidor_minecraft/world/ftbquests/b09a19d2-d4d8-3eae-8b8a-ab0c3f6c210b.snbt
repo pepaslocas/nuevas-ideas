@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "b09a19d2d4d83eae8b8aab0c3f6c210b"
+	name: "denercraft#b09a19d2"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

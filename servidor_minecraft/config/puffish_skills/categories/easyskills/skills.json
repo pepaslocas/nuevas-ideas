@@ -1,0 +1,560 @@
+{
+	"3m9pny33tqxblb77": {
+		"definition": "Root_Vampire",
+		"x": 128,
+		"y": -73.9008344562721,
+		"root": false
+	},
+	"h1mrxnbz6s518hob": {
+		"definition": "root_critical_damage",
+		"x": 0,
+		"y": 73.9008344562721,
+		"root": false
+	},
+	"5di8ex967b7bhsm4": {
+		"definition": "Start Root",
+		"x": 0,
+		"y": 0,
+		"root": true
+	},
+	"pzuu1hadudczx6mv": {
+		"definition": "Root_Attackspeed",
+		"x": -128,
+		"y": -73.9008344562721,
+		"root": false
+	},
+	"jiattgfcklv72d1q": {
+		"definition": "Armor",
+		"x": -192,
+		"y": 0,
+		"root": false
+	},
+	"041dh42ccrr4r4sh": {
+		"definition": "Armor",
+		"x": -128,
+		"y": -147.8016689125442,
+		"root": false
+	},
+	"boiqe7ofo4l5063i": {
+		"definition": "Armor",
+		"x": 128,
+		"y": -147.8016689125442,
+		"root": false
+	},
+	"r7nhlp7ycd5rvcq3": {
+		"definition": "Armor",
+		"x": 192,
+		"y": 0,
+		"root": false
+	},
+	"t9ziva7t41hd6v6k": {
+		"definition": "Armor",
+		"x": 96,
+		"y": 129.32646029847615,
+		"root": false
+	},
+	"gpdqvexsffqeh7mf": {
+		"definition": "Armor",
+		"x": -96,
+		"y": 129.32646029847615,
+		"root": false
+	},
+	"9wge57af0osogozg": {
+		"definition": "critical_damage",
+		"x": -224,
+		"y": 203.2272947547483,
+		"root": false
+	},
+	"ioihmgn5bkw1i6y5": {
+		"definition": "critical_damage",
+		"x": 224,
+		"y": 203.22729475474824,
+		"root": false
+	},
+	"xr083p3vyytbfvkp": {
+		"definition": "Attackspeed",
+		"x": -256,
+		"y": 73.9008344562721,
+		"root": false
+	},
+	"46z224e12y73tpwm": {
+		"definition": "Attackspeed",
+		"x": -64,
+		"y": -184.75208614068023,
+		"root": false
+	},
+	"r99qq295i4es1kmr": {
+		"definition": "Vampire",
+		"x": 64,
+		"y": -184.75208614068023,
+		"root": false
+	},
+	"uxna2gpt8qnn8sxw": {
+		"definition": "Vampire",
+		"x": 288,
+		"y": 92.37604307034013,
+		"root": false
+	},
+	"4tp0w3809e5hr8qc": {
+		"definition": "Root_xpbonus",
+		"x": 0,
+		"y": -110.85125168440814,
+		"root": false
+	},
+	"5gi4onqwix0a2ob9": {
+		"definition": "Root_xpbonus",
+		"x": -192,
+		"y": 110.85125168440814,
+		"root": false
+	},
+	"82tyjj5mkh5y6uph": {
+		"definition": "Root_xpbonus",
+		"x": 192,
+		"y": 110.85125168440814,
+		"root": false
+	},
+	"8rnxhz0rb6qgq2xd": {
+		"definition": "More Attack damage",
+		"x": 0,
+		"y": -369.50417228136047,
+		"root": false
+	},
+	"opjdeu16d7x60mqo": {
+		"definition": "More Attack damage",
+		"x": -512,
+		"y": 369.5041722813605,
+		"root": false
+	},
+	"6snsqojzqnbkmwj7": {
+		"definition": "More Attack damage",
+		"x": 512,
+		"y": 369.50417228136047,
+		"root": false
+	},
+	"fswoz9nepsn3vnqs": {
+		"definition": "dodge",
+		"x": -288,
+		"y": 166.27687752661222,
+		"root": false
+	},
+	"h3iapmudt59duy55": {
+		"definition": "dodge",
+		"x": 288,
+		"y": 166.27687752661222,
+		"root": false
+	},
+	"c3yb8mi3ioh2r2pl": {
+		"definition": "dodge",
+		"x": 0,
+		"y": -221.70250336881628,
+		"root": false
+	},
+	"25b99gjgd5h28ioh": {
+		"definition": "root_luck",
+		"x": -320,
+		"y": -147.8016689125442,
+		"root": false
+	},
+	"me07a3ozdn3y5wu4": {
+		"definition": "root_luck",
+		"x": 320,
+		"y": -147.80166891254422,
+		"root": false
+	},
+	"qo5eum6bh6gyjduq": {
+		"definition": "root_luck",
+		"x": 0,
+		"y": 221.70250336881628,
+		"root": false
+	},
+	"okx9qlfjb5fbv7rx": {
+		"definition": "less Protection pierce",
+		"x": -128,
+		"y": 295.6033378250884,
+		"root": false
+	},
+	"opo2yxb1nl60fj8y": {
+		"definition": "less Protection pierce",
+		"x": 128,
+		"y": 295.6033378250884,
+		"root": false
+	},
+	"2hh9wvujhf42ss3x": {
+		"definition": "less healing boost",
+		"x": 224,
+		"y": -277.12812921102034,
+		"root": false
+	},
+	"l81t3tt1g8nnbyqk": {
+		"definition": "speed",
+		"x": -224,
+		"y": -277.12812921102034,
+		"root": false
+	},
+	"n6oxvht1pekkkho4": {
+		"definition": "better Arrow damage",
+		"x": 0,
+		"y": 517.3058411939046,
+		"root": false
+	},
+	"bw4pyl0ln8yxz5mu": {
+		"definition": "Armor",
+		"x": 64,
+		"y": 406.4545895094965,
+		"root": false
+	},
+	"cboift9pp7rgjehu": {
+		"definition": "Armor",
+		"x": -64,
+		"y": 406.4545895094965,
+		"root": false
+	},
+	"s5pns1copst8o8z5": {
+		"definition": "Armor",
+		"x": -32,
+		"y": -277.12812921102034,
+		"root": false
+	},
+	"1hxt2ukw747wn67b": {
+		"definition": "Armor",
+		"x": 32,
+		"y": -277.12812921102034,
+		"root": false
+	},
+	"qrqjfhs07raejgdp": {
+		"definition": "Attack damage",
+		"x": -160,
+		"y": 166.27687752661217,
+		"root": false
+	},
+	"goy5k67p87fthh9r": {
+		"definition": "Attack damage",
+		"x": 160,
+		"y": 166.27687752661222,
+		"root": false
+	},
+	"vfnfxpwp7cx60s3u": {
+		"definition": "Attack damage",
+		"x": -256,
+		"y": -73.9008344562721,
+		"root": false
+	},
+	"rc4vn38n8eyi3ndc": {
+		"definition": "Attack damage",
+		"x": 256,
+		"y": -73.9008344562721,
+		"root": false
+	},
+	"neogqkprv3341rkz": {
+		"definition": "morexp",
+		"x": 128,
+		"y": -332.5537550532244,
+		"root": false
+	},
+	"pww12jfjtf1vfc51": {
+		"definition": "morexp",
+		"x": -128,
+		"y": -332.5537550532244,
+		"root": false
+	},
+	"vn236c2t0ido86pq": {
+		"definition": "Luck",
+		"x": -352,
+		"y": 277.1281292110204,
+		"root": false
+	},
+	"sn4d2vrkq6geszmc": {
+		"definition": "Luck",
+		"x": -384,
+		"y": 221.70250336881628,
+		"root": false
+	},
+	"75xver159nxpn3uj": {
+		"definition": "Luck",
+		"x": 384,
+		"y": 221.70250336881628,
+		"root": false
+	},
+	"sk55ug98yfogv5e1": {
+		"definition": "Luck",
+		"x": 352,
+		"y": 277.12812921102034,
+		"root": false
+	},
+	"qee38cvvm91e8s9t": {
+		"definition": "less regeneration",
+		"x": 0,
+		"y": 369.50417228136047,
+		"root": false
+	},
+	"40emk8kw6uug4egt": {
+		"definition": "healing boost",
+		"x": 0,
+		"y": -517.3058411939046,
+		"root": false
+	},
+	"c9xjcchy4i9ejalw": {
+		"definition": "Armor",
+		"x": -64,
+		"y": -591.2066756501767,
+		"root": false
+	},
+	"8gq4n944rx7s35uo": {
+		"definition": "Armor",
+		"x": 64,
+		"y": -591.2066756501767,
+		"root": false
+	},
+	"sxotwh20h7w5jb8g": {
+		"definition": "Vampire",
+		"x": 0,
+		"y": -702.0579273345849,
+		"root": false
+	},
+	"gygu15kbw5tpi9e3": {
+		"definition": "Arrow damage",
+		"x": -128,
+		"y": -702.057927334585,
+		"root": false
+	},
+	"5y7pvek3k713tejt": {
+		"definition": "Arrow damage",
+		"x": 128,
+		"y": -702.057927334585,
+		"root": false
+	},
+	"xjujuri687gdctfu": {
+		"definition": "Attackspeed",
+		"x": -224,
+		"y": -794.433970404925,
+		"root": false
+	},
+	"2jkx9xyd66jlaip3": {
+		"definition": "Attackspeed",
+		"x": 224,
+		"y": -794.433970404925,
+		"root": false
+	},
+	"cz7epojg4bd9ecry": {
+		"definition": "Luck",
+		"x": -64,
+		"y": -739.0083445627209,
+		"root": false
+	},
+	"60iyo1y521cz7qoi": {
+		"definition": "Luck",
+		"x": 64,
+		"y": -739.0083445627209,
+		"root": false
+	},
+	"ml3jhhvviy9msfla": {
+		"definition": "regeneration",
+		"x": 0,
+		"y": -997.6612651596732,
+		"root": false
+	},
+	"dvs5et6vkwvd91ne": {
+		"definition": "less healing boost",
+		"x": -96,
+		"y": -905.2852220893332,
+		"root": false
+	},
+	"ifd1i74jnshg8enw": {
+		"definition": "less healing boost",
+		"x": 96,
+		"y": -905.2852220893332,
+		"root": false
+	},
+	"3zj6b57bbrlg1le9": {
+		"definition": "speed",
+		"x": 0,
+		"y": -849.859596247129,
+		"root": false
+	},
+	"abnlce9ufzz7tfay": {
+		"definition": "less Protection pierce",
+		"x": -128,
+		"y": -812.909179018993,
+		"root": false
+	},
+	"jfs6zeodgbois461": {
+		"definition": "less Protection pierce",
+		"x": 128,
+		"y": -812.909179018993,
+		"root": false
+	},
+	"6s6ny286kr8aac4c": {
+		"definition": "Vampire",
+		"x": 0,
+		"y": -923.7604307034012,
+		"root": false
+	},
+	"eyfs3l2mzasclhru": {
+		"definition": "Root_dodge",
+		"x": -288,
+		"y": 387.97938089542845,
+		"root": false
+	},
+	"7ry3bbaw72qyuo5x": {
+		"definition": "Root_dodge",
+		"x": 288,
+		"y": 387.9793808954285,
+		"root": false
+	},
+	"zq260lhpnh67g0ar": {
+		"definition": "Root_dodge",
+		"x": 0,
+		"y": -628.1570928783128,
+		"root": false
+	},
+	"dfqgjz15p724nc2p": {
+		"definition": "Protection pierce",
+		"x": 0,
+		"y": 702.0579273345849,
+		"root": false
+	},
+	"2489tk8engp41rip": {
+		"definition": "critical_damage",
+		"x": -160,
+		"y": 609.6818842642448,
+		"root": false
+	},
+	"vupt8sgz7zvhpik3": {
+		"definition": "critical_damage",
+		"x": 160,
+		"y": 609.6818842642447,
+		"root": false
+	},
+	"o6cp5dm1u25d6jc0": {
+		"definition": "regeneration",
+		"x": 0,
+		"y": 923.7604307034012,
+		"root": false
+	},
+	"7b2k2tjh3v2qj9mz": {
+		"definition": "speed",
+		"x": -128,
+		"y": 739.0083445627208,
+		"root": false
+	},
+	"3lam5hts9dixehc8": {
+		"definition": "speed",
+		"x": 128,
+		"y": 739.008344562721,
+		"root": false
+	},
+	"qv6lrehqwv3chgef": {
+		"definition": "Attack damage",
+		"x": 0,
+		"y": 849.859596247129,
+		"root": false
+	},
+	"xbm099gtuz46m6q6": {
+		"definition": "morexp",
+		"x": 0,
+		"y": 628.1570928783128,
+		"root": false
+	},
+	"wvj80drx7vv6rbvj": {
+		"definition": "Vampire",
+		"x": 320,
+		"y": -258.6529205969523,
+		"root": false
+	},
+	"67x40o5y7k1k1lun": {
+		"definition": "Vampire",
+		"x": 416,
+		"y": -387.9793808954285,
+		"root": false
+	},
+	"4yjm0lp8lkv9mzqb": {
+		"definition": "Vampire",
+		"x": 480,
+		"y": -351.0289636672925,
+		"root": false
+	},
+	"hjbxrv2u40ybfd6b": {
+		"definition": "Attack damage",
+		"x": 320,
+		"y": -332.55375505322434,
+		"root": false
+	},
+	"lyl8cugu2bwcd294": {
+		"definition": "Attack damage",
+		"x": 416,
+		"y": -277.1281292110203,
+		"root": false
+	},
+	"w6jxdy9iivfrt3nv": {
+		"definition": "less healing boost",
+		"x": 416,
+		"y": -351.02896366729243,
+		"root": false
+	},
+	"6bt2t8g1sf2v1ubj": {
+		"definition": "less regeneration",
+		"x": 512,
+		"y": -406.4545895094965,
+		"root": false
+	},
+	"77p0xyxkmyatzvjx": {
+		"definition": "critical_damage",
+		"x": -448,
+		"y": -369.5041722813604,
+		"root": false
+	},
+	"upucdm53qxp8j70e": {
+		"definition": "Attackspeed",
+		"x": -320,
+		"y": -258.6529205969523,
+		"root": false
+	},
+	"1m6of5ztwasondih": {
+		"definition": "Mid attack speed",
+		"x": -576,
+		"y": -443.40500673763256,
+		"root": false
+	},
+	"hd5wlb36cuoex2mp": {
+		"definition": "Mid Vampire",
+		"x": 640,
+		"y": -480.3554239657686,
+		"root": false
+	},
+	"e1pjsniyxvrglidn": {
+		"definition": "Armor",
+		"x": -384,
+		"y": -258.6529205969523,
+		"root": false
+	},
+	"6nam691sxa6avtsz": {
+		"definition": "Armor",
+		"x": -320,
+		"y": -332.55375505322445,
+		"root": false
+	},
+	"7bhcvgwehvhrhdpj": {
+		"definition": "dodge",
+		"x": -384,
+		"y": -332.55375505322445,
+		"root": false
+	},
+	"s2sd0n6t09rasnek": {
+		"definition": "Arrow damage",
+		"x": 288,
+		"y": 720.5331359486529,
+		"root": false
+	},
+	"nplv8csa7fjtz0ae": {
+		"definition": "Arrow damage",
+		"x": -288,
+		"y": 720.5331359486529,
+		"root": false
+	},
+	"fzgao90641ip0zkr": {
+		"definition": "healing boost",
+		"x": 0,
+		"y": 775.958761790857,
+		"root": false
+	}
+}
