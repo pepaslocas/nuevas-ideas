@@ -7269,6 +7269,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-14 17:47:00 +0000"
+    },
+    "done": true
+  },
   "nova_structures:nether/find_piglins": {
     "criteria": {
       "nova_structures:hamlet": "2025-01-14 17:38:21 +0000"
@@ -7287,6 +7293,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-14 17:47:00 +0000"
+    },
+    "done": true
+  },
   "morevillagers:recipes/decayed_workbench": {
     "criteria": {
       "has_nether_bricks": "2025-01-14 17:07:51 +0000"
@@ -7302,6 +7314,18 @@
   "nethersdelight:recipes/decorations/nether_brick_smoker": {
     "criteria": {
       "has_nether_bricks": "2025-01-14 17:07:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-14 17:47:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-14 17:47:00 +0000"
     },
     "done": true
   },
@@ -7359,6 +7383,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-14 17:47:00 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/blackstone_tile": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-14 17:47:00 +0000"
+    },
+    "done": true
+  },
   "iter_rpg:iter_exorcist": {
     "criteria": {
       "iter_exorcist_0": "2025-01-14 17:08:55 +0000"
@@ -7401,6 +7437,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-14 17:47:00 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-01-14 17:41:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_nether_bricks": "2025-01-14 17:07:51 +0000"
@@ -7410,6 +7458,12 @@
   "minecraft:recipes/building_blocks/nether_brick_slab": {
     "criteria": {
       "has_nether_bricks": "2025-01-14 17:07:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-14 17:47:00 +0000"
     },
     "done": true
   },
@@ -7428,6 +7482,12 @@
   "supplementaries:recipes/sconce_soul": {
     "criteria": {
       "has_iron_nugget": "2025-01-14 17:17:16 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/stonecutting/blackstone_tile": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-14 17:47:00 +0000"
     },
     "done": true
   },

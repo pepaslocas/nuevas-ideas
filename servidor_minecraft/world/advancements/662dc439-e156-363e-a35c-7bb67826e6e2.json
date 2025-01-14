@@ -2106,10 +2106,12 @@
       "woodland": "2025-01-14 04:30:54 +0000",
       "scrubland": "2025-01-13 21:48:51 +0000",
       "fungal_jungle": "2025-01-13 22:26:12 +0000",
+      "erupting_inferno": "2025-01-14 17:48:25 +0000",
       "old_growth_woodland": "2025-01-14 04:31:04 +0000",
       "lavender_forest": "2025-01-13 21:39:25 +0000",
       "mediterranean_forest": "2025-01-13 21:44:11 +0000",
       "spider_nest": "2025-01-14 03:08:28 +0000",
+      "visceral_heap": "2025-01-14 17:43:04 +0000",
       "dune_beach": "2025-01-13 21:38:59 +0000",
       "volcano": "2025-01-13 22:06:12 +0000",
       "rocky_rainforest": "2025-01-13 21:54:55 +0000",
@@ -2137,6 +2139,7 @@
       "minecraft:pillager": "2025-01-13 22:29:57 +0000",
       "minecraft:blaze": "2025-01-14 03:28:30 +0000",
       "minecraft:skeleton": "2025-01-13 21:13:48 +0000",
+      "minecraft:hoglin": "2025-01-14 17:48:55 +0000",
       "minecraft:vindicator": "2025-01-13 22:29:53 +0000",
       "minecraft:magma_cube": "2025-01-14 03:20:43 +0000",
       "minecraft:piglin_brute": "2025-01-13 22:18:41 +0000",
@@ -8603,6 +8606,18 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/soul_vulture": {
+    "criteria": {
+      "killed_by": "2025-01-14 17:41:20 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:nether/find_piglins": {
+    "criteria": {
+      "nova_structures:hamlet": "2025-01-14 17:42:42 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
     "criteria": {
       "has_polished_blackstone": "2025-01-14 17:09:42 +0000"
@@ -8657,6 +8672,12 @@
     },
     "done": true
   },
+  "nethersdelight:recipes/food/hoglin_sirloin": {
+    "criteria": {
+      "hoglin_sirloin": "2025-01-14 17:48:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-01-14 17:09:42 +0000"
@@ -8687,6 +8708,12 @@
     },
     "done": true
   },
+  "apotheosis:spawner/root": {
+    "criteria": {
+      "spawner": "2025-01-14 17:40:11 +0000"
+    },
+    "done": true
+  },
   "another_furniture:recipes/service_bell": {
     "criteria": {
       "has_nugget": "2025-01-14 17:19:15 +0000"
@@ -8714,6 +8741,12 @@
   "supplementaries:recipes/blackstone_tile": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-01-14 17:09:46 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/food/hoglin_sirloin_from_campfire_cooking": {
+    "criteria": {
+      "hoglin_sirloin": "2025-01-14 17:48:55 +0000"
     },
     "done": true
   },
@@ -8759,9 +8792,21 @@
     },
     "done": true
   },
+  "nova_structures:nether/find_hamlet": {
+    "criteria": {
+      "nova_structures:hamlet": "2025-01-14 17:42:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-01-14 17:09:46 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/food/hoglin_sirloin_from_smoking": {
+    "criteria": {
+      "hoglin_sirloin": "2025-01-14 17:48:55 +0000"
     },
     "done": true
   },
