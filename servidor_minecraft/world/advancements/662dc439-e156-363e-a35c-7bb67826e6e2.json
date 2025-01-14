@@ -2108,6 +2108,7 @@
       "fungal_jungle": "2025-01-13 22:26:12 +0000",
       "erupting_inferno": "2025-01-14 17:48:25 +0000",
       "old_growth_woodland": "2025-01-14 04:31:04 +0000",
+      "field": "2025-01-14 18:12:50 +0000",
       "lavender_forest": "2025-01-13 21:39:25 +0000",
       "mediterranean_forest": "2025-01-13 21:44:11 +0000",
       "spider_nest": "2025-01-14 03:08:28 +0000",
@@ -8619,6 +8620,12 @@
     },
     "done": true
   },
+  "illusion_onslaught:mysterious_people": {
+    "criteria": {
+      "mysterious_people": "2025-01-14 18:17:12 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/polished_cut_tuff_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-01-14 18:07:55 +0000"
@@ -8727,6 +8734,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2025-01-14 18:18:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2025-01-14 17:19:15 +0000"
@@ -8799,6 +8812,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
+    "criteria": {
+      "has_lily_of_the_valley": "2025-01-14 18:18:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-01-14 17:09:42 +0000"
@@ -8844,6 +8863,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-01-14 17:09:42 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/globe": {
+    "criteria": {
+      "unlock": "2025-01-14 18:15:13 +0000"
     },
     "done": true
   },
@@ -8898,6 +8923,12 @@
   "create:recipes/building_blocks/tuff_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-01-14 18:07:55 +0000"
+    },
+    "done": true
+  },
+  "illusion_onslaught:from_antique_times": {
+    "criteria": {
+      "from_antique_times": "2025-01-14 18:17:24 +0000"
     },
     "done": true
   },
@@ -8985,6 +9016,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/globe_sepia": {
+    "criteria": {
+      "has_globe": "2025-01-14 18:15:00 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/layered_tuff_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2025-01-14 18:07:55 +0000"
@@ -8994,6 +9031,12 @@
   "nethersdelight:recipes/food/hoglin_sirloin_from_smoking": {
     "criteria": {
       "hoglin_sirloin": "2025-01-14 17:48:55 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-01-14 18:15:55 +0000"
     },
     "done": true
   },
