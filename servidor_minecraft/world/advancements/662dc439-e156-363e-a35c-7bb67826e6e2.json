@@ -2141,6 +2141,7 @@
       "minecraft:magma_cube": "2025-01-14 03:20:43 +0000",
       "minecraft:piglin_brute": "2025-01-13 22:18:41 +0000",
       "minecraft:spider": "2025-01-13 22:02:40 +0000",
+      "minecraft:creeper": "2025-01-14 04:38:21 +0000",
       "minecraft:phantom": "2025-01-13 22:34:57 +0000",
       "minecraft:zombified_piglin": "2025-01-13 22:18:14 +0000",
       "minecraft:witch": "2025-01-14 03:18:37 +0000",
@@ -8107,7 +8108,8 @@
   },
   "morevillagers:all_workstations_get": {
     "criteria": {
-      "smithingtable": "2025-01-14 03:55:54 +0000"
+      "smithingtable": "2025-01-14 03:55:54 +0000",
+      "blastfurnace": "2025-01-14 04:34:32 +0000"
     },
     "done": false
   },
@@ -8231,9 +8233,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-01-14 04:31:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2025-01-14 04:27:56 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/combat/quiver": {
+    "criteria": {
+      "has_leather": "2025-01-14 04:31:20 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:big_boy": {
+    "criteria": {
+      "big_boy_0": "2025-01-14 04:38:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-01-14 04:31:20 +0000"
     },
     "done": true
   },
@@ -8243,9 +8269,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-01-14 04:31:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2025-01-14 04:27:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_meatballs": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-14 04:31:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-01-14 04:31:20 +0000"
     },
     "done": true
   },
@@ -8255,9 +8299,45 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2025-01-14 04:31:20 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/green_dye_from_lily_pad": {
     "criteria": {
       "has_lily_pad": "2025-01-14 04:30:52 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/backpack": {
+    "criteria": {
+      "has_leather": "2025-01-14 04:31:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-01-14 04:31:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-01-14 04:31:20 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/explorers_tent": {
+    "criteria": {
+      "has_leather": "2025-01-14 04:31:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-01-14 04:31:19 +0000"
     },
     "done": true
   },
@@ -8273,9 +8353,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-01-14 04:31:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_chicken": "2025-01-14 04:27:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-01-14 04:31:19 +0000"
     },
     "done": true
   },
