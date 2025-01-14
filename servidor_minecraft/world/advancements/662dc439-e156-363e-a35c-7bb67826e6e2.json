@@ -3741,10 +3741,12 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-01-14 17:26:24 +0000",
       "cooked_beef": "2025-01-14 17:11:59 +0000",
       "apple": "2025-01-14 04:01:04 +0000",
       "bread": "2025-01-13 21:32:46 +0000",
       "golden_apple": "2025-01-14 02:09:35 +0000",
+      "melon_slice": "2025-01-14 17:23:09 +0000",
       "golden_carrot": "2025-01-14 04:59:54 +0000",
       "cod": "2025-01-14 02:21:22 +0000"
     },
@@ -8697,6 +8699,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-01-14 17:20:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-01-14 17:09:46 +0000"
@@ -8706,6 +8714,12 @@
   "supplementaries:recipes/blackstone_tile": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-01-14 17:09:46 +0000"
+    },
+    "done": true
+  },
+  "iter_rpg:iter_exorcist": {
+    "criteria": {
+      "iter_exorcist_0": "2025-01-14 17:26:46 +0000"
     },
     "done": true
   },

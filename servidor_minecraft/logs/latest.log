@@ -3169,3 +3169,5 @@ java.lang.NullPointerException: Element not found: amount
 [14Jan2025 17:21:46.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported PavoLoco to denercraft]
 [14Jan2025 17:22:43.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco is bleeding. PavoLoco burned to death
 [14Jan2025 17:22:54.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported denercraft to PavoLoco]
+[14Jan2025 17:24:08.107] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
+[14Jan2025 17:26:46.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco has made the advancement [Exorcist]

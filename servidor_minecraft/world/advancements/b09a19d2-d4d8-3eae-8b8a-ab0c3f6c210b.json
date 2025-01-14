@@ -2113,6 +2113,7 @@
       "minecraft:witch": "2025-01-14 03:18:15 +0000",
       "minecraft:wither_skeleton": "2025-01-14 03:23:01 +0000",
       "minecraft:cave_spider": "2025-01-14 02:18:12 +0000",
+      "quark:wraith": "2025-01-14 17:25:32 +0000",
       "minecraft:piglin": "2025-01-14 04:52:18 +0000",
       "minecraft:zombie": "2025-01-13 21:13:35 +0000",
       "quark:foxhound": "2025-01-14 04:58:09 +0000"
@@ -3779,6 +3780,7 @@
       "woodland": "2025-01-14 03:30:23 +0000",
       "scrubland": "2025-01-13 21:48:53 +0000",
       "fungal_jungle": "2025-01-13 22:26:12 +0000",
+      "erupting_inferno": "2025-01-14 17:28:46 +0000",
       "old_growth_woodland": "2025-01-14 04:31:04 +0000",
       "crystalline_chasm": "2025-01-14 04:54:37 +0000",
       "lavender_forest": "2025-01-13 21:39:11 +0000",
@@ -7211,7 +7213,8 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-01-14 17:09:06 +0000",
       "minecraft:nether_wastes": "2025-01-14 04:51:57 +0000",
-      "minecraft:soul_sand_valley": "2025-01-14 04:54:19 +0000"
+      "minecraft:soul_sand_valley": "2025-01-14 04:54:19 +0000",
+      "minecraft:basalt_deltas": "2025-01-14 17:28:44 +0000"
     },
     "done": false
   },
@@ -7290,6 +7293,12 @@
   "alltheores:recipes/misc/lead_ingot_from_raw_blasting": {
     "criteria": {
       "has_item": "2025-01-14 17:12:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-01-14 17:22:18 +0000"
     },
     "done": true
   },
