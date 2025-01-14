@@ -2104,6 +2104,7 @@
       "minecraft:piglin_brute": "2025-01-13 22:38:24 +0000",
       "minecraft:creeper": "2025-01-13 22:38:04 +0000",
       "minecraft:phantom": "2025-01-13 22:38:22 +0000",
+      "minecraft:cave_spider": "2025-01-14 02:18:12 +0000",
       "minecraft:zombie": "2025-01-13 21:13:35 +0000"
     },
     "done": false
@@ -2662,7 +2663,8 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
-      "in_better_monster_room": "2025-01-13 21:22:18 +0000"
+      "in_better_monster_room": "2025-01-13 21:22:18 +0000",
+      "in_better_spider_dungeon": "2025-01-14 02:17:19 +0000"
     },
     "done": false
   },
@@ -3765,6 +3767,7 @@
       "fungal_jungle": "2025-01-13 22:26:12 +0000",
       "lavender_forest": "2025-01-13 21:39:11 +0000",
       "mediterranean_forest": "2025-01-13 21:47:42 +0000",
+      "spider_nest": "2025-01-14 02:15:37 +0000",
       "dune_beach": "2025-01-13 21:38:59 +0000",
       "rocky_rainforest": "2025-01-13 21:56:28 +0000",
       "volcanic_plains": "2025-01-13 21:53:17 +0000",
@@ -5507,6 +5510,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-01-14 02:20:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-01-14 02:20:51 +0000"
+    },
+    "done": true
+  },
   "skilltree:recipes/misc/simple_necklace": {
     "criteria": {
       "has_nuggets_gold": "2025-01-14 02:08:02 +0000"
@@ -5519,15 +5534,75 @@
     },
     "done": true
   },
+  "undead_revamp2:nowyouknow": {
+    "criteria": {
+      "nowyouknow_0": "2025-01-14 02:13:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-01-14 02:20:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-01-14 02:08:06 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-01-14 02:15:17 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:recipes/misc/bandage": {
+    "criteria": {
+      "has_string": "2025-01-14 02:20:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
       "has_gold_nugget": "2025-01-14 02:08:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/combat/crafting/appliances/netherite_backtank_from_netherite": {
+    "criteria": {
+      "has_item": "2025-01-14 02:19:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-01-14 02:15:17 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:mommy": {
+    "criteria": {
+      "mommy_0": "2025-01-14 02:14:44 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sack": {
+    "criteria": {
+      "has_string": "2025-01-14 02:20:51 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:the_wind_darkening": {
+    "criteria": {
+      "the_wind_darkening_0": "2025-01-14 02:13:57 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:defeatundeadbosses": {
+    "criteria": {
+      "defeatundeadbosses_0": "2025-01-14 02:14:44 +0000"
     },
     "done": true
   },
@@ -5543,9 +5618,45 @@
     },
     "done": true
   },
+  "undead_revamp2:sugarcoat": {
+    "criteria": {
+      "sugarcoat_0": "2025-01-14 02:14:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-01-14 02:20:51 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/key": {
     "criteria": {
       "has_gold_nugget": "2025-01-14 02:08:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-01-14 02:20:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-01-14 02:15:17 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-01-14 02:17:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-01-14 02:20:51 +0000"
     },
     "done": true
   },
