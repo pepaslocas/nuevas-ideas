@@ -2117,7 +2117,8 @@
       "quark:wraith": "2025-01-14 17:25:32 +0000",
       "minecraft:piglin": "2025-01-14 04:52:18 +0000",
       "minecraft:zombie": "2025-01-13 21:13:35 +0000",
-      "quark:foxhound": "2025-01-14 04:58:09 +0000"
+      "quark:foxhound": "2025-01-14 04:58:09 +0000",
+      "minecraft:zombie_villager": "2025-01-14 18:05:07 +0000"
     },
     "done": false
   },
@@ -7275,6 +7276,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-01-14 17:58:30 +0000"
+    },
+    "done": true
+  },
   "nova_structures:nether/find_piglins": {
     "criteria": {
       "nova_structures:hamlet": "2025-01-14 17:38:21 +0000"
@@ -7323,6 +7330,12 @@
     },
     "done": true
   },
+  "awesomedungeonnether:nth_blaze_tower/find_normal": {
+    "criteria": {
+      "requirement": "2025-01-14 17:53:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-01-14 17:47:00 +0000"
@@ -7344,6 +7357,12 @@
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2025-01-14 17:17:16 +0000"
+    },
+    "done": true
+  },
+  "awesomedungeonnether:root": {
+    "criteria": {
+      "awesomedungeonnether:nth_blaze_tower": "2025-01-14 17:53:41 +0000"
     },
     "done": true
   },
@@ -7392,6 +7411,12 @@
   "supplementaries:recipes/blackstone_tile": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-01-14 17:47:00 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/ash_brick": {
+    "criteria": {
+      "forge:ash": "2025-01-14 17:53:56 +0000"
     },
     "done": true
   },
@@ -7482,6 +7507,12 @@
   "supplementaries:recipes/sconce_soul": {
     "criteria": {
       "has_iron_nugget": "2025-01-14 17:17:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2025-01-14 18:04:38 +0000"
     },
     "done": true
   },

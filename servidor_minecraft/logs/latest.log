@@ -3286,3 +3286,115 @@ java.lang.NullPointerException: Element not found: amount
 [14Jan2025 17:53:55.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco has completed the challenge [Find: Blaze tower]
 [14Jan2025 17:54:14.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported denercraft to PavoLoco]
 [14Jan2025 17:54:24.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported denercraft to PavoLoco]
+[14Jan2025 17:54:28.512] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1230, y=60, z=-1330} BlockPos{x=-1231, y=60, z=-1330}
+[14Jan2025 17:54:28.568] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1230, y=60, z=-1330} BlockPos{x=-1231, y=60, z=-1330}
+[14Jan2025 17:54:28.604] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1230, y=60, z=-1330} BlockPos{x=-1231, y=60, z=-1330}
+[14Jan2025 17:54:28.658] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1230, y=60, z=-1330} BlockPos{x=-1231, y=60, z=-1330}
+[14Jan2025 17:54:36.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported denercraft to PavoLoco]
+[14Jan2025 17:55:22.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco is bleeding. PavoLoco was fireballed by Blaze
+[14Jan2025 17:55:34.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco is bleeding. PavoLoco burned to death
+[14Jan2025 17:56:01.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported denercraft to PavoLoco]
+[14Jan2025 17:56:07.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft is bleeding. denercraft was fireballed by Blaze
+[14Jan2025 17:56:15.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft was fireballed by Blaze
+[14Jan2025 17:56:21.333] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported denercraft to PavoLoco]
+[14Jan2025 17:56:29.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco was burnt to a crisp whilst fighting Blaze
+[14Jan2025 17:56:31.049] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/BeehiveBlockEntity$BeeReleaseStatus
+[14Jan2025 17:56:45.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PavoLoco: Teleported PavoLoco to denercraft]
+[14Jan2025 17:58:30.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft has made the advancement [Not Today, Thank You]
+[14Jan2025 18:00:19.078] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1234, y=110, z=-1328} BlockPos{x=-1234, y=111, z=-1327}
+[14Jan2025 18:00:19.127] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1234, y=110, z=-1328} BlockPos{x=-1234, y=111, z=-1327}
+[14Jan2025 18:00:44.734] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported denercraft to PavoLoco]
+[14Jan2025 18:02:22.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco is bleeding. PavoLoco burned to death
+[14Jan2025 18:02:28.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported PavoLoco to denercraft]
+[14Jan2025 18:02:46.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco is bleeding. PavoLoco was slain by Giddy Blaze
+[14Jan2025 18:02:51.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported PavoLoco to denercraft]
+[14Jan2025 18:03:01.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco is bleeding. PavoLoco withered away
+[14Jan2025 18:03:20.780] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1135, y=90, z=-1314} BlockPos{x=-1135, y=90, z=-1313}
+[14Jan2025 18:03:20.849] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1135, y=90, z=-1314} BlockPos{x=-1135, y=90, z=-1313}
+[14Jan2025 18:03:20.899] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1137, y=92, z=-1312} BlockPos{x=-1135, y=90, z=-1313}
+[14Jan2025 18:03:20.934] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1137, y=92, z=-1312} BlockPos{x=-1135, y=90, z=-1313}
+[14Jan2025 18:03:21.003] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1137, y=92, z=-1312} BlockPos{x=-1135, y=90, z=-1313}
+[14Jan2025 18:03:21.033] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1137, y=92, z=-1312} BlockPos{x=-1135, y=90, z=-1313}
+[14Jan2025 18:03:21.074] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1137, y=92, z=-1312} BlockPos{x=-1135, y=90, z=-1313}
+[14Jan2025 18:03:21.150] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1137, y=92, z=-1312} BlockPos{x=-1135, y=90, z=-1313}
+[14Jan2025 18:03:21.181] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1137, y=92, z=-1312} BlockPos{x=-1135, y=90, z=-1313}
+[14Jan2025 18:03:21.233] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1137, y=92, z=-1312} BlockPos{x=-1135, y=90, z=-1313}
+[14Jan2025 18:03:21.274] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1137, y=92, z=-1312} BlockPos{x=-1135, y=90, z=-1313}
+[14Jan2025 18:03:21.347] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1137, y=92, z=-1312} BlockPos{x=-1135, y=90, z=-1313}
+[14Jan2025 18:03:21.377] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1137, y=92, z=-1312} BlockPos{x=-1135, y=90, z=-1313}
+[14Jan2025 18:03:21.447] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1137, y=92, z=-1312} BlockPos{x=-1135, y=90, z=-1313}
+[14Jan2025 18:03:21.482] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1137, y=92, z=-1312} BlockPos{x=-1135, y=90, z=-1313}
+[14Jan2025 18:03:21.530] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1137, y=92, z=-1312} BlockPos{x=-1135, y=90, z=-1313}
+[14Jan2025 18:03:21.580] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1137, y=92, z=-1312} BlockPos{x=-1135, y=90, z=-1313}
+[14Jan2025 18:03:21.648] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1137, y=92, z=-1312} BlockPos{x=-1135, y=90, z=-1313}
+[14Jan2025 18:03:21.699] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1137, y=92, z=-1312} BlockPos{x=-1135, y=90, z=-1313}
+[14Jan2025 18:03:21.753] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1137, y=92, z=-1312} BlockPos{x=-1135, y=90, z=-1313}
+[14Jan2025 18:03:21.779] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1137, y=92, z=-1312} BlockPos{x=-1135, y=90, z=-1313}
+[14Jan2025 18:03:21.847] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1137, y=92, z=-1312} BlockPos{x=-1135, y=90, z=-1313}
+[14Jan2025 18:03:21.876] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1137, y=92, z=-1312} BlockPos{x=-1135, y=90, z=-1313}
+[14Jan2025 18:03:21.930] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1137, y=92, z=-1312} BlockPos{x=-1135, y=90, z=-1313}
+[14Jan2025 18:03:21.975] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1137, y=92, z=-1312} BlockPos{x=-1135, y=90, z=-1313}
+[14Jan2025 18:03:22.033] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1137, y=92, z=-1312} BlockPos{x=-1135, y=90, z=-1313}
+[14Jan2025 18:03:38.270] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/settings/main/Context
+[14Jan2025 18:04:05.502] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[14Jan2025 18:04:06.266] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/trains/track/TrackTargetingBehaviour$RenderedTrackOverlayType
+[14Jan2025 18:04:15.209] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[14Jan2025 18:04:15.209] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[14Jan2025 18:04:15.209] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[14Jan2025 18:04:18.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco has completed the challenge [Subspace Bubble]
+[14Jan2025 18:04:31.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PavoLoco: Set own game mode to Creative Mode]
+[14Jan2025 18:04:31.550] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 26016ms or 520 ticks behind
+[14Jan2025 18:04:38.414] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[14Jan2025 18:04:38.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft has completed the challenge [Subspace Bubble]
+[14Jan2025 18:04:58.238] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[14Jan2025 18:04:58.239] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[14Jan2025 18:04:58.239] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
+[14Jan2025 18:05:14.830] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[14Jan2025 18:05:29.960] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_2_pool
+[14Jan2025 18:05:29.960] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_4_pool
+[14Jan2025 18:05:29.964] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[14Jan2025 18:05:29.964] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[14Jan2025 18:05:29.965] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[14Jan2025 18:05:29.965] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[14Jan2025 18:05:29.965] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[14Jan2025 18:05:29.965] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[14Jan2025 18:05:30.007] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_1_pool
+[14Jan2025 18:05:30.007] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_4_pool
+[14Jan2025 18:05:30.007] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[14Jan2025 18:05:30.008] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_2_pool
+[14Jan2025 18:05:30.008] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[14Jan2025 18:05:30.008] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[14Jan2025 18:05:30.452] [Worker-Main-3/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:2.828427f,range:8,source:{pos:[I;-340,-59,12],type:"minecraft:block"}}]
+[14Jan2025 18:05:30.452] [Worker-Main-3/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-338,-59,10],type:"minecraft:block"}}]
+[14Jan2025 18:05:30.452] [Worker-Main-3/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:2.828427f,range:8,source:{pos:[I;-336,-59,8],type:"minecraft:block"}}]
+[14Jan2025 18:05:30.542] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/common/block/tiles/PedestalBlockTile$DisplayType
+[14Jan2025 18:05:31.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PavoLoco: Set own game mode to Survival Mode]
+[14Jan2025 18:05:34.701] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/RangedCrossbowAttackGoal$CrossbowState
+[14Jan2025 18:05:35.591] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[14Jan2025 18:05:39.948] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/faboslav/friendsandfoes/entity/animation/Transformation$Type
+[14Jan2025 18:05:53.181] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[14Jan2025 18:05:53.181] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[14Jan2025 18:06:35.454] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco has reached the goal [Exorcism]
+[14Jan2025 18:06:37.296] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[14Jan2025 18:06:37.297] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[14Jan2025 18:06:37.298] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
+[14Jan2025 18:06:37.298] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
+[14Jan2025 18:07:00.359] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/moonlight/api/util/PotionNBTHelper$Type
+[14Jan2025 18:07:01.566] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/fluids/FluidTransportBehaviour$UpdatePhase
+[14Jan2025 18:07:04.458] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting insane96mcp/enhancedai/modules/mobs/fisher/FishingHook$FishHookState
+[14Jan2025 18:07:05.151] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/redstone/link/LinkBehaviour$Mode
+[14Jan2025 18:07:05.231] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/client/GlobeManager$Model
+[14Jan2025 18:07:05.453] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting insane96mcp/enhancedai/modules/illager/shoot/EAPillagerAttackGoal$CrossbowState
+[14Jan2025 18:07:06.378] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-9340, y=-21, z=-10424} but found not block entity block Block{minecraft:air} at location
+[14Jan2025 18:07:06.379] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-9340, y=-21, z=-10424}
+[14Jan2025 18:07:13.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Set spawn point to -9161, 63, -10514 [0.0] in minecraft:overworld for denercraft]
+[14Jan2025 18:07:16.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported denercraft to PavoLoco]
+[14Jan2025 18:07:34.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco has completed the challenge [Unfunny dad jokes]
+[14Jan2025 18:07:34.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco has made the advancement [First big catch of the month!]
+[14Jan2025 18:08:30.145] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: denercraft lost connection: Disconnected
+[14Jan2025 18:08:30.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft left the game
+[14Jan2025 18:08:30.148] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client denercraft
+[14Jan2025 18:09:20.294] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
+[14Jan2025 18:11:54.222] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PavoLoco: Set own game mode to Spectator Mode]
+[14Jan2025 18:12:06.484] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-9026, y=9, z=-10241}
+[14Jan2025 18:12:11.722] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PavoLoco: Set own game mode to Survival Mode]
