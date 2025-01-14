@@ -7228,6 +7228,12 @@
     },
     "done": true
   },
+  "storagedrawers:recipes/storagedrawers/dark_oak_drawers": {
+    "criteria": {
+      "has_chest": "2025-01-14 02:55:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2025-01-14 02:17:26 +0000"
@@ -7249,6 +7255,12 @@
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2025-01-14 02:45:56 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/warped_drawers": {
+    "criteria": {
+      "has_chest": "2025-01-14 02:55:07 +0000"
     },
     "done": true
   },
@@ -7303,6 +7315,18 @@
   "valhelsia_furniture:recipes/decorations/blue_jungle_table": {
     "criteria": {
       "has_blue_carpet": "2025-01-14 02:09:52 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/jungle_drawers": {
+    "criteria": {
+      "has_chest": "2025-01-14 02:55:07 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/crimson_drawers": {
+    "criteria": {
+      "has_chest": "2025-01-14 02:55:07 +0000"
     },
     "done": true
   },
@@ -7384,6 +7408,12 @@
     },
     "done": true
   },
+  "storagedrawers:recipes/storagedrawers/acacia_drawers": {
+    "criteria": {
+      "has_chest": "2025-01-14 02:55:07 +0000"
+    },
+    "done": true
+  },
   "oceansdelight:recipes/oceansdelight/stuffed_cod": {
     "criteria": {
       "has_cod": "2025-01-14 02:21:15 +0000"
@@ -7435,6 +7465,12 @@
   "valhelsia_furniture:recipes/decorations/blue_dark_oak_table": {
     "criteria": {
       "has_blue_carpet": "2025-01-14 02:09:52 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/oak_drawers": {
+    "criteria": {
+      "has_chest": "2025-01-14 02:55:07 +0000"
     },
     "done": true
   },
@@ -7495,6 +7531,18 @@
   "alexsmobs:alexsmobs/maraca": {
     "criteria": {
       "maraca": "2025-01-14 02:50:09 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/birch_drawers": {
+    "criteria": {
+      "has_chest": "2025-01-14 02:55:07 +0000"
+    },
+    "done": true
+  },
+  "storagedrawers:recipes/storagedrawers/spruce_drawers": {
+    "criteria": {
+      "has_chest": "2025-01-14 02:55:07 +0000"
     },
     "done": true
   },
