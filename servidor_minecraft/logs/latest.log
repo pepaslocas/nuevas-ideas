@@ -3454,3 +3454,28 @@ java.lang.NullPointerException: Element not found: amount
 [14Jan2025 03:02:11.589] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/16797, l='ServerLevel[world]', x=45.86, y=26.00, z=-2672.47] died: Debris Miner was slain by denercraft using [Master Sword]
 [14Jan2025 03:04:19.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Set own game mode to Creative Mode]
 [14Jan2025 03:05:02.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Set own game mode to Survival Mode]
+[14Jan2025 03:06:13.868] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[14Jan2025 03:06:13.869] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[14Jan2025 03:06:55.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Set own game mode to Creative Mode]
+[14Jan2025 03:06:59.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Set own game mode to Survival Mode]
+[14Jan2025 03:09:05.689] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/20377, l='ServerLevel[world]', x=31.64, y=-6.86, z=-2705.14] died: Foundry Guardian was slain by denercraft using [Master Sword]
+[14Jan2025 03:09:13.381] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/Phantom$AttackPhase
+[14Jan2025 03:09:37.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco is bleeding. PavoLoco was slain by Magma Cube
+[14Jan2025 03:09:47.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco tried to swim in lava
+[14Jan2025 03:10:09.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft is bleeding. denercraft was slain by Magma Cube
+[14Jan2025 03:10:14.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft tried to swim in lava to escape Magma Cube
+[14Jan2025 03:10:24.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported denercraft to -39.500000, -8.500000, -2777.500000]
+[14Jan2025 03:10:29.225] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
+[14Jan2025 03:11:01.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported PavoLoco to denercraft]
+[14Jan2025 03:11:21.903] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/trains/track/TrackTargetingBehaviour$RenderedTrackOverlayType
+[14Jan2025 03:11:53.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco is bleeding. PavoLoco was burnt to a crisp whilst fighting Forge Sentry
+[14Jan2025 03:11:59.286] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/22218, l='ServerLevel[world]', x=-2.69, y=-8.00, z=-2804.51] died: Debris Miner was slain by denercraft using [Master Sword]
+[14Jan2025 03:12:01.891] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/22219, l='ServerLevel[world]', x=-2.69, y=-8.00, z=-2804.12] died: Debris Miner was slain by denercraft using [Master Sword]
+[14Jan2025 03:12:05.791] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/22217, l='ServerLevel[world]', x=-2.22, y=-8.00, z=-2804.47] died: Debris Miner was slain by denercraft using [Master Sword]
+[14Jan2025 03:12:13.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft has made the advancement [Hidden in the Depths]
+[14Jan2025 03:12:19.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco burned to death
+[14Jan2025 03:12:26.579] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/22231, l='ServerLevel[world]', x=-4.36, y=-6.58, z=-2804.78] died: Foundry Guardian was slain by denercraft using [Master Sword]
+[14Jan2025 03:12:46.192] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/22733, l='ServerLevel[world]', x=2.51, y=-6.25, z=-2815.21] died: Foundry Guardian was slain
+[14Jan2025 03:12:53.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft is bleeding. denercraft was burnt to a crisp whilst fighting Foundry Guardian
+[14Jan2025 03:13:00.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft burned to death
+[14Jan2025 03:13:07.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported denercraft to 1.500000, -7.500000, -2790.500000]
