@@ -3171,3 +3171,41 @@ java.lang.NullPointerException: Element not found: amount
 [14Jan2025 17:22:54.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported denercraft to PavoLoco]
 [14Jan2025 17:24:08.107] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
 [14Jan2025 17:26:46.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco has made the advancement [Exorcist]
+[14Jan2025 17:35:09.260] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-344, y=71, z=-677} BlockPos{x=-588, y=55, z=-728}
+[14Jan2025 17:35:09.306] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-344, y=71, z=-677} BlockPos{x=-588, y=55, z=-728}
+[14Jan2025 17:35:09.455] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-344, y=71, z=-677} BlockPos{x=-588, y=55, z=-728}
+[14Jan2025 17:35:24.273] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=148, y=61, z=-784} BlockPos{x=149, y=61, z=-784}
+[14Jan2025 17:35:24.318] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=148, y=61, z=-784} BlockPos{x=149, y=61, z=-784}
+[14Jan2025 17:35:24.367] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=148, y=61, z=-784} BlockPos{x=149, y=61, z=-784}
+[14Jan2025 17:35:24.425] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=148, y=61, z=-784} BlockPos{x=149, y=61, z=-784}
+[14Jan2025 17:35:24.473] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=148, y=61, z=-784} BlockPos{x=149, y=61, z=-784}
+[14Jan2025 17:35:24.524] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=148, y=61, z=-784} BlockPos{x=149, y=61, z=-784}
+[14Jan2025 17:35:34.810] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-643, y=69, z=-728} BlockPos{x=-641, y=68, z=-728}
+[14Jan2025 17:35:41.258] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-652, y=71, z=-725} BlockPos{x=-652, y=70, z=-725}
+[14Jan2025 17:37:19.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco has made the advancement [War Pigs]
+[14Jan2025 17:37:42.993] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-998, y=44, z=-786} BlockPos{x=-999, y=44, z=-786}
+[14Jan2025 17:37:43.861] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1002, y=44, z=-786} BlockPos{x=-1000, y=45, z=-786}
+[14Jan2025 17:37:43.910] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1002, y=44, z=-786} BlockPos{x=-1000, y=45, z=-786}
+[14Jan2025 17:37:43.962] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1002, y=44, z=-786} BlockPos{x=-1000, y=45, z=-786}
+[14Jan2025 17:37:44.012] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1002, y=44, z=-786} BlockPos{x=-1000, y=45, z=-786}
+[14Jan2025 17:37:44.064] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1002, y=44, z=-786} BlockPos{x=-1000, y=45, z=-786}
+[14Jan2025 17:37:44.111] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1002, y=44, z=-786} BlockPos{x=-1000, y=45, z=-786}
+[14Jan2025 17:37:44.160] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1002, y=44, z=-786} BlockPos{x=-1000, y=45, z=-786}
+[14Jan2025 17:37:44.210] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1002, y=44, z=-786} BlockPos{x=-1000, y=45, z=-786}
+[14Jan2025 17:37:44.259] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1002, y=44, z=-786} BlockPos{x=-1000, y=45, z=-786}
+[14Jan2025 17:37:48.859] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1036, y=44, z=-785} BlockPos{x=-1037, y=43, z=-786}
+[14Jan2025 17:37:48.963] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1036, y=44, z=-785} BlockPos{x=-1037, y=44, z=-786}
+[14Jan2025 17:37:49.112] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1037, y=44, z=-786} BlockPos{x=-1038, y=43, z=-786}
+[14Jan2025 17:37:49.163] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1037, y=44, z=-786} BlockPos{x=-1038, y=43, z=-786}
+[14Jan2025 17:38:21.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft has made the advancement [The Learned Piglins]
+[14Jan2025 17:39:14.572] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=81, y=96, z=-883} BlockPos{x=80, y=96, z=-883}
+[14Jan2025 17:39:14.619] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=81, y=96, z=-883} BlockPos{x=80, y=96, z=-883}
+[14Jan2025 17:39:14.673] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=81, y=96, z=-883} BlockPos{x=80, y=96, z=-883}
+[14Jan2025 17:40:11.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco has made the advancement [Apothic Spawners]
+[14Jan2025 17:41:16.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft has made the advancement [Nightmare Fuel]
+[14Jan2025 17:41:20.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco has made the advancement [Fetch Me Their Souls!]
+[14Jan2025 17:42:32.706] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco is bleeding. PavoLoco was slain by Zombified Piglin
+[14Jan2025 17:42:41.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported PavoLoco to denercraft]
+[14Jan2025 17:42:42.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco has made the advancement [The Learned Piglins]
+[14Jan2025 17:43:34.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Set own game mode to Spectator Mode]
+[14Jan2025 17:43:41.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Set own game mode to Survival Mode]

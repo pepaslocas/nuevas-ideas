@@ -8735,6 +8735,12 @@
     },
     "done": true
   },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_bridge": "2025-01-14 17:37:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/warped_planks": {
     "criteria": {
       "has_logs": "2025-01-14 17:12:10 +0000"
