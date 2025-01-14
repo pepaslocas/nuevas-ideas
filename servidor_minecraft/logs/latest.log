@@ -3165,3 +3165,56 @@ java.lang.NullPointerException: Element not found: amount
 [14Jan2025 22:50:32.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco has completed the challenge [Cover Me in Debris]
 [14Jan2025 22:50:52.557] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ClientboundSetPlayerTeamPacket$Action
 [14Jan2025 22:51:21.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft has made the advancement [You Spin Me Right Round Baby]
+[14Jan2025 22:56:32.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported PavoLoco to denercraft]
+[14Jan2025 22:56:34.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported PavoLoco to denercraft]
+[14Jan2025 22:56:45.413] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[14Jan2025 22:56:45.413] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[14Jan2025 22:56:49.997] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[14Jan2025 22:56:50.160] [Worker-Main-3/INFO] [ModernFix/]: Instantiating Mojang DFU
+[14Jan2025 22:57:15.599] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[14Jan2025 22:57:15.601] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_end_1_pool
+[14Jan2025 22:57:16.487] [Worker-Main-1/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-547,-50,-107],type:"minecraft:block"}}]
+[14Jan2025 22:57:17.300] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2904ms or 58 ticks behind
+[14Jan2025 22:57:18.076] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/kinetics/base/IRotate$StressImpact
+[14Jan2025 22:57:21.607] [Worker-Main-1/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:6.4031243f,range:8,source:{pos:[I;-548,-50,-106],type:"minecraft:block"}}]
+[14Jan2025 22:57:22.209] [Worker-Main-2/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:4.472136f,range:8,source:{pos:[I;-561,-50,-112],type:"minecraft:block"}}]
+[14Jan2025 22:57:22.210] [Worker-Main-2/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:6.0f,range:8,source:{pos:[I;-553,-50,-122],type:"minecraft:block"}}]
+[14Jan2025 22:57:23.340] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-9411, y=17, z=-10376} but found not block entity block Block{minecraft:air} at location
+[14Jan2025 22:57:23.340] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-9411, y=17, z=-10376}
+[14Jan2025 22:57:23.340] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-9414, y=22, z=-10376} but found not block entity block Block{minecraft:air} at location
+[14Jan2025 22:57:23.340] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-9414, y=22, z=-10376}
+[14Jan2025 22:57:26.488] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-9425, y=16, z=-10487} but found not block entity block Block{minecraft:air} at location
+[14Jan2025 22:57:26.488] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-9425, y=16, z=-10487}
+[14Jan2025 22:57:38.890] [Worker-Main-2/ERROR] [Supplementaries/]: Failed to load textholder data for block at BlockPos{x=-9520, y=66, z=-10225}
+[14Jan2025 22:57:38.890] [Worker-Main-2/ERROR] [Supplementaries/]: Failed to load textholder data for block at BlockPos{x=-9519, y=66, z=-10227}
+[14Jan2025 22:57:38.891] [Worker-Main-2/ERROR] [Supplementaries/]: Failed to load textholder data for block at BlockPos{x=-9519, y=66, z=-10225}
+[14Jan2025 22:57:40.036] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7740ms or 154 ticks behind
+[14Jan2025 22:57:44.210] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-9462, y=-12, z=-10543} but found not block entity block Block{minecraft:air} at location
+[14Jan2025 22:57:44.210] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-9462, y=-12, z=-10543}
+[14Jan2025 22:57:47.356] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/WealdWalker$Animations
+[14Jan2025 22:57:47.424] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[14Jan2025 22:57:52.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported denercraft to PavoLoco]
+[14Jan2025 22:58:11.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft has made the advancement [Crops of the Wild]
+[14Jan2025 22:58:12.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco has made the advancement [Life turned out to be a comedy]
+[14Jan2025 22:58:19.775] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/amendments/reg/ModBlockProperties$PostType
+[14Jan2025 22:58:19.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft has made the advancement [Good Demoman]
+[14Jan2025 22:58:39.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft is bleeding. denercraft was slain by Zombie
+[14Jan2025 22:58:44.522] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting insane96mcp/enhancedai/modules/mobs/fisher/FishingHook$FishHookState
+[14Jan2025 22:59:07.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported denercraft to PavoLoco]
+[14Jan2025 22:59:38.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Set the weather to clear]
+[14Jan2025 23:00:08.758] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
+[14Jan2025 23:00:26.759] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting insane96mcp/enhancedai/modules/witch/darkart/DarkArtWitchGoal$Phase
+[14Jan2025 23:00:40.255] [Server thread/ERROR] [placebo/]: Failed to locate any gear sets matching the following predicates: 
+[14Jan2025 23:00:40.256] [Server thread/ERROR] [placebo/]: SetPredicate[#irons_spellbooks]
+[14Jan2025 23:00:46.066] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/BeehiveBlockEntity$BeeReleaseStatus
+[14Jan2025 23:00:54.989] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting xiroc/dungeoncrawl/dungeon/Tile$Flag
+[14Jan2025 23:00:55.122] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/api/spells/CastType
+[14Jan2025 23:01:00.732] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[14Jan2025 23:01:00.733] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[14Jan2025 23:01:00.734] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[14Jan2025 23:01:00.734] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[14Jan2025 23:01:00.734] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[14Jan2025 23:01:08.126] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity NecromancerEntity['Iusocree the Shimmering'/13427, l='ServerLevel[world]', x=-9206.70, y=66.00, z=-10734.10] died: Iusocree the Shimmering was slain by PavoLoco
+[14Jan2025 23:01:11.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft has completed the challenge [Titan-Forged]
+[14Jan2025 23:02:48.541] [Worker-Main-2/WARN] [com.craisinlord.integrated_api.IntegratedAPI/]: Integrated API: Empty or nonexistent pool: idas:ancient_mines/ancient_mines_entrance2 which is being called from not a SinglePoolElement class
+[14Jan2025 23:03:21.025] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
