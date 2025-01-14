@@ -3629,3 +3629,19 @@ java.lang.NullPointerException: Element not found: amount
 [14Jan2025 03:54:31.288] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/58131, l='ServerLevel[world]', x=44.30, y=23.00, z=-2690.98] died: Debris Miner was slain by PavoLoco
 [14Jan2025 03:54:42.636] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/58143, l='ServerLevel[world]', x=46.65, y=24.00, z=-2699.56] died: Debris Miner was slain by PavoLoco
 [14Jan2025 03:55:54.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco has made the advancement [Let's Get To Work]
+[14Jan2025 03:57:22.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco has made the advancement [Stay dead]
+[14Jan2025 03:58:10.238] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported denercraft to PavoLoco]
+[14Jan2025 03:58:15.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Set own game mode to Spectator Mode]
+[14Jan2025 03:58:16.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco has made the advancement [The Jeweler]
+[14Jan2025 03:58:45.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported PavoLoco to denercraft]
+[14Jan2025 03:58:47.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Set own game mode to Survival Mode]
+[14Jan2025 04:00:05.024] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/35502, l='ServerLevel[world]', x=-11.31, y=69.00, z=-2789.04] died, message: 'Fisherman was slain by denercraft using [Master Sword]'
+[14Jan2025 04:00:05.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft has made the advancement [Bad Deal]
+[14Jan2025 04:00:06.820] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/35511, l='ServerLevel[world]', x=-12.19, y=69.00, z=-2791.47] died, message: 'Fisherman was slain by denercraft using [Master Sword]'
+[14Jan2025 04:00:09.823] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/35492, l='ServerLevel[world]', x=-11.38, y=69.00, z=-2789.64] died, message: 'Fisherman was slain by denercraft using [Master Sword]'
+[14Jan2025 04:03:12.708] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Fisherman'/35562, l='ServerLevel[world]', x=-21.03, y=68.00, z=-2811.70] died, message: 'Fisherman was slain by denercraft using [Master Sword]'
+[14Jan2025 04:04:22.450] [Worker-Main-2/INFO] [ModernFix/]: Instantiating Mojang DFU
+[14Jan2025 04:05:10.974] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/pathfinding/PathFindingStatus
+[14Jan2025 04:05:10.974] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/pathfinding/AbstractAdvancedPathNavigate$RestrictionType
+[14Jan2025 04:05:10.977] [AN stolen Minecolonies Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/pathfinding/SurfaceType
+[14Jan2025 04:05:32.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported denercraft to PavoLoco]

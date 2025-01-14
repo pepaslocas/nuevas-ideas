@@ -3734,6 +3734,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "apple": "2025-01-14 04:01:04 +0000",
       "bread": "2025-01-13 21:32:46 +0000",
       "golden_apple": "2025-01-14 02:09:35 +0000",
       "cod": "2025-01-14 02:21:22 +0000"
@@ -7268,6 +7269,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/melon_popsicle": {
+    "criteria": {
+      "has_melon": "2025-01-14 04:00:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sentry_armor_trim_smithing_template": {
     "criteria": {
       "has_sentry_armor_trim_smithing_template": "2025-01-14 03:05:53 +0000"
@@ -7352,6 +7359,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/feather_block": {
+    "criteria": {
+      "has_feather": "2025-01-14 04:03:33 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/light_gray_upholstered_mangrove_stool": {
     "criteria": {
       "has_mangrove_slab": "2025-01-14 03:39:28 +0000"
@@ -7400,6 +7413,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-01-14 04:00:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_andesite_slab": {
     "criteria": {
       "has_polished_andesite": "2025-01-14 02:10:25 +0000"
@@ -7415,6 +7434,12 @@
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_sand": "2025-01-14 03:05:39 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/sweet_berry_cookie": {
+    "criteria": {
+      "has_sweet_berries": "2025-01-14 04:02:10 +0000"
     },
     "done": true
   },
@@ -7460,6 +7485,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/horse_feed": {
+    "criteria": {
+      "has_golden_carrot": "2025-01-14 04:00:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_sand": "2025-01-14 03:05:39 +0000"
@@ -7489,6 +7520,12 @@
       "has_chest": "2025-01-14 02:55:07 +0000"
     },
     "done": true
+  },
+  "morevillagers:all_workstations_get": {
+    "criteria": {
+      "smithingtable": "2025-01-14 03:55:54 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/combat/netherite_leggings_smithing": {
     "criteria": {
@@ -7529,6 +7566,12 @@
   "minecraft:recipes/building_blocks/netherite_block": {
     "criteria": {
       "has_netherite_ingot": "2025-01-14 03:13:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-01-14 04:00:03 +0000"
     },
     "done": true
   },
@@ -7616,6 +7659,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/frying/sweet_berry_jam": {
+    "criteria": {
+      "has_ingredient": "2025-01-14 04:02:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod": {
     "criteria": {
       "has_cod": "2025-01-14 02:21:15 +0000"
@@ -7637,6 +7686,12 @@
   "valhelsia_furniture:recipes/decorations/blue_acacia_table": {
     "criteria": {
       "has_blue_carpet": "2025-01-14 02:09:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/melon_juice": {
+    "criteria": {
+      "has_melon_slice": "2025-01-14 04:00:03 +0000"
     },
     "done": true
   },
@@ -7664,6 +7719,12 @@
     },
     "done": true
   },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_sweet_berries": {
+    "criteria": {
+      "has_sweet_berries": "2025-01-14 04:02:10 +0000"
+    },
+    "done": true
+  },
   "immersive_armors:recipes/misc/heavy": {
     "criteria": {
       "has_item": "2025-01-14 03:40:44 +0000"
@@ -7679,6 +7740,12 @@
   "valhelsia_furniture:recipes/decorations/light_blue_upholstered_mangrove_stool": {
     "criteria": {
       "has_mangrove_slab": "2025-01-14 03:39:28 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/combat/silent_quiver": {
+    "criteria": {
+      "has_feather": "2025-01-14 04:03:33 +0000"
     },
     "done": true
   },
@@ -7766,6 +7833,18 @@
     },
     "done": true
   },
+  "apotheosis:affix/socket": {
+    "criteria": {
+      "socket": "2025-01-14 03:58:16 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/string_from_feather": {
+    "criteria": {
+      "has_feather": "2025-01-14 04:03:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_cut_sandstone": "2025-01-14 03:08:49 +0000"
@@ -7820,6 +7899,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/experience_nugget_from_block": {
+    "criteria": {
+      "has_item": "2025-01-14 04:00:22 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/blue_dark_oak_table": {
     "criteria": {
       "has_blue_carpet": "2025-01-14 02:09:52 +0000"
@@ -7829,6 +7914,12 @@
   "storagedrawers:recipes/storagedrawers/oak_drawers": {
     "criteria": {
       "has_chest": "2025-01-14 02:55:07 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/kill_graveyard_mob": {
+    "criteria": {
+      "skeleton_creeper": "2025-01-14 03:57:22 +0000"
     },
     "done": true
   },
@@ -7856,6 +7947,12 @@
     },
     "done": true
   },
+  "create:recipes/misc/crafting/materials/experience_block": {
+    "criteria": {
+      "has_item": "2025-01-14 04:00:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-01-14 02:17:26 +0000"
@@ -7871,6 +7968,18 @@
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2025-01-14 02:17:43 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:first_workstation_get": {
+    "criteria": {
+      "smithingtable": "2025-01-14 03:55:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-01-14 04:00:03 +0000"
     },
     "done": true
   },
@@ -7958,6 +8067,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-01-14 04:03:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/netherite_hoe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-01-14 03:13:12 +0000"
@@ -8006,6 +8121,12 @@
     },
     "done": true
   },
+  "simplyswords:simplyswords": {
+    "criteria": {
+      "requirement": "2025-01-14 03:57:58 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/mangrove_desk_drawer": {
     "criteria": {
       "has_mangrove_slab": "2025-01-14 03:39:28 +0000"
@@ -8045,6 +8166,12 @@
   "valhelsia_furniture:recipes/decorations/magenta_upholstered_mangrove_stool": {
     "criteria": {
       "has_mangrove_slab": "2025-01-14 03:39:28 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/traveler_necklace": {
+    "criteria": {
+      "has_feather": "2025-01-14 04:03:33 +0000"
     },
     "done": true
   },
