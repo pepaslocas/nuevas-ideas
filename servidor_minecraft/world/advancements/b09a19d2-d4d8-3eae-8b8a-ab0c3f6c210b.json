@@ -2105,6 +2105,7 @@
       "minecraft:hoglin": "2025-01-14 03:15:24 +0000",
       "minecraft:magma_cube": "2025-01-14 03:20:40 +0000",
       "minecraft:piglin_brute": "2025-01-13 22:38:24 +0000",
+      "minecraft:spider": "2025-01-14 03:34:32 +0000",
       "minecraft:creeper": "2025-01-13 22:38:04 +0000",
       "minecraft:phantom": "2025-01-13 22:38:22 +0000",
       "minecraft:witch": "2025-01-14 03:18:15 +0000",
@@ -5860,6 +5861,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-14 03:39:03 +0000"
+    },
+    "done": true
+  },
   "skilltree:recipes/combat/gilded_quiver": {
     "criteria": {
       "has_ingots_gold": "2025-01-14 02:56:11 +0000"
@@ -5944,6 +5951,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_machete_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-14 03:39:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-14 03:39:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/netherite_knife_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-14 03:39:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_stairs": {
     "criteria": {
       "has_blackstone": "2025-01-14 03:07:30 +0000"
@@ -6022,9 +6047,21 @@
     },
     "done": true
   },
+  "morevillagers:all_workstations_get": {
+    "criteria": {
+      "smithingtable": "2025-01-14 03:37:08 +0000"
+    },
+    "done": false
+  },
   "nethersdelight:recipes/food/hoglin_sirloin": {
     "criteria": {
       "hoglin_sirloin": "2025-01-14 03:15:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-14 03:39:03 +0000"
     },
     "done": true
   },
@@ -6043,6 +6080,24 @@
   "storagedrawers:recipes/storagedrawers/crimson_drawers": {
     "criteria": {
       "has_chest": "2025-01-14 02:55:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-14 03:39:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-14 03:39:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-14 03:39:03 +0000"
     },
     "done": true
   },
@@ -6184,9 +6239,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-14 03:39:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-14 03:07:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-14 03:39:03 +0000"
     },
     "done": true
   },
@@ -6202,15 +6269,39 @@
     },
     "done": true
   },
+  "supplementaries:recipes/safe": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-14 03:39:03 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:first_workstation_get": {
+    "criteria": {
+      "smithingtable": "2025-01-14 03:37:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-14 03:07:30 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-14 03:39:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_diamond_block": "2025-01-14 03:10:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-14 03:39:03 +0000"
     },
     "done": true
   },
@@ -6277,6 +6368,12 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2025-01-14 03:29:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-14 03:39:03 +0000"
     },
     "done": true
   },
