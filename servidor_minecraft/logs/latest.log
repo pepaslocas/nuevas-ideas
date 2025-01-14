@@ -3143,3 +3143,29 @@ java.lang.NullPointerException: Element not found: amount
 [14Jan2025 17:11:35.320] [Worker-Main-3/INFO] [ModernFix/]: Instantiating Mojang DFU
 [14Jan2025 17:12:04.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported PavoLoco to denercraft]
 [14Jan2025 17:12:17.290] [Netty Epoll Server IO #2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[14Jan2025 17:14:47.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft has made the advancement [Those Were the Days]
+[14Jan2025 17:15:02.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported PavoLoco to denercraft]
+[14Jan2025 17:15:12.108] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/entity/mobs/keeper/KeeperEntity$AttackType
+[14Jan2025 17:15:12.110] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting software/bernie/geckolib/core/object/PlayState
+[14Jan2025 17:15:12.110] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting software/bernie/geckolib/core/animation/AnimationController$State
+[14Jan2025 17:15:32.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft is bleeding. denercraft was slain by Ancient Knight
+[14Jan2025 17:15:37.123] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported denercraft to PavoLoco]
+[14Jan2025 17:15:59.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported denercraft to PavoLoco]
+[14Jan2025 17:16:17.855] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft has made the advancement [Take Aim]
+[14Jan2025 17:16:29.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco is bleeding. PavoLoco was slain by Ancient Knight
+[14Jan2025 17:16:35.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported denercraft to PavoLoco]
+[14Jan2025 17:16:43.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft is bleeding. denercraft was slain by Piglin
+[14Jan2025 17:16:53.601] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/api/spells/CastType
+[14Jan2025 17:16:53.602] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/capabilities/magic/RecastResult
+[14Jan2025 17:16:53.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft was slain by Piglin
+[14Jan2025 17:16:54.933] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/api/vessel/VesselContainer$SetResult
+[14Jan2025 17:16:55.774] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
+[14Jan2025 17:17:01.071] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported denercraft to PavoLoco]
+[14Jan2025 17:17:13.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft is bleeding. denercraft was slain by Ancient Knight
+[14Jan2025 17:17:28.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported denercraft to PavoLoco]
+[14Jan2025 17:18:07.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco has made the advancement [Those Were the Days]
+[14Jan2025 17:18:39.953] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco is bleeding. PavoLoco was slain by Ancient Knight
+[14Jan2025 17:21:37.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco is bleeding. PavoLoco was slain by Ancient Knight
+[14Jan2025 17:21:46.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported PavoLoco to denercraft]
+[14Jan2025 17:22:43.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco is bleeding. PavoLoco burned to death
+[14Jan2025 17:22:54.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported denercraft to PavoLoco]
