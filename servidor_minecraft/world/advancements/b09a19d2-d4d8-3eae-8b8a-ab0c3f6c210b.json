@@ -5504,15 +5504,195 @@
     },
     "done": true
   },
-  "valhelsia_furniture:recipes/decorations/black_upholstered_mangrove_stool": {
+  "skilltree:recipes/misc/simple_necklace": {
     "criteria": {
-      "has_mangrove_slab": "2025-01-14 02:26:58 +0000"
+      "has_nuggets_gold": "2025-01-14 02:08:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-01-14 02:08:02 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/misc/golden_ring": {
+    "criteria": {
+      "has_nuggets_gold": "2025-01-14 02:08:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-01-14 02:08:02 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/key": {
+    "criteria": {
+      "has_gold_nugget": "2025-01-14 02:08:02 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
       "has_raw_iron": "2025-01-14 02:08:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-01-14 02:08:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2025-01-14 02:08:06 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:nowyouknow": {
+    "criteria": {
+      "nowyouknow_0": "2025-01-14 02:13:55 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:the_wind_darkening": {
+    "criteria": {
+      "the_wind_darkening_0": "2025-01-14 02:13:57 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:sugarcoat": {
+    "criteria": {
+      "sugarcoat_0": "2025-01-14 02:14:33 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:mommy": {
+    "criteria": {
+      "mommy_0": "2025-01-14 02:14:44 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:defeatundeadbosses": {
+    "criteria": {
+      "defeatundeadbosses_0": "2025-01-14 02:14:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-01-14 02:15:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-01-14 02:15:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-01-14 02:15:17 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2025-01-14 02:17:19 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/combat/crafting/appliances/netherite_backtank_from_netherite": {
+    "criteria": {
+      "has_item": "2025-01-14 02:19:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-01-14 02:20:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-01-14 02:20:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-01-14 02:20:51 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:recipes/misc/bandage": {
+    "criteria": {
+      "has_string": "2025-01-14 02:20:51 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sack": {
+    "criteria": {
+      "has_string": "2025-01-14 02:20:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-01-14 02:20:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-01-14 02:20:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-01-14 02:20:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-01-14 02:21:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-01-14 02:21:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-01-14 02:21:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-01-14 02:21:29 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/maraca": {
+    "criteria": {
+      "maraca": "2025-01-14 02:23:05 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_upholstered_mangrove_stool": {
+    "criteria": {
+      "has_mangrove_slab": "2025-01-14 02:26:58 +0000"
     },
     "done": true
   },
@@ -5528,63 +5708,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/tripwire_hook": {
-    "criteria": {
-      "has_string": "2025-01-14 02:20:51 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/lime_upholstered_mangrove_stool": {
     "criteria": {
       "has_mangrove_slab": "2025-01-14 02:26:58 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/candle": {
-    "criteria": {
-      "has_string": "2025-01-14 02:20:51 +0000"
-    },
-    "done": true
-  },
-  "skilltree:recipes/misc/simple_necklace": {
-    "criteria": {
-      "has_nuggets_gold": "2025-01-14 02:08:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
-    "criteria": {
-      "has_polished_andesite": "2025-01-14 02:21:29 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/light_gray_upholstered_mangrove_stool": {
     "criteria": {
       "has_mangrove_slab": "2025-01-14 02:26:58 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_structures:recipes/decorations/big_red_glazed_jar": {
-    "criteria": {
-      "has_red_terracotta": "2025-01-14 02:31:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_slab": {
-    "criteria": {
-      "has_polished_andesite": "2025-01-14 02:21:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
-    "criteria": {
-      "has_raw_iron": "2025-01-14 02:08:06 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_structures:recipes/decorations/red_glazed_jar": {
-    "criteria": {
-      "has_red_terracotta": "2025-01-14 02:31:04 +0000"
     },
     "done": true
   },
@@ -5600,33 +5732,9 @@
     },
     "done": true
   },
-  "undead_revamp2:nowyouknow": {
-    "criteria": {
-      "nowyouknow_0": "2025-01-14 02:13:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/bow": {
-    "criteria": {
-      "has_string": "2025-01-14 02:20:51 +0000"
-    },
-    "done": true
-  },
   "another_furniture:recipes/mangrove_flower_box": {
     "criteria": {
       "has_slab": "2025-01-14 02:26:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
-    "criteria": {
-      "has_raw_iron": "2025-01-14 02:08:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/flint_and_steel": {
-    "criteria": {
-      "has_obsidian": "2025-01-14 02:15:17 +0000"
     },
     "done": true
   },
@@ -5642,39 +5750,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
-    "criteria": {
-      "has_polished_andesite": "2025-01-14 02:21:29 +0000"
-    },
-    "done": true
-  },
-  "majruszsdifficulty:recipes/misc/bandage": {
-    "criteria": {
-      "has_string": "2025-01-14 02:20:51 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/light_blue_upholstered_mangrove_stool": {
     "criteria": {
       "has_mangrove_slab": "2025-01-14 02:26:58 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/brewing/golden_carrot": {
-    "criteria": {
-      "has_gold_nugget": "2025-01-14 02:08:02 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/red_upholstered_mangrove_stool": {
     "criteria": {
       "has_mangrove_slab": "2025-01-14 02:26:58 +0000"
-    },
-    "done": true
-  },
-  "create:recipes/combat/crafting/appliances/netherite_backtank_from_netherite": {
-    "criteria": {
-      "has_item": "2025-01-14 02:19:46 +0000"
     },
     "done": true
   },
@@ -5696,75 +5780,9 @@
     },
     "done": true
   },
-  "minecraft:story/form_obsidian": {
-    "criteria": {
-      "obsidian": "2025-01-14 02:15:17 +0000"
-    },
-    "done": true
-  },
-  "undead_revamp2:mommy": {
-    "criteria": {
-      "mommy_0": "2025-01-14 02:14:44 +0000"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/sack": {
-    "criteria": {
-      "has_string": "2025-01-14 02:20:51 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:the_wind_darkening": {
-    "criteria": {
-      "the_wind_darkening_0": "2025-01-14 02:13:57 +0000"
-    },
-    "done": true
-  },
-  "undead_revamp2:defeatundeadbosses": {
-    "criteria": {
-      "defeatundeadbosses_0": "2025-01-14 02:14:44 +0000"
-    },
-    "done": true
-  },
-  "skilltree:recipes/misc/golden_ring": {
-    "criteria": {
-      "has_nuggets_gold": "2025-01-14 02:08:02 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/brown_upholstered_mangrove_stool": {
     "criteria": {
       "has_mangrove_slab": "2025-01-14 02:26:58 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/red_glazed_terracotta": {
-    "criteria": {
-      "has_red_terracotta": "2025-01-14 02:31:04 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
-    "criteria": {
-      "has_gold_nugget": "2025-01-14 02:08:02 +0000"
-    },
-    "done": true
-  },
-  "undead_revamp2:sugarcoat": {
-    "criteria": {
-      "sugarcoat_0": "2025-01-14 02:14:33 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/fishing_rod": {
-    "criteria": {
-      "has_string": "2025-01-14 02:20:51 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/maraca": {
-    "criteria": {
-      "maraca": "2025-01-14 02:23:05 +0000"
     },
     "done": true
   },
@@ -5786,18 +5804,6 @@
     },
     "done": true
   },
-  "supplementaries:recipes/key": {
-    "criteria": {
-      "has_gold_nugget": "2025-01-14 02:08:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
-    "criteria": {
-      "has_polished_andesite": "2025-01-14 02:21:29 +0000"
-    },
-    "done": true
-  },
   "another_furniture:recipes/mangrove_shutter": {
     "criteria": {
       "has_slab": "2025-01-14 02:26:58 +0000"
@@ -5810,33 +5816,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/white_wool_from_string": {
-    "criteria": {
-      "has_string": "2025-01-14 02:20:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/enchanting_table": {
-    "criteria": {
-      "has_obsidian": "2025-01-14 02:15:17 +0000"
-    },
-    "done": true
-  },
-  "betterdungeons:spider_dungeon": {
-    "criteria": {
-      "in_better_spider_dungeon": "2025-01-14 02:17:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/loom": {
-    "criteria": {
-      "has_string": "2025-01-14 02:20:51 +0000"
-    },
-    "done": true
-  },
   "apotheosis:spawner/capturing": {
     "criteria": {
       "egg": "2025-01-14 02:29:13 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/big_red_glazed_jar": {
+    "criteria": {
+      "has_red_terracotta": "2025-01-14 02:31:04 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/decorations/red_glazed_jar": {
+    "criteria": {
+      "has_red_terracotta": "2025-01-14 02:31:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_glazed_terracotta": {
+    "criteria": {
+      "has_red_terracotta": "2025-01-14 02:31:04 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/la_cucaracha": {
+    "criteria": {
+      "tame": "2025-01-14 02:49:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/combat/crafting/appliances/netherite_diving_boots_from_netherite": {
+    "criteria": {
+      "has_item": "2025-01-14 02:49:26 +0000"
     },
     "done": true
   },

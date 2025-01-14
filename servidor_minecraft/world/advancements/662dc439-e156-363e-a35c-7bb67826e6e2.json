@@ -7222,6 +7222,12 @@
     },
     "done": true
   },
+  "apotheosis:affix/mythic_gem": {
+    "criteria": {
+      "gem": "2025-01-14 02:46:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_pickaxe": {
     "criteria": {
       "has_diamond": "2025-01-14 02:17:26 +0000"
@@ -7237,6 +7243,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2025-01-14 02:10:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-01-14 02:45:56 +0000"
     },
     "done": true
   },
@@ -7345,6 +7357,12 @@
   "valhelsia_furniture:recipes/decorations/blue_acacia_table": {
     "criteria": {
       "has_blue_carpet": "2025-01-14 02:09:52 +0000"
+    },
+    "done": true
+  },
+  "iter_rpg:economy": {
+    "criteria": {
+      "economy_0": "2025-01-14 02:48:00 +0000"
     },
     "done": true
   },
@@ -7471,6 +7489,12 @@
   "minecraft:recipes/decorations/red_glazed_terracotta": {
     "criteria": {
       "has_red_terracotta": "2025-01-14 02:33:43 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/maraca": {
+    "criteria": {
+      "maraca": "2025-01-14 02:50:09 +0000"
     },
     "done": true
   },
