@@ -3218,3 +3218,156 @@ java.lang.NullPointerException: Element not found: amount
 [14Jan2025 23:01:11.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft has completed the challenge [Titan-Forged]
 [14Jan2025 23:02:48.541] [Worker-Main-2/WARN] [com.craisinlord.integrated_api.IntegratedAPI/]: Integrated API: Empty or nonexistent pool: idas:ancient_mines/ancient_mines_entrance2 which is being called from not a SinglePoolElement class
 [14Jan2025 23:03:21.025] [Server thread/WARN] [net.minecraft.world.level.storage.loot.LootTable/]: Tried to over-fill a container
+[14Jan2025 23:08:23.592] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/frog/ShootTongue$State
+[14Jan2025 23:10:43.913] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: denercraft moved wrongly!
+[14Jan2025 23:10:51.960] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/pathfinding/PathFindingStatus
+[14Jan2025 23:10:51.960] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/pathfinding/AbstractAdvancedPathNavigate$RestrictionType
+[14Jan2025 23:10:51.964] [AN stolen Minecolonies Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/pathfinding/SurfaceType
+[14Jan2025 23:11:16.779] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2033ms or 40 ticks behind
+[14Jan2025 23:11:41.869] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-9162, y=4, z=-11524}
+[14Jan2025 23:11:41.869] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-9162, y=4, z=-11522}
+[14Jan2025 23:11:47.380] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-9214, y=-4, z=-11473}
+[14Jan2025 23:12:03.311] [Worker-Main-3/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:2.828427f,range:8,source:{pos:[I;-340,-59,12],type:"minecraft:block"}}]
+[14Jan2025 23:12:03.312] [Worker-Main-3/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-338,-59,10],type:"minecraft:block"}}]
+[14Jan2025 23:12:03.312] [Worker-Main-3/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:2.828427f,range:8,source:{pos:[I;-336,-59,8],type:"minecraft:block"}}]
+[14Jan2025 23:12:07.541] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-9216, y=-19, z=-11796} but found not block entity block Block{minecraft:air} at location
+[14Jan2025 23:12:07.541] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-9216, y=-19, z=-11796}
+[14Jan2025 23:12:07.541] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-9212, y=-19, z=-11802} but found not block entity block Block{minecraft:air} at location
+[14Jan2025 23:12:07.541] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-9212, y=-19, z=-11802}
+[14Jan2025 23:12:07.541] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-9215, y=-20, z=-11796} but found not block entity block Block{minecraft:air} at location
+[14Jan2025 23:12:07.542] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-9215, y=-20, z=-11796}
+[14Jan2025 23:12:07.542] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-9212, y=-24, z=-11798} but found not block entity block Block{minecraft:air} at location
+[14Jan2025 23:12:07.542] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-9212, y=-24, z=-11798}
+[14Jan2025 23:12:07.542] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-9212, y=-24, z=-11800} but found not block entity block Block{minecraft:air} at location
+[14Jan2025 23:12:07.542] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-9212, y=-24, z=-11800}
+[14Jan2025 23:12:07.542] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-9212, y=-24, z=-11799} but found not block entity block Block{minecraft:air} at location
+[14Jan2025 23:12:07.542] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-9212, y=-24, z=-11799}
+[14Jan2025 23:12:07.542] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-9212, y=-23, z=-11800} but found not block entity block Block{minecraft:air} at location
+[14Jan2025 23:12:07.543] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-9212, y=-23, z=-11800}
+[14Jan2025 23:12:07.543] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-9212, y=-19, z=-11796} but found not block entity block Block{minecraft:air} at location
+[14Jan2025 23:12:07.543] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-9212, y=-19, z=-11796}
+[14Jan2025 23:12:07.543] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-9212, y=-23, z=-11802} but found not block entity block Block{minecraft:air} at location
+[14Jan2025 23:12:07.544] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-9212, y=-23, z=-11802}
+[14Jan2025 23:12:07.544] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-9212, y=-23, z=-11797} but found not block entity block Block{create:layered_tuff} at location
+[14Jan2025 23:12:07.545] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:layered_tuff} but failed at location BlockPos{x=-9212, y=-23, z=-11797}
+[14Jan2025 23:12:07.545] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-9212, y=-23, z=-11799} but found not block entity block Block{minecraft:air} at location
+[14Jan2025 23:12:07.545] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-9212, y=-23, z=-11799}
+[14Jan2025 23:12:07.545] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-9212, y=-23, z=-11798} but found not block entity block Block{minecraft:air} at location
+[14Jan2025 23:12:07.546] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-9212, y=-23, z=-11798}
+[14Jan2025 23:12:12.080] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-9220, y=-23, z=-11799} but found not block entity block Block{minecraft:air} at location
+[14Jan2025 23:12:12.081] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-9220, y=-23, z=-11799}
+[14Jan2025 23:12:12.081] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-9220, y=-20, z=-11800} but found not block entity block Block{minecraft:air} at location
+[14Jan2025 23:12:12.081] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-9220, y=-20, z=-11800}
+[14Jan2025 23:12:12.081] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-9217, y=-20, z=-11796} but found not block entity block Block{minecraft:air} at location
+[14Jan2025 23:12:12.081] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-9217, y=-20, z=-11796}
+[14Jan2025 23:12:12.081] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-9220, y=-23, z=-11800} but found not block entity block Block{minecraft:air} at location
+[14Jan2025 23:12:12.082] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-9220, y=-23, z=-11800}
+[14Jan2025 23:12:12.082] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-9232, y=-37, z=-11805} but found not block entity block Block{minecraft:air} at location
+[14Jan2025 23:12:12.082] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-9232, y=-37, z=-11805}
+[14Jan2025 23:12:12.082] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-9231, y=-37, z=-11805} but found not block entity block Block{minecraft:air} at location
+[14Jan2025 23:12:12.082] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-9231, y=-37, z=-11805}
+[14Jan2025 23:12:12.082] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-9217, y=-19, z=-11796} but found not block entity block Block{minecraft:air} at location
+[14Jan2025 23:12:12.082] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-9217, y=-19, z=-11796}
+[14Jan2025 23:12:12.082] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-9232, y=-37, z=-11799} but found not block entity block Block{minecraft:air} at location
+[14Jan2025 23:12:12.083] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-9232, y=-37, z=-11799}
+[14Jan2025 23:12:12.083] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-9225, y=-37, z=-11805} but found not block entity block Block{minecraft:air} at location
+[14Jan2025 23:12:12.083] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-9225, y=-37, z=-11805}
+[14Jan2025 23:12:12.083] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-9218, y=-19, z=-11796} but found not block entity block Block{minecraft:air} at location
+[14Jan2025 23:12:12.083] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-9218, y=-19, z=-11796}
+[14Jan2025 23:12:12.083] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-9218, y=-34, z=-11805} but found not block entity block Block{minecraft:air} at location
+[14Jan2025 23:12:12.083] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-9218, y=-34, z=-11805}
+[14Jan2025 23:12:12.083] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-9220, y=-24, z=-11805} but found not block entity block Block{minecraft:air} at location
+[14Jan2025 23:12:12.083] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-9220, y=-24, z=-11805}
+[14Jan2025 23:12:12.084] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-9220, y=-20, z=-11799} but found not block entity block Block{minecraft:air} at location
+[14Jan2025 23:12:12.084] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-9220, y=-20, z=-11799}
+[14Jan2025 23:12:12.084] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-9221, y=-37, z=-11805} but found not block entity block Block{minecraft:air} at location
+[14Jan2025 23:12:12.084] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-9221, y=-37, z=-11805}
+[14Jan2025 23:12:12.084] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-9220, y=-37, z=-11805} but found not block entity block Block{minecraft:air} at location
+[14Jan2025 23:12:12.084] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-9220, y=-37, z=-11805}
+[14Jan2025 23:12:12.084] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-9220, y=-37, z=-11799} but found not block entity block Block{minecraft:air} at location
+[14Jan2025 23:12:12.085] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-9220, y=-37, z=-11799}
+[14Jan2025 23:12:12.085] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-9221, y=-37, z=-11799} but found not block entity block Block{minecraft:air} at location
+[14Jan2025 23:12:12.085] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-9221, y=-37, z=-11799}
+[14Jan2025 23:12:12.085] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-9232, y=-37, z=-11811} but found not block entity block Block{minecraft:air} at location
+[14Jan2025 23:12:12.085] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-9232, y=-37, z=-11811}
+[14Jan2025 23:12:12.085] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-9231, y=-37, z=-11811} but found not block entity block Block{minecraft:air} at location
+[14Jan2025 23:12:12.086] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-9231, y=-37, z=-11811}
+[14Jan2025 23:12:12.086] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-9229, y=-37, z=-11809} but found not block entity block Block{minecraft:air} at location
+[14Jan2025 23:12:12.086] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-9229, y=-37, z=-11809}
+[14Jan2025 23:12:15.293] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-9234, y=-34, z=-11805} but found not block entity block Block{minecraft:air} at location
+[14Jan2025 23:12:15.293] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-9234, y=-34, z=-11805}
+[14Jan2025 23:12:15.293] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-9234, y=-34, z=-11799} but found not block entity block Block{minecraft:air} at location
+[14Jan2025 23:12:15.293] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-9234, y=-34, z=-11799}
+[14Jan2025 23:12:15.294] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-9234, y=-37, z=-11797} but found not block entity block Block{minecraft:air} at location
+[14Jan2025 23:12:15.294] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-9234, y=-37, z=-11797}
+[14Jan2025 23:12:15.411] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-9246, y=-34, z=-11819} but found not block entity block Block{minecraft:air} at location
+[14Jan2025 23:12:15.411] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-9246, y=-34, z=-11819}
+[14Jan2025 23:12:15.412] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-9242, y=-34, z=-11819} but found not block entity block Block{create:cut_tuff_bricks} at location
+[14Jan2025 23:12:15.412] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{create:cut_tuff_bricks} but failed at location BlockPos{x=-9242, y=-34, z=-11819}
+[14Jan2025 23:12:15.412] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-9239, y=-34, z=-11819} but found not block entity block Block{minecraft:air} at location
+[14Jan2025 23:12:15.412] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-9239, y=-34, z=-11819}
+[14Jan2025 23:12:15.413] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-9234, y=-34, z=-11811} but found not block entity block Block{minecraft:air} at location
+[14Jan2025 23:12:15.413] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-9234, y=-34, z=-11811}
+[14Jan2025 23:12:15.413] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-9248, y=-36, z=-11819} but found not block entity block Block{minecraft:air} at location
+[14Jan2025 23:12:15.413] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-9248, y=-36, z=-11819}
+[14Jan2025 23:12:17.813] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/moonlight/api/util/PotionNBTHelper$Type
+[14Jan2025 23:12:20.228] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-9249, y=-34, z=-11819} but found not block entity block Block{minecraft:air} at location
+[14Jan2025 23:12:20.229] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-9249, y=-34, z=-11819}
+[14Jan2025 23:12:23.469] [Worker-Main-3/ERROR] [net.minecraft.world.level.block.entity.SculkShriekerBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:0.0f,range:8,source:{pos:[I;-547,-50,-107],type:"minecraft:block"}}]
+[14Jan2025 23:12:25.813] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/contraptions/bearing/ClockworkContraption$HandType
+[14Jan2025 23:12:25.814] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/contraptions/mounted/CartAssemblerBlockEntity$CartMovementMode
+[14Jan2025 23:12:26.390] [Worker-Main-2/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:6.4031243f,range:8,source:{pos:[I;-548,-50,-106],type:"minecraft:block"}}]
+[14Jan2025 23:12:27.342] [Worker-Main-2/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:4.472136f,range:8,source:{pos:[I;-561,-50,-112],type:"minecraft:block"}}]
+[14Jan2025 23:12:27.342] [Worker-Main-2/ERROR] [net.minecraft.world.level.block.entity.SculkSensorBlockEntity/]: No key selector in MapLike[{event_delay:0,event_distance:6.0f,range:8,source:{pos:[I;-553,-50,-122],type:"minecraft:block"}}]
+[14Jan2025 23:12:51.718] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: denercraft moved too quickly! -3.4422023304723552,-2.9659666843553936,-17.43141856985676
+[14Jan2025 23:12:51.737] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-9364, y=-9, z=-11873} but found not block entity block Block{minecraft:air} at location
+[14Jan2025 23:12:51.737] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-9364, y=-9, z=-11873}
+[14Jan2025 23:13:03.114] [Worker-Main-2/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-9191, y=17, z=-12151}
+[14Jan2025 23:13:10.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported denercraft to PavoLoco]
+[14Jan2025 23:13:16.626] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Aaron the Dirt Digger'/23959, l='ServerLevel[world]', x=-9573.20, y=63.00, z=-10707.35] died: Aaron the Dirt Digger was slain by PavoLoco
+[14Jan2025 23:13:17.461] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[14Jan2025 23:13:24.576] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[14Jan2025 23:13:24.576] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[14Jan2025 23:13:24.576] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[14Jan2025 23:13:24.576] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[14Jan2025 23:13:24.577] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[14Jan2025 23:13:44.112] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_2_pool
+[14Jan2025 23:13:44.112] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_4_pool
+[14Jan2025 23:13:44.112] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[14Jan2025 23:13:44.112] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[14Jan2025 23:13:44.113] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[14Jan2025 23:13:44.114] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[14Jan2025 23:13:44.114] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[14Jan2025 23:13:44.114] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[14Jan2025 23:13:44.114] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[14Jan2025 23:13:44.115] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[14Jan2025 23:13:44.115] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[14Jan2025 23:13:46.209] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PavoLoco lost connection: Disconnected
+[14Jan2025 23:13:46.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco left the game
+[14Jan2025 23:13:46.212] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client PavoLoco
+[14Jan2025 23:14:50.209] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 157
+[14Jan2025 23:14:50.334] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 158
+[14Jan2025 23:14:50.340] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 159
+[14Jan2025 23:14:50.340] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 160
+[14Jan2025 23:14:50.509] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 161
+[14Jan2025 23:14:50.549] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 162
+[14Jan2025 23:14:50.550] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 163
+[14Jan2025 23:14:50.687] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 164
+[14Jan2025 23:14:50.714] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 165
+[14Jan2025 23:14:50.714] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 166
+[14Jan2025 23:14:50.714] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 167
+[14Jan2025 23:14:50.779] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 168
+[14Jan2025 23:14:51.383] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 169
+[14Jan2025 23:14:52.190] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 170
+[14Jan2025 23:14:52.960] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 171
+[14Jan2025 23:14:52.988] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 172
+[14Jan2025 23:14:52.991] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 173
+[14Jan2025 23:14:52.994] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 174
+[14Jan2025 23:14:53.272] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 175
+[14Jan2025 23:14:53.402] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PavoLoco[/127.250.170.172:44709] logged in with entity id 26658 at (-9588.699672903953, 63.796735600668704, -10669.499516832639)
+[14Jan2025 23:14:53.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco joined the game
+[14Jan2025 23:14:53.642] [Server thread/INFO] [Jade/]: Syncing config to PavoLoco (662dc439-e156-363e-a35c-7bb67826e6e2)
+[14Jan2025 23:14:54.439] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of PavoLoco (18)
+[14Jan2025 23:14:54.440] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to PavoLoco
+[14Jan2025 23:15:19.006] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[14Jan2025 23:15:19.007] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_end_1_pool
