@@ -3508,3 +3508,36 @@ java.lang.NullPointerException: Element not found: amount
 [14Jan2025 03:24:41.833] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/36385, l='ServerLevel[world]', x=-27.54, y=2.00, z=-2625.64] died: Debris Miner was slain by denercraft using [Master Sword]
 [14Jan2025 03:24:47.027] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/36596, l='ServerLevel[world]', x=-33.71, y=2.00, z=-2624.15] died: Foundry Guardian was slain by denercraft using [Master Sword]
 [14Jan2025 03:25:01.278] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/36597, l='ServerLevel[world]', x=-29.62, y=-4.00, z=-2650.86] died: Foundry Guardian was slain by denercraft using [Master Sword]
+[14Jan2025 03:26:48.281] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: denercraft moved wrongly!
+[14Jan2025 03:27:08.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco has made the advancement [Sneak 100]
+[14Jan2025 03:28:03.039] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/39796, l='ServerLevel[world]', x=42.86, y=-6.47, z=-2724.06] died: Foundry Guardian was slain by denercraft using [Master Sword]
+[14Jan2025 03:28:19.175] [integratedapi-1-thread-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[14Jan2025 03:28:20.361] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/material/MapColor$Brightness
+[14Jan2025 03:28:30.878] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/40657, l='ServerLevel[world]', x=99.36, y=-8.00, z=-2758.32] died: Foundry Guardian was slain by PavoLoco
+[14Jan2025 03:28:36.270] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/40658, l='ServerLevel[world]', x=91.14, y=-7.76, z=-2756.41] died: Foundry Guardian was slain by PavoLoco
+[14Jan2025 03:28:37.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Set own game mode to Creative Mode]
+[14Jan2025 03:28:46.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Set own game mode to Survival Mode]
+[14Jan2025 03:28:47.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco has made the advancement [Not Today, Thank You]
+[14Jan2025 03:28:51.824] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/40811, l='ServerLevel[world]', x=96.65, y=-8.00, z=-2758.02] died: Foundry Guardian was slain by denercraft using [Master Sword]
+[14Jan2025 03:28:57.674] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/40812, l='ServerLevel[world]', x=92.63, y=-5.21, z=-2756.29] died: Foundry Guardian was slain by denercraft using [Master Sword]
+[14Jan2025 03:29:05.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft has made the advancement [Into Fire]
+[14Jan2025 03:29:13.627] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/40810, l='ServerLevel[world]', x=92.80, y=-8.00, z=-2750.14] died: Foundry Guardian was slain by denercraft using [Master Sword]
+[14Jan2025 03:29:25.272] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/40655, l='ServerLevel[world]', x=89.68, y=-6.96, z=-2758.51] died: Foundry Guardian was slain by denercraft using [Master Sword]
+[14Jan2025 03:29:28.074] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/40656, l='ServerLevel[world]', x=92.59, y=-6.83, z=-2762.11] died: Foundry Guardian was slain by denercraft using [Master Sword]
+[14Jan2025 03:30:45.517] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/goal/RangedCrossbowAttackGoal$CrossbowState
+[14Jan2025 03:30:45.519] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting insane96mcp/enhancedai/modules/illager/shoot/EAPillagerAttackGoal$CrossbowState
+[14Jan2025 03:31:40.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Set own game mode to Spectator Mode]
+[14Jan2025 03:32:42.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported denercraft to PavoLoco]
+[14Jan2025 03:32:45.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Set own game mode to Survival Mode]
+[14Jan2025 03:32:57.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft is bleeding. denercraft was slain by Magma Cube
+[14Jan2025 03:33:02.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported denercraft to PavoLoco]
+[14Jan2025 03:34:12.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported denercraft to PavoLoco]
+[14Jan2025 03:35:17.884] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/49721, l='ServerLevel[world]', x=44.70, y=24.00, z=-2693.30] died: Debris Miner was slain by PavoLoco
+[14Jan2025 03:35:22.224] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/50563, l='ServerLevel[world]', x=44.30, y=24.00, z=-2693.33] died: Debris Miner was slain by PavoLoco
+[14Jan2025 03:35:26.330] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/49298, l='ServerLevel[world]', x=44.30, y=24.00, z=-2693.75] died: Debris Miner was slain by PavoLoco
+[14Jan2025 03:35:28.543] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/50561, l='ServerLevel[world]', x=44.70, y=24.00, z=-2693.30] died: Debris Miner was slain by PavoLoco
+[14Jan2025 03:35:29.344] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/50983, l='ServerLevel[world]', x=44.70, y=24.00, z=-2693.30] died: Debris Miner was slain by PavoLoco
+[14Jan2025 03:35:30.826] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/51473, l='ServerLevel[world]', x=44.30, y=24.00, z=-2693.50] died: Debris Miner was slain by PavoLoco
+[14Jan2025 03:35:32.381] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/49722, l='ServerLevel[world]', x=44.45, y=24.00, z=-2693.30] died: Debris Miner was slain by PavoLoco
+[14Jan2025 03:35:43.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [PavoLoco] Im a little gay
+[14Jan2025 03:35:54.729] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/52547, l='ServerLevel[world]', x=44.60, y=24.00, z=-2694.02] died: Debris Miner was slain by PavoLoco
