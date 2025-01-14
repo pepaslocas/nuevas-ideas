@@ -717,57 +717,57 @@
 	[Creepers."Creeper Swell"]
 		#Percentage chance for a Creeper to keep walking while exploding. This is overwritten if the creeper has the beta property.
 		#Range: 0.0 ~ 1.0
-		"Walking Fuse Chance" = 0.1
+		"Walking Fuse Chance" = 1
 		#Speed modifier when a walking fuse creeper is swelling.
 		#Range: -1.0 ~ 64.0
-		"Walking Fuse Speed Modifier" = -0.5
+		"Walking Fuse Speed Modifier" = 0.5
 		#Percentage chance for a Creeper to ignore walls while targeting a player. This means that a creeper will be able to explode if it's in the correct range from a player even if there's a wall between.
 		#Range: 0.0 ~ 1.0
-		"Ignore Walls Chance" = 0.65
+		"Ignore Walls Chance" = 1
 		#Breaching creepers will try to open an hole in the wall to let mobs in.
 		#Range: 0.0 ~ 1.0
-		"Breach Chance" = 0.075
+		"Breach Chance" = 0.5
 		#Beta creepers when exploding will walk around the target, like the creepers in pre-1.2.
 		#Range: 0.0 ~ 1.0
 		"Beta Creeper Chance" = 0.35
 		#Disables the creeper feature that makes them start swelling when falling.
 		"Disable falling swelling" = true
 		#If true creepers will ignite if damaged by an explosion.
-		"TNT Like" = false
+		"TNT Like" = true
 		#If IguanaTweaks Reborn is installed and Explosion Overhaul is enabled, Angry creeper will deal more knockback and break more blocks and breaching creepers will break more blocks
 		"IguanaTweaks Reborn Integration" = true
 
 		[Creepers."Creeper Swell".Launch]
 			#Launching creepers will try ignite and throw themselves at the player.
 			#Range: 0.0 ~ 1.0
-			Chance = 0.05
+			Chance = 0.2
 			#If true, Launching Creepers emit particles
 			Particles = true
 			#The inaccuracy of the launching creeper in Normal difficulty, easy is increased, hard is decreased.
 			#Range: 0.0 ~ 8.0
-			inaccuracy = 0.5
+			inaccuracy = 0
 			#The explosion radius of launching creepers. Set to 0 to not change. (Overrides Cena creepers explosion radius)
 			#Range: 0 ~ 127
-			"Explosion Radius" = 2
+			"Explosion Radius" = 116
 
 		[Creepers."Creeper Swell"."Angry Creeper"]
 			#Chance for a creeper to spawn angry
 			#Range: 0.0 ~ 1.0
-			Chance = 0.03
+			Chance = 0.3
 			#If true, Angry Creeper emits particles
 			Particles = true
 			#The special sound effect that the Angry Creeper plays
 			#Allowed Values: NONE, CENA, WTF_BOOM
-			Sounds = "WTF_BOOM"
+			Sounds = "CENA"
 			#If true, Angry Creeper will have a name
 			Name = true
 			#When ignited, Angry Creeper will not stop swelling
 			"Force Explosion" = true
 			#If true, Angry Creeper explosion will generate fire
-			"Generates fire" = false
+			"Generates fire" = true
 			#Explosion power of Angry Creeper
 			#Range: 0.0 ~ 12.0
-			"Explosion power" = 4.0
+			"Explosion power" = 12.0
 			#Angry Creeper will not stop swelling when triggered
 			"Forced Explosion" = true
 
