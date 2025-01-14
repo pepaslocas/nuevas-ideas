@@ -3731,7 +3731,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2025-01-13 21:32:46 +0000",
-      "golden_apple": "2025-01-14 02:09:35 +0000"
+      "golden_apple": "2025-01-14 02:09:35 +0000",
+      "cod": "2025-01-14 02:21:22 +0000"
     },
     "done": false
   },
@@ -7284,6 +7285,18 @@
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-01-14 02:17:26 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-01-14 02:26:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-01-14 02:26:49 +0000"
     },
     "done": true
   },
