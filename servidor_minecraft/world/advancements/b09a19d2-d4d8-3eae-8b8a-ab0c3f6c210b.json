@@ -2102,9 +2102,12 @@
     "criteria": {
       "minecraft:blaze": "2025-01-14 03:09:05 +0000",
       "minecraft:skeleton": "2025-01-13 22:03:19 +0000",
+      "minecraft:hoglin": "2025-01-14 03:15:24 +0000",
+      "minecraft:magma_cube": "2025-01-14 03:20:40 +0000",
       "minecraft:piglin_brute": "2025-01-13 22:38:24 +0000",
       "minecraft:creeper": "2025-01-13 22:38:04 +0000",
       "minecraft:phantom": "2025-01-13 22:38:22 +0000",
+      "minecraft:witch": "2025-01-14 03:18:15 +0000",
       "minecraft:cave_spider": "2025-01-14 02:18:12 +0000",
       "minecraft:zombie": "2025-01-13 21:13:35 +0000"
     },
@@ -2702,6 +2705,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2025-01-13 21:29:44 +0000",
+      "golden_apple": "2025-01-14 03:19:55 +0000",
       "rotten_flesh": "2025-01-13 21:24:21 +0000"
     },
     "done": false
@@ -5859,6 +5863,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-01-14 03:12:13 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/netherite_trapdoor": {
     "criteria": {
       "has_netherite_scrap": "2025-01-14 03:08:45 +0000"
@@ -5997,6 +6007,12 @@
     },
     "done": true
   },
+  "nethersdelight:recipes/food/hoglin_sirloin": {
+    "criteria": {
+      "hoglin_sirloin": "2025-01-14 03:15:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-01-14 02:56:11 +0000"
@@ -6069,6 +6085,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-01-14 03:17:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2025-01-14 02:56:11 +0000"
@@ -6111,6 +6133,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-01-14 03:12:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-14 03:07:30 +0000"
@@ -6120,6 +6148,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-01-14 02:56:11 +0000"
+    },
+    "done": true
+  },
+  "nethersdelight:recipes/food/hoglin_sirloin_from_campfire_cooking": {
+    "criteria": {
+      "hoglin_sirloin": "2025-01-14 03:15:24 +0000"
     },
     "done": true
   },
@@ -6153,6 +6187,18 @@
     },
     "done": true
   },
+  "nethersdelight:recipes/food/hoglin_sirloin_from_smoking": {
+    "criteria": {
+      "hoglin_sirloin": "2025-01-14 03:15:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-01-14 03:12:13 +0000"
+    },
+    "done": true
+  },
   "storagedrawers:recipes/storagedrawers/birch_drawers": {
     "criteria": {
       "has_chest": "2025-01-14 02:55:00 +0000"
@@ -6174,6 +6220,12 @@
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-01-14 03:07:30 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:simplyswords": {
+    "criteria": {
+      "requirement": "2025-01-14 03:17:41 +0000"
     },
     "done": true
   },

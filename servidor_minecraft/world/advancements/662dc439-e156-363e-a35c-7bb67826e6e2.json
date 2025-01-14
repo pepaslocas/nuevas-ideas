@@ -2135,10 +2135,12 @@
       "minecraft:pillager": "2025-01-13 22:29:57 +0000",
       "minecraft:skeleton": "2025-01-13 21:13:48 +0000",
       "minecraft:vindicator": "2025-01-13 22:29:53 +0000",
+      "minecraft:magma_cube": "2025-01-14 03:20:43 +0000",
       "minecraft:piglin_brute": "2025-01-13 22:18:41 +0000",
       "minecraft:spider": "2025-01-13 22:02:40 +0000",
       "minecraft:phantom": "2025-01-13 22:34:57 +0000",
       "minecraft:zombified_piglin": "2025-01-13 22:18:14 +0000",
+      "minecraft:witch": "2025-01-14 03:18:37 +0000",
       "minecraft:cave_spider": "2025-01-13 22:35:53 +0000",
       "minecraft:zombie": "2025-01-13 21:11:00 +0000"
     },
@@ -7211,6 +7213,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-01-14 03:15:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-14 03:13:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-01-14 03:20:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2025-01-14 02:17:26 +0000"
@@ -7220,6 +7240,12 @@
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2025-01-14 02:17:26 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/netherite_trapdoor": {
+    "criteria": {
+      "has_netherite_scrap": "2025-01-14 03:13:15 +0000"
     },
     "done": true
   },
@@ -7247,9 +7273,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-01-14 03:13:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
     "criteria": {
       "has_cut_sandstone": "2025-01-14 03:08:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_machete_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-14 03:13:12 +0000"
     },
     "done": true
   },
@@ -7265,6 +7303,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-14 03:13:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_concrete_powder": {
     "criteria": {
       "has_sand": "2025-01-14 03:05:39 +0000"
@@ -7274,6 +7318,12 @@
   "minecraft:story/lava_bucket": {
     "criteria": {
       "lava_bucket": "2025-01-14 02:45:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/combat/netherite_knife_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-14 03:13:12 +0000"
     },
     "done": true
   },
@@ -7361,6 +7411,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-01-14 03:13:11 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/blue_jungle_table": {
     "criteria": {
       "has_blue_carpet": "2025-01-14 02:09:52 +0000"
@@ -7370,6 +7426,12 @@
   "storagedrawers:recipes/storagedrawers/jungle_drawers": {
     "criteria": {
       "has_chest": "2025-01-14 02:55:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-14 03:13:12 +0000"
     },
     "done": true
   },
@@ -7385,15 +7447,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-14 03:13:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-01-14 02:17:26 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-14 03:13:12 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/slicing/red_dye_from_spider_eye": {
     "criteria": {
       "has_spider_eye": "2025-01-14 02:26:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-14 03:13:12 +0000"
     },
     "done": true
   },
@@ -7412,6 +7492,12 @@
   "minecraft:recipes/misc/sentry_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-01-14 03:05:53 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/netherite_door": {
+    "criteria": {
+      "has_netherite_scrap": "2025-01-14 03:13:15 +0000"
     },
     "done": true
   },
@@ -7529,6 +7615,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-01-14 03:20:58 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/blue_crimson_table": {
     "criteria": {
       "has_blue_carpet": "2025-01-14 02:09:52 +0000"
@@ -7559,6 +7651,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-14 03:13:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_sand": "2025-01-14 03:05:39 +0000"
@@ -7568,6 +7666,12 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-01-14 02:17:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-14 03:13:12 +0000"
     },
     "done": true
   },
@@ -7607,6 +7711,12 @@
     },
     "done": true
   },
+  "supplementaries:recipes/safe": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-14 03:13:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-01-14 02:17:26 +0000"
@@ -7622,6 +7732,12 @@
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2025-01-14 02:17:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-01-14 03:13:21 +0000"
     },
     "done": true
   },
@@ -7661,6 +7777,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-14 03:13:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-01-14 03:15:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_sand": "2025-01-14 03:05:39 +0000"
@@ -7685,9 +7813,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-14 03:13:12 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/maraca": {
     "criteria": {
       "maraca": "2025-01-14 02:50:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-01-14 03:20:58 +0000"
     },
     "done": true
   },
@@ -7748,6 +7888,12 @@
   "alltheores:recipes/misc/diamond_plate": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:gems/diamond]_ingot": "2025-01-14 02:17:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-01-14 03:13:12 +0000"
     },
     "done": true
   },

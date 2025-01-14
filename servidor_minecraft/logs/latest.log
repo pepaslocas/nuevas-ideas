@@ -3479,3 +3479,32 @@ java.lang.NullPointerException: Element not found: amount
 [14Jan2025 03:12:53.684] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft is bleeding. denercraft was burnt to a crisp whilst fighting Foundry Guardian
 [14Jan2025 03:13:00.827] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft burned to death
 [14Jan2025 03:13:07.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported denercraft to 1.500000, -7.500000, -2790.500000]
+[14Jan2025 03:16:01.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft is bleeding. denercraft was slain by Zombie
+[14Jan2025 03:16:15.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported denercraft to PavoLoco]
+[14Jan2025 03:17:03.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported denercraft to PavoLoco]
+[14Jan2025 03:19:28.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco is bleeding. PavoLoco was killed by magic whilst trying to escape Forge Sentry
+[14Jan2025 03:19:31.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported PavoLoco to denercraft]
+[14Jan2025 03:20:58.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco has made the advancement [Hidden in the Depths]
+[14Jan2025 03:21:00.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco is bleeding. PavoLoco was slain by Magma Cube
+[14Jan2025 03:21:23.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco is bleeding. PavoLoco tried to swim in lava to escape Magma Cube
+[14Jan2025 03:21:25.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft is bleeding. denercraft was slain by Magma Cube
+[14Jan2025 03:21:29.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco tried to swim in lava to escape Magma Cube
+[14Jan2025 03:21:31.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft was slain by Magma Cube
+[14Jan2025 03:21:39.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported denercraft to 6.500000, -7.500000, -2659.500000]
+[14Jan2025 03:21:43.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft is bleeding. denercraft was slain by Magma Cube
+[14Jan2025 03:21:51.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft was slain by Magma Cube
+[14Jan2025 03:21:59.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported denercraft to 11.500000, -7.500000, -2658.500000]
+[14Jan2025 03:22:04.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco is bleeding. PavoLoco fell from a high place
+[14Jan2025 03:22:36.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft is bleeding. denercraft was slain by Magma Cube
+[14Jan2025 03:22:42.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft was slain by Magma Cube
+[14Jan2025 03:22:43.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco fell from a high place
+[14Jan2025 03:22:48.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported denercraft to 95.500000, -15.500000, -2658.500000]
+[14Jan2025 03:23:01.176] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Forge Sentry'/35290, l='ServerLevel[world]', x=94.46, y=-16.00, z=-2656.66] died: Forge Sentry was slain by denercraft using [Master Sword]
+[14Jan2025 03:23:04.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco has made the advancement [Night Night]
+[14Jan2025 03:23:30.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco is bleeding. PavoLoco was slain by Spider
+[14Jan2025 03:23:38.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco was slain by Spider
+[14Jan2025 03:24:40.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported PavoLoco to denercraft]
+[14Jan2025 03:24:41.253] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/36384, l='ServerLevel[world]', x=-28.13, y=2.00, z=-2624.41] died: Debris Miner was slain by denercraft using [Master Sword]
+[14Jan2025 03:24:41.833] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity PiglinBrute['Debris Miner'/36385, l='ServerLevel[world]', x=-27.54, y=2.00, z=-2625.64] died: Debris Miner was slain by denercraft using [Master Sword]
+[14Jan2025 03:24:47.027] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/36596, l='ServerLevel[world]', x=-33.71, y=2.00, z=-2624.15] died: Foundry Guardian was slain by denercraft using [Master Sword]
+[14Jan2025 03:25:01.278] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Foundry Guardian'/36597, l='ServerLevel[world]', x=-29.62, y=-4.00, z=-2650.86] died: Foundry Guardian was slain by denercraft using [Master Sword]
