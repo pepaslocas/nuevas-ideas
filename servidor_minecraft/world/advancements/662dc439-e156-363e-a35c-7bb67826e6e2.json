@@ -2146,6 +2146,7 @@
       "minecraft:zombified_piglin": "2025-01-13 22:18:14 +0000",
       "minecraft:witch": "2025-01-14 03:18:37 +0000",
       "minecraft:cave_spider": "2025-01-13 22:35:53 +0000",
+      "minecraft:stray": "2025-01-14 04:45:30 +0000",
       "minecraft:zombie": "2025-01-13 21:11:00 +0000"
     },
     "done": false
@@ -8287,6 +8288,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-01-14 04:45:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2025-01-14 04:31:20 +0000"
@@ -8296,6 +8303,12 @@
   "supplementaries:recipes/pancake_fd": {
     "criteria": {
       "forge:eggs": "2025-01-14 04:28:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2025-01-14 04:46:15 +0000"
     },
     "done": true
   },
@@ -8326,6 +8339,12 @@
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2025-01-14 04:31:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-01-14 04:46:15 +0000"
     },
     "done": true
   },
@@ -8362,6 +8381,18 @@
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_chicken": "2025-01-14 04:27:56 +0000"
+    },
+    "done": true
+  },
+  "apotheosis:affix/boss": {
+    "criteria": {
+      "sword": "2025-01-14 04:45:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-01-14 04:46:15 +0000"
     },
     "done": true
   },

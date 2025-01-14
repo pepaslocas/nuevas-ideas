@@ -3176,3 +3176,29 @@ java.lang.NullPointerException: Element not found: amount
 [14Jan2025 04:44:17.770] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
 [14Jan2025 04:44:17.770] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
 [14Jan2025 04:44:17.770] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[14Jan2025 04:45:30.343] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Stray['Captain Shane'/16242, l='ServerLevel[world]', x=-161.11, y=68.17, z=-3273.72] died: Captain Shane was slain by PavoLoco
+[14Jan2025 04:45:31.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco has completed the challenge [He Wasn't So Strong]
+[14Jan2025 04:45:57.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported PavoLoco to denercraft]
+[14Jan2025 04:46:15.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco has made the advancement [Ice Bucket Challenge]
+[14Jan2025 04:48:36.405] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/rakambda/fallingtree/common/tree/TreePartType
+[14Jan2025 04:48:41.579] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_main_room_pool
+[14Jan2025 04:48:41.580] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_2_pool
+[14Jan2025 04:48:41.580] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_1_pool
+[14Jan2025 04:48:41.580] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_3_pool
+[14Jan2025 04:48:48.840] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/base/handler/SortingHandler$ItemType
+[14Jan2025 04:51:46.685] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[14Jan2025 04:51:49.031] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/content/mobs/ai/FindPlaceToSleepGoal$Target
+[14Jan2025 04:51:49.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco has made the advancement [We Need to Go Deeper]
+[14Jan2025 04:51:53.271] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/CrossbowAttack$CrossbowState
+[14Jan2025 04:51:53.298] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6578ms or 131 ticks behind
+[14Jan2025 04:51:54.365] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/contraptions/IControlContraption$RotationMode
+[14Jan2025 04:51:55.575] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/kinetics/transmission/sequencer/InstructionSpeedModifiers
+[14Jan2025 04:51:55.577] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/foundation/gui/AllGuiTextures
+[14Jan2025 04:51:55.701] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[14Jan2025 04:51:55.718] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft has made the advancement [We Need to Go Deeper]
+[14Jan2025 04:52:59.184] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Blaze['Doctor Arun'/28434, l='ServerLevel[world]', x=35.86, y=62.00, z=-432.81] died: Doctor Arun was slain by PavoLoco
+[14Jan2025 04:52:59.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft has completed the challenge [He Wasn't So Strong]
+[14Jan2025 04:52:59.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft has made the advancement [Epic!]
+[14Jan2025 04:53:40.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported denercraft to PavoLoco]
+[14Jan2025 04:53:46.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft has made the advancement [Far From Perfect]
+[14Jan2025 04:54:43.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported denercraft to PavoLoco]
