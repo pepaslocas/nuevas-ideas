@@ -8450,6 +8450,66 @@
     },
     "done": true
   },
+  "immersive_armors:recipes/misc/warrior": {
+    "criteria": {
+      "has_item": "2025-01-15 01:15:26 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_bathhouse": {
+    "criteria": {
+      "location0": "2025-01-15 01:15:49 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_monasteries": {
+    "criteria": {
+      "location0": "2025-01-15 01:21:08 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_infested_temple_map": {
+    "criteria": {
+      "find_map": "2025-01-15 01:21:19 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-01-15 01:21:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-01-15 01:21:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/master_chef": {
+    "criteria": {
+      "fish_stew": "2025-01-15 01:21:52 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-01-15 01:21:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-01-15 01:21:52 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/froststalker_kill": {
+    "criteria": {
+      "ex": "2025-01-15 01:22:43 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/jungle_desk": {
     "criteria": {
       "has_jungle_planks": "2025-01-15 01:23:25 +0000"
@@ -8477,12 +8537,6 @@
   "another_furniture:recipes/jungle_chair": {
     "criteria": {
       "has_planks": "2025-01-15 01:23:25 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/eat_comfort_food": {
-    "criteria": {
-      "comfort": "2025-01-15 01:21:52 +0000"
     },
     "done": true
   },
@@ -8521,12 +8575,6 @@
       "has_jungle_planks": "2025-01-15 01:23:25 +0000"
     },
     "done": true
-  },
-  "morevillagers:all_professions_traded": {
-    "criteria": {
-      "librarian": "2025-01-15 01:23:51 +0000"
-    },
-    "done": false
   },
   "valhelsia_furniture:recipes/decorations/blue_upholstered_jungle_chair": {
     "criteria": {
@@ -8570,12 +8618,6 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/froststalker_kill": {
-    "criteria": {
-      "ex": "2025-01-15 01:22:43 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/jungle_table": {
     "criteria": {
       "has_jungle_planks": "2025-01-15 01:23:25 +0000"
@@ -8612,12 +8654,6 @@
     },
     "done": true
   },
-  "dungeons_enhanced:seven_world_wonders": {
-    "criteria": {
-      "entered_monster_maze": "2025-01-15 01:26:41 +0000"
-    },
-    "done": false
-  },
   "supplementaries:recipes/decorations/sign_post_jungle": {
     "criteria": {
       "has_planks": "2025-01-15 01:23:25 +0000"
@@ -8636,41 +8672,11 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/slicing/red_dye_from_spider_eye": {
-    "criteria": {
-      "has_spider_eye": "2025-01-15 01:30:05 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/fermented_spider_eye": {
-    "criteria": {
-      "has_spider_eye": "2025-01-15 01:30:05 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/cyan_jungle_chair": {
     "criteria": {
       "has_jungle_planks": "2025-01-15 01:23:25 +0000"
     },
     "done": true
-  },
-  "dungeons_arise:find_bathhouse": {
-    "criteria": {
-      "location0": "2025-01-15 01:15:49 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/mixed_salad": {
-    "criteria": {
-      "has_bowl": "2025-01-15 01:21:52 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/master_chef": {
-    "criteria": {
-      "fish_stew": "2025-01-15 01:21:52 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/redstone/jungle_pressure_plate": {
     "criteria": {
@@ -8690,12 +8696,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/mushroom_stew": {
-    "criteria": {
-      "has_bowl": "2025-01-15 01:21:52 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/green_jungle_chair": {
     "criteria": {
       "has_jungle_planks": "2025-01-15 01:23:25 +0000"
@@ -8708,27 +8708,9 @@
     },
     "done": true
   },
-  "dungeons_enhanced:hidden_under_the_roots": {
-    "criteria": {
-      "entered_monster_maze": "2025-01-15 01:26:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/snow": {
-    "criteria": {
-      "has_snowball": "2025-01-15 01:25:11 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/jungle_storage_jar": {
     "criteria": {
       "has_jungle_planks": "2025-01-15 01:23:25 +0000"
-    },
-    "done": true
-  },
-  "majruszsdifficulty:creeperling": {
-    "criteria": {
-      "encountered_creeperling": "2025-01-15 01:25:15 +0000"
     },
     "done": true
   },
@@ -8738,21 +8720,9 @@
     },
     "done": true
   },
-  "dungeons_arise:find_infested_temple_map": {
-    "criteria": {
-      "find_map": "2025-01-15 01:21:19 +0000"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/jungle_cutting_board": {
     "criteria": {
       "has_jungle_planks": "2025-01-15 01:23:25 +0000"
-    },
-    "done": true
-  },
-  "apotheosis:enchanting/bookshelf": {
-    "criteria": {
-      "bookshelf": "2025-01-15 01:23:51 +0000"
     },
     "done": true
   },
@@ -8786,18 +8756,6 @@
     },
     "done": true
   },
-  "morevillagers:first_trade": {
-    "criteria": {
-      "villagertrade": "2025-01-15 01:23:51 +0000"
-    },
-    "done": true
-  },
-  "graveyard:graveyard/kill_graveyard_mob": {
-    "criteria": {
-      "revenant": "2025-01-15 01:25:25 +0000"
-    },
-    "done": true
-  },
   "another_furniture:recipes/jungle_table": {
     "criteria": {
       "has_planks": "2025-01-15 01:23:25 +0000"
@@ -8816,21 +8774,9 @@
     },
     "done": true
   },
-  "graveyard:graveyard/corruption": {
-    "criteria": {
-      "corruption": "2025-01-15 01:25:25 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/jungle_slab": {
     "criteria": {
       "has_planks": "2025-01-15 01:23:25 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/nether_salad": {
-    "criteria": {
-      "has_bowl": "2025-01-15 01:21:52 +0000"
     },
     "done": true
   },
@@ -8849,12 +8795,6 @@
   "minecraft:recipes/redstone/jungle_button": {
     "criteria": {
       "has_planks": "2025-01-15 01:23:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/trade": {
-    "criteria": {
-      "traded": "2025-01-15 01:23:51 +0000"
     },
     "done": true
   },
@@ -8942,27 +8882,111 @@
     },
     "done": true
   },
-  "immersive_armors:recipes/misc/warrior": {
-    "criteria": {
-      "has_item": "2025-01-15 01:15:26 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/gray_jungle_chair": {
     "criteria": {
       "has_jungle_planks": "2025-01-15 01:23:25 +0000"
     },
     "done": true
   },
-  "dungeons_arise:find_monasteries": {
+  "morevillagers:all_professions_traded": {
     "criteria": {
-      "location0": "2025-01-15 01:21:08 +0000"
+      "librarian": "2025-01-15 01:23:51 +0000"
+    },
+    "done": false
+  },
+  "apotheosis:enchanting/bookshelf": {
+    "criteria": {
+      "bookshelf": "2025-01-15 01:23:51 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:first_trade": {
+    "criteria": {
+      "villagertrade": "2025-01-15 01:23:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-01-15 01:23:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-01-15 01:25:11 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/snow_block": {
     "criteria": {
       "has_snowball": "2025-01-15 01:25:11 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:creeperling": {
+    "criteria": {
+      "encountered_creeperling": "2025-01-15 01:25:15 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/kill_graveyard_mob": {
+    "criteria": {
+      "revenant": "2025-01-15 01:25:25 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/corruption": {
+    "criteria": {
+      "corruption": "2025-01-15 01:25:25 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:seven_world_wonders": {
+    "criteria": {
+      "entered_monster_maze": "2025-01-15 01:26:41 +0000"
+    },
+    "done": false
+  },
+  "dungeons_enhanced:hidden_under_the_roots": {
+    "criteria": {
+      "entered_monster_maze": "2025-01-15 01:26:41 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-01-15 01:30:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-01-15 01:30:05 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/enter_catacombs": {
+    "criteria": {
+      "in_catacombs": "2025-01-15 01:47:56 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/spell_book_dead_king": {
+    "criteria": {
+      "requirement": "2025-01-15 01:49:59 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2025-01-15 01:49:58 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_legendary": {
+    "criteria": {
+      "requirement": "2025-01-15 01:49:58 +0000"
     },
     "done": true
   },
