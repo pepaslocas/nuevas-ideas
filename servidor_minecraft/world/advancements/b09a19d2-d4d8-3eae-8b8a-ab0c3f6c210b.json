@@ -1944,6 +1944,7 @@
       "minecraft:frozen_ocean": "2025-01-13 21:12:44 +0000",
       "minecraft:ocean": "2025-01-13 21:38:53 +0000",
       "minecraft:snowy_beach": "2025-01-14 23:35:57 +0000",
+      "minecraft:deep_dark": "2025-01-15 03:49:16 +0000",
       "minecraft:plains": "2025-01-14 23:15:20 +0000"
     },
     "done": false
@@ -7459,6 +7460,8 @@
   },
   "nova_structures:nether/find_piglins": {
     "criteria": {
+      "nova_structures:piglin_outstation": "2025-01-15 03:20:48 +0000",
+      "nova_structures:piglin_camp": "2025-01-15 02:27:03 +0000",
       "nova_structures:hamlet": "2025-01-14 17:38:21 +0000"
     },
     "done": false
@@ -8975,69 +8978,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/mushroom_rice": {
-    "criteria": {
-      "has_any_ingredient": "2025-01-15 01:57:24 +0000"
-    },
-    "done": true
-  },
-  "illusion_onslaught:mysterious_people": {
-    "criteria": {
-      "mysterious_people": "2025-01-15 01:59:56 +0000"
-    },
-    "done": true
-  },
-  "miners_delight:recipes/cooking/cave_soup": {
-    "criteria": {
-      "has_any_ingredient": "2025-01-15 01:57:24 +0000"
-    },
-    "done": true
-  },
-  "betterdungeons:skeleton_dungeon": {
-    "criteria": {
-      "in_better_skeleton_dungeon": "2025-01-15 02:10:10 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_plague_asylum": {
-    "criteria": {
-      "location0": "2025-01-15 02:11:23 +0000"
-    },
-    "done": true
-  },
   "irons_spellbooks:irons_spellbooks/enter_catacombs": {
     "criteria": {
       "in_catacombs": "2025-01-15 01:47:56 +0000"
-    },
-    "done": true
-  },
-  "graveyard:graveyard/root": {
-    "criteria": {
-      "grave_01": "2025-01-15 01:59:55 +0000"
-    },
-    "done": true
-  },
-  "dungeons_enhanced:wars_and_kingdoms": {
-    "criteria": {
-      "entered_castle": "2025-01-15 02:02:56 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/mushroom_stew": {
-    "criteria": {
-      "has_any_ingredient": "2025-01-15 01:57:24 +0000"
-    },
-    "done": true
-  },
-  "irons_spellbooks:irons_spellbooks/spell_book_dead_king": {
-    "criteria": {
-      "requirement": "2025-01-15 01:49:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/bowl": {
-    "criteria": {
-      "has_red_mushroom": "2025-01-15 01:57:24 +0000"
     },
     "done": true
   },
@@ -9053,9 +8996,603 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/spell_book_dead_king": {
+    "criteria": {
+      "requirement": "2025-01-15 01:49:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-15 01:57:24 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/cooking/cave_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-15 01:57:24 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-15 01:57:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2025-01-15 01:57:24 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/root": {
+    "criteria": {
+      "grave_01": "2025-01-15 01:59:55 +0000"
+    },
+    "done": true
+  },
+  "illusion_onslaught:mysterious_people": {
+    "criteria": {
+      "mysterious_people": "2025-01-15 01:59:56 +0000"
+    },
+    "done": true
+  },
   "illusion_onslaught:cultruins": {
     "criteria": {
       "cultruins": "2025-01-15 01:59:56 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:wars_and_kingdoms": {
+    "criteria": {
+      "entered_castle": "2025-01-15 02:02:56 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:skeleton_dungeon": {
+    "criteria": {
+      "in_better_skeleton_dungeon": "2025-01-15 02:10:10 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_plague_asylum": {
+    "criteria": {
+      "location0": "2025-01-15 02:11:23 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2025-01-15 02:26:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-01-15 02:34:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2025-01-15 02:34:48 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_structures:recipes/building_blocks/stripped_crimson_post": {
+    "criteria": {
+      "has_item": "2025-01-15 02:34:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_crimson_hyphae": {
+    "criteria": {
+      "has_log": "2025-01-15 02:34:48 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-01-15 02:34:57 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/blue_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-01-15 02:34:57 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/orange_upholstered_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-01-15 02:34:57 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/green_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-01-15 02:34:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-15 02:34:57 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/decorations/sign_post_crimson": {
+    "criteria": {
+      "has_planks": "2025-01-15 02:34:57 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-01-15 02:34:57 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/green_upholstered_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-01-15 02:34:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/crimson_window": {
+    "criteria": {
+      "has_ingredient": "2025-01-15 02:34:57 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_mail_box": {
+    "criteria": {
+      "has_crimson_planks": "2025-01-15 02:34:57 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/crimson_chair": {
+    "criteria": {
+      "has_planks": "2025-01-15 02:34:57 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-01-15 02:34:57 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-01-15 02:34:57 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_storage_jar": {
+    "criteria": {
+      "has_crimson_planks": "2025-01-15 02:34:57 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_desk": {
+    "criteria": {
+      "has_crimson_planks": "2025-01-15 02:34:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_slab": {
+    "criteria": {
+      "has_planks": "2025-01-15 02:34:57 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_cabinetry": {
+    "criteria": {
+      "has_crimson_planks": "2025-01-15 02:34:57 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-01-15 02:34:57 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_blue_upholstered_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-01-15 02:34:57 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-01-15 02:34:57 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/crimson_table": {
+    "criteria": {
+      "has_crimson_planks": "2025-01-15 02:34:57 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/crimson_shelf": {
+    "criteria": {
+      "has_planks": "2025-01-15 02:34:57 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/crimson_desk_drawer": {
+    "criteria": {
+      "has_crimson_planks": "2025-01-15 02:34:57 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_blue_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-01-15 02:34:57 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/lime_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-01-15 02:34:57 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_drawer": {
+    "criteria": {
+      "has_crimson_planks": "2025-01-15 02:34:57 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/lime_upholstered_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-01-15 02:34:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_sign": {
+    "criteria": {
+      "has_planks": "2025-01-15 02:34:57 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/magenta_upholstered_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-01-15 02:34:57 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_upholstered_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-01-15 02:34:57 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/brown_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-01-15 02:34:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_door": {
+    "criteria": {
+      "has_planks": "2025-01-15 02:34:57 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/crimson_desk": {
+    "criteria": {
+      "has_crimson_planks": "2025-01-15 02:34:57 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-01-15 02:34:57 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/orange_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-01-15 02:34:57 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_upholstered_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-01-15 02:34:57 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_table": {
+    "criteria": {
+      "has_crimson_planks": "2025-01-15 02:34:57 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_upholstered_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-01-15 02:34:57 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_crimson": {
+    "criteria": {
+      "has_the_recipe": "2025-01-15 02:34:57 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/brown_upholstered_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-01-15 02:34:57 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-01-15 02:34:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crimson_fence": {
+    "criteria": {
+      "has_planks": "2025-01-15 02:34:57 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_crimson_planks": "2025-01-15 02:34:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_button": {
+    "criteria": {
+      "has_planks": "2025-01-15 02:34:57 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_upholstered_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-01-15 02:34:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-15 02:34:57 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_crate": {
+    "criteria": {
+      "has_crimson_planks": "2025-01-15 02:34:57 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_upholstered_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-01-15 02:34:57 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_upholstered_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-01-15 02:34:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-15 02:34:57 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-01-15 02:34:57 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-01-15 02:34:57 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/white_upholstered_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-01-15 02:34:57 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-01-15 02:34:57 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_sink": {
+    "criteria": {
+      "has_crimson_planks": "2025-01-15 02:34:57 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-01-15 02:34:57 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/magenta_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-01-15 02:34:57 +0000"
+    },
+    "done": true
+  },
+  "another_furniture:recipes/crimson_table": {
+    "criteria": {
+      "has_planks": "2025-01-15 02:34:57 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/blue_upholstered_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-01-15 02:34:57 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_cutting_board": {
+    "criteria": {
+      "has_crimson_planks": "2025-01-15 02:34:57 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/crimson_drawer": {
+    "criteria": {
+      "has_crimson_planks": "2025-01-15 02:34:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/crimson_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-15 02:34:57 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_crimson_chair": {
+    "criteria": {
+      "has_crimson_planks": "2025-01-15 02:34:57 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_monstrosity": {
+    "criteria": {
+      "netheritemonstrosity": "2025-01-15 02:42:06 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_burning_arena": {
+    "criteria": {
+      "arena": "2025-01-15 02:45:33 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_revenant": {
+    "criteria": {
+      "endergolem": "2025-01-15 03:02:41 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_ignis": {
+    "criteria": {
+      "ignis": "2025-01-15 03:05:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-01-15 03:18:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-01-15 03:18:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-01-15 03:18:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-01-15 03:18:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-01-15 03:18:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-01-15 03:18:07 +0000"
+    },
+    "done": true
+  },
+  "nova_structures:nether/find_piglin_outpost": {
+    "criteria": {
+      "nova_structures:piglin_outstation": "2025-01-15 03:20:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-01-15 03:22:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-01-15 03:22:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-01-15 03:22:58 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/combat/fiery_quiver": {
+    "criteria": {
+      "has_blaze_powder": "2025-01-15 03:22:58 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/crypt": {
+    "criteria": {
+      "crypt": "2025-01-15 03:33:19 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/kill_wraith": {
+    "criteria": {
+      "wraith": "2025-01-15 03:36:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-01-15 03:40:16 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:fighting_nightmares": {
+    "criteria": {
+      "fighting_nightmares_0": "2025-01-15 03:43:04 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:mygothgf": {
+    "criteria": {
+      "mygothgf_0": "2025-01-15 03:47:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-01-15 03:52:21 +0000"
     },
     "done": true
   },
