@@ -3774,6 +3774,7 @@
       "cooked_beef": "2025-01-14 17:11:59 +0000",
       "porkchop": "2025-01-15 03:34:32 +0000",
       "apple": "2025-01-14 04:01:04 +0000",
+      "cooked_cod": "2025-01-15 19:20:04 +0000",
       "bread": "2025-01-13 21:32:46 +0000",
       "golden_apple": "2025-01-14 02:09:35 +0000",
       "melon_slice": "2025-01-14 17:23:09 +0000",
@@ -10845,6 +10846,12 @@
   "minecraft:recipes/misc/ward_armor_trim_smithing_template": {
     "criteria": {
       "has_ward_armor_trim_smithing_template": "2025-01-15 19:15:09 +0000"
+    },
+    "done": true
+  },
+  "dungeons_plus:adventure/find_warped_garden": {
+    "criteria": {
+      "in_structure": "2025-01-15 19:25:22 +0000"
     },
     "done": true
   },
