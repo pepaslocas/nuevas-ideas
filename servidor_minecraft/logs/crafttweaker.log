@@ -83,3 +83,13 @@
 [20:32:21.478][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
 [20:32:21.552][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [mods, crafttweaker, expansions]
 [20:32:21.558][INFO][CraftTweaker-ZenCode]: Execution for loader 'crafttweaker' completed successfully
+[21:21:21.757][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'tags'
+[21:21:21.757][INFO][CraftTweaker-ZenCode]: Undoing previous actions
+[21:21:21.774][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
+[21:21:21.777][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [crafttweaker, expansions]
+[21:21:21.783][INFO][CraftTweaker-ZenCode]: Execution for loader 'tags' completed successfully
+[21:21:23.010][INFO][CraftTweaker-ZenCode]: Started loading scripts for loader 'crafttweaker'
+[21:21:23.010][INFO][CraftTweaker-ZenCode]: Undoing previous actions
+[21:21:23.024][INFO][CraftTweaker-ZenCode]: Compiling and executing scripts
+[21:21:23.097][INFO][CraftTweaker-ZenCode]: Successfully initialized modules [mods, crafttweaker, expansions]
+[21:21:23.105][INFO][CraftTweaker-ZenCode]: Execution for loader 'crafttweaker' completed successfully
