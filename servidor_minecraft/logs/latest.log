@@ -15046,3 +15046,95 @@ java.lang.NullPointerException: Element not found: amount
 [15Jan2025 21:00:48.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Difficulty set to 200.0]
 [15Jan2025 21:01:57.974] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@571a0034[id=<null>,name=PavoLoco,properties={},legacy=false] (/127.250.170.172:33691) lost connection: Disconnected
 [15Jan2025 21:02:02.719] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@63306137[id=<null>,name=PavoLoco,properties={},legacy=false] (/127.250.170.172:41787) lost connection: Disconnected
+[15Jan2025 21:02:17.042] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 157
+[15Jan2025 21:02:17.042] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 158
+[15Jan2025 21:02:17.070] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 159
+[15Jan2025 21:02:17.192] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 160
+[15Jan2025 21:02:17.198] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 161
+[15Jan2025 21:02:17.198] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 162
+[15Jan2025 21:02:17.198] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 163
+[15Jan2025 21:02:17.361] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 164
+[15Jan2025 21:02:17.373] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 165
+[15Jan2025 21:02:17.373] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 166
+[15Jan2025 21:02:17.543] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 167
+[15Jan2025 21:02:17.543] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 168
+[15Jan2025 21:02:18.643] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 169
+[15Jan2025 21:02:19.276] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 170
+[15Jan2025 21:02:19.841] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 171
+[15Jan2025 21:02:19.984] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 172
+[15Jan2025 21:02:19.984] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 173
+[15Jan2025 21:02:20.034] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 174
+[15Jan2025 21:02:20.372] [Netty Epoll Server IO #2/INFO] [Calio/]: Received acknowledgment for login packet with id 175
+[15Jan2025 21:02:20.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[15Jan2025 21:02:20.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: f<--[HERE]
+[15Jan2025 21:02:20.492] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PavoLoco[/127.250.170.172:35191] logged in with entity id 89100 at (-3607.6593759558755, -28.0, -2603.253933840934)
+[15Jan2025 21:02:20.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco joined the game
+[15Jan2025 21:02:20.722] [Server thread/INFO] [Jade/]: Syncing config to PavoLoco (662dc439-e156-363e-a35c-7bb67826e6e2)
+[15Jan2025 21:02:21.623] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of PavoLoco (18)
+[15Jan2025 21:02:21.624] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to PavoLoco
+[15Jan2025 21:03:09.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Set own game mode to Creative Mode]
+[15Jan2025 21:03:32.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Set own game mode to Survival Mode]
+[15Jan2025 21:04:31.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco has made the advancement [The End?]
+[15Jan2025 21:04:31.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft has made the advancement [The End?]
+[15Jan2025 21:04:32.068] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2313ms or 46 ticks behind
+[15Jan2025 21:04:32.100] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: denercraft moved too quickly! 3730.834763633794,71.32352912385574,2606.909208006648
+[15Jan2025 21:04:33.670] [Server thread/INFO] [betterendisland/]: Scanning for legacy world dragon fight...
+[15Jan2025 21:04:34.159] [Server thread/INFO] [betterendisland/]: Found that the dragon has not yet been killed in this world.
+[15Jan2025 21:04:34.812] [Server thread/INFO] [betterendisland/]: Portal location is null. Placing manually...
+[15Jan2025 21:04:34.812] [Server thread/INFO] [betterendisland/]: Set the exit portal location to: BlockPos{x=0, y=65, z=0}
+[15Jan2025 21:04:43.864] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PavoLoco lost connection: Disconnected
+[15Jan2025 21:04:43.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco left the game
+[15Jan2025 21:04:43.865] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client PavoLoco
+[15Jan2025 21:05:49.286] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 157
+[15Jan2025 21:05:49.286] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 158
+[15Jan2025 21:05:49.292] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 159
+[15Jan2025 21:05:49.292] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 160
+[15Jan2025 21:05:49.292] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 161
+[15Jan2025 21:05:49.292] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 162
+[15Jan2025 21:05:49.292] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 163
+[15Jan2025 21:05:49.502] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 164
+[15Jan2025 21:05:49.502] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 165
+[15Jan2025 21:05:49.528] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 166
+[15Jan2025 21:05:49.528] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 167
+[15Jan2025 21:05:49.559] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 168
+[15Jan2025 21:05:50.179] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 169
+[15Jan2025 21:05:50.651] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 170
+[15Jan2025 21:05:51.101] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 171
+[15Jan2025 21:05:51.217] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 172
+[15Jan2025 21:05:51.217] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 173
+[15Jan2025 21:05:51.237] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 174
+[15Jan2025 21:05:51.543] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 175
+[15Jan2025 21:05:51.645] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PavoLoco[/127.250.170.172:46535] logged in with entity id 92641 at (98.318434672187, 49.5, 3.0879916857827103)
+[15Jan2025 21:05:51.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco joined the game
+[15Jan2025 21:05:51.862] [Server thread/INFO] [Jade/]: Syncing config to PavoLoco (662dc439-e156-363e-a35c-7bb67826e6e2)
+[15Jan2025 21:05:53.990] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of PavoLoco (18)
+[15Jan2025 21:05:53.990] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to PavoLoco
+[15Jan2025 21:06:25.460] [Server thread/INFO] [betterendisland/]: Starting initial dragon fight!
+[15Jan2025 21:06:25.460] [Server thread/INFO] [betterendisland/]: Found all crystals, starting initial dragon spawn.
+[15Jan2025 21:06:25.460] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/yungnickyoung/minecraft/betterendisland/world/DragonRespawnStage
+[15Jan2025 21:06:26.214] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:diamond_boots/apotheosis:mythic/ABILITY/0.3!
+[15Jan2025 21:06:55.621] [Server thread/INFO] [betterendisland/]: Set the exit portal location to: BlockPos{x=0, y=65, z=0}
+[15Jan2025 21:06:58.725] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[15Jan2025 21:06:58.725] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[15Jan2025 21:06:58.725] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[15Jan2025 21:06:58.725] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[15Jan2025 21:06:58.725] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[15Jan2025 21:08:38.521] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[15Jan2025 21:08:38.521] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 16 is dual wielding: false
+[15Jan2025 21:08:38.521] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[15Jan2025 21:08:38.521] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[15Jan2025 21:08:38.521] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[15Jan2025 21:08:41.218] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[15Jan2025 21:08:41.219] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[15Jan2025 21:08:41.219] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[15Jan2025 21:08:41.219] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[15Jan2025 21:08:41.219] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[15Jan2025 21:09:24.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco is bleeding. PavoLoco was slain by Enderman
+[15Jan2025 21:09:44.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported PavoLoco to denercraft]
+[15Jan2025 21:10:33.510] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule minecraft:netherite_helmet/apotheosis:mythic/ABILITY/0.3!
+[15Jan2025 21:10:41.417] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PavoLoco moved wrongly!
+[15Jan2025 21:10:43.808] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[15Jan2025 21:10:43.809] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[15Jan2025 21:10:43.809] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[15Jan2025 21:10:43.809] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[15Jan2025 21:10:43.809] [Netty Epoll Server IO #4/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
