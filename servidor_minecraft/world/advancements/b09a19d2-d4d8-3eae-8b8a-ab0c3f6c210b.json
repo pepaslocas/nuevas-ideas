@@ -2124,6 +2124,7 @@
       "minecraft:piglin_brute": "2025-01-13 22:38:24 +0000",
       "minecraft:spider": "2025-01-14 03:34:32 +0000",
       "minecraft:creeper": "2025-01-13 22:38:04 +0000",
+      "quark:forgotten": "2025-01-15 20:43:15 +0000",
       "minecraft:phantom": "2025-01-13 22:38:22 +0000",
       "minecraft:zombified_piglin": "2025-01-14 05:02:30 +0000",
       "minecraft:witch": "2025-01-14 03:18:15 +0000",
@@ -2134,6 +2135,7 @@
       "minecraft:piglin": "2025-01-14 04:52:18 +0000",
       "minecraft:stray": "2025-01-14 23:16:29 +0000",
       "minecraft:silverfish": "2025-01-14 23:44:52 +0000",
+      "minecraft:enderman": "2025-01-15 20:43:51 +0000",
       "minecraft:zombie": "2025-01-13 21:13:35 +0000",
       "quark:foxhound": "2025-01-14 04:58:09 +0000",
       "minecraft:zombie_villager": "2025-01-14 18:05:07 +0000"
@@ -9760,6 +9762,12 @@
   "betterdungeons:zombie_dungeon": {
     "criteria": {
       "in_better_zombie_dungeon": "2025-01-15 20:24:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_integrated_stronghold": "2025-01-15 20:38:06 +0000"
     },
     "done": true
   },

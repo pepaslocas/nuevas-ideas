@@ -11045,6 +11045,18 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_integrated_stronghold": "2025-01-15 20:38:01 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/food/weird_caviar": {
+    "criteria": {
+      "has_silverfish_eggs": "2025-01-15 20:46:11 +0000"
+    },
+    "done": true
+  },
   "undead_revamp2:parry": {
     "criteria": {
       "parry_0": "2025-01-15 20:36:54 +0000"
@@ -11072,6 +11084,12 @@
   "skilltree:recipes/combat/fiery_quiver": {
     "criteria": {
       "has_blaze_powder": "2025-01-15 20:34:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-01-15 20:43:21 +0000"
     },
     "done": true
   },
