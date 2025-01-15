@@ -10864,3 +10864,48 @@ java.lang.NullPointerException: Element not found: amount
 [15Jan2025 19:30:17.519] [Worker-Main-31/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
 [15Jan2025 19:30:22.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PavoLoco: Teleported PavoLoco to -5663.500000, 70.000000, -22079.500000]
 [15Jan2025 19:30:24.433] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 9028ms or 180 ticks behind
+[15Jan2025 19:30:50.621] [Worker-Main-31/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[15Jan2025 19:31:05.220] [Worker-Main-2/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[15Jan2025 19:31:13.884] [Worker-Main-31/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/WildenHunter$Animations
+[15Jan2025 19:31:18.142] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Farmer'/11571, l='ServerLevel[world]', x=-5617.93, y=79.00, z=-22036.79] died, message: 'Farmer was slain by Spider'
+[15Jan2025 19:31:29.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[15Jan2025 19:31:29.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: v<--[HERE]
+[15Jan2025 19:31:30.039] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/citadel/animation/AnimationHandler
+[15Jan2025 19:31:34.724] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/Phantom$AttackPhase
+[15Jan2025 19:32:18.185] [Worker-Main-18/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[15Jan2025 19:32:22.649] [Worker-Main-31/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[15Jan2025 19:32:24.041] [Worker-Main-31/ERROR] [Supplementaries/]: Failed to load textholder data for block at BlockPos{x=-5887, y=66, z=-22384}
+[15Jan2025 19:32:24.042] [Worker-Main-31/ERROR] [Supplementaries/]: Failed to load textholder data for block at BlockPos{x=-5885, y=66, z=-22383}
+[15Jan2025 19:32:24.042] [Worker-Main-31/ERROR] [Supplementaries/]: Failed to load textholder data for block at BlockPos{x=-5887, y=66, z=-22383}
+[15Jan2025 19:32:24.055] [Worker-Main-31/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/common/block/tiles/StatueBlockTile$StatuePose
+[15Jan2025 19:32:26.188] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/supplementaries/client/GlobeManager$Model
+[15Jan2025 19:32:26.196] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/fluids/FluidTransportBehaviour$UpdatePhase
+[15Jan2025 19:32:26.219] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/addons/oddities/block/be/PipeBlockEntity$ConnectionType
+[15Jan2025 19:32:59.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco has reached the goal [Dark Creator]
+[15Jan2025 19:32:59.420] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting insane96mcp/enhancedai/modules/witch/darkart/DarkArtWitchGoal$Phase
+[15Jan2025 19:33:59.985] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/content/building/entity/GlassItemFrame$SignAttachment
+[15Jan2025 19:33:59.986] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tallestegg/guardvillagers/entities/ai/goals/RangedCrossbowAttackPassiveGoal$CrossbowState
+[15Jan2025 19:34:01.237] [Worker-Main-18/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[15Jan2025 19:34:04.837] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting insane96mcp/enhancedai/modules/mobs/fisher/FishingHook$FishHookState
+[15Jan2025 19:34:05.250] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/contraptions/IControlContraption$RotationMode
+[15Jan2025 19:34:10.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco has completed the challenge [I'm not sugar coating it]
+[15Jan2025 19:34:12.424] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/pathfinding/PathFindingStatus
+[15Jan2025 19:34:12.424] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/pathfinding/AbstractAdvancedPathNavigate$RestrictionType
+[15Jan2025 19:34:12.427] [AN stolen Minecolonies Pathfinding Worker #0/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/hollingsworth/arsnouveau/common/entity/pathfinding/SurfaceType
+[15Jan2025 19:34:14.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco has completed the challenge [Well, that was disgusting]
+[15Jan2025 19:34:19.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco has completed the challenge [Yo mama so fat, she digests her fetuses]
+[15Jan2025 19:35:00.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PavoLoco: Set own game mode to Spectator Mode]
+[15Jan2025 19:35:19.378] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco has made the advancement [The Imperial March]
+[15Jan2025 19:35:34.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PavoLoco: Set own game mode to Survival Mode]
+[15Jan2025 19:35:45.576] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/api/spells/CastType
+[15Jan2025 19:36:27.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PavoLoco: Set own game mode to Creative Mode]
+[15Jan2025 19:37:53.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PavoLoco: Set own game mode to Survival Mode]
+[15Jan2025 19:38:20.606] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[15Jan2025 19:39:02.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco is bleeding. PavoLoco was doomed to fall
+[15Jan2025 19:39:24.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PavoLoco: Teleported PavoLoco to denercraft]
+[15Jan2025 19:39:33.717] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/capabilities/magic/RecastResult
+[15Jan2025 19:39:33.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco was doomed to fall
+[15Jan2025 19:39:35.240] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/api/vessel/VesselContainer$SetResult
+[15Jan2025 19:39:44.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PavoLoco: Teleported PavoLoco to denercraft]
+[15Jan2025 19:40:25.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[15Jan2025 19:40:25.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d<--[HERE]
