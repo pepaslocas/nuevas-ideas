@@ -246,7 +246,7 @@
 [attributes]
 	#Health will be multiplied by 1 + difficulty*0.016*x. Set to 0 to disable
 	#Range: 0.0 ~ 1.7976931348623157E308
-	"Health Increase Multiplier" = 0.5
+	"Health Increase Multiplier" = 1.8
 	#Health will be multiplied by at maximum this. Set to 0 means no limit
 	#Range: 0.0 ~ 1.7976931348623157E308
 	"Max Health Increase" = 0
@@ -255,7 +255,7 @@
 	"Round HP" = 0.5
 	#Damage will be multiplied by 1 + difficulty*0.008*x. Set to 0 to disable
 	#Range: 0.0 ~ 1.7976931348623157E308
-	"Damage Increase Multiplier" = 0.5
+	"Damage Increase Multiplier" = 1.8
 	#Damage will be multiplied by at maximum this. Set to 0 means no limit
 	#Range: 0.0 ~ 1.7976931348623157E308
 	"Max Damage Increase" = 0
@@ -285,7 +285,7 @@
 	"Max Projectile Damage" = 2.0
 	#Explosion Damage will be multiplied by 1 + difficulty*0.003*x. Set to 0 to disable
 	#Range: 0.0 ~ 1.7976931348623157E308
-	"Explosion Damage Increase" = 20
+	"Explosion Damage Increase" = 1.8
 	#Explosion damage will be multiplied by maximum of this
 	#Range: 0.0 ~ 1.7976931348623157E308
 	"Max Explosion Damage" = 0

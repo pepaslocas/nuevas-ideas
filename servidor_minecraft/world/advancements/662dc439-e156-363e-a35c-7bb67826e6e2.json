@@ -10860,11 +10860,23 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/mushroom_rice": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-15 20:04:10 +0000"
+    },
+    "done": true
+  },
   "born_in_chaos_v1:charm_collector": {
     "criteria": {
       "charm_collector_1": "2025-01-15 19:33:23 +0000"
     },
     "done": false
+  },
+  "miners_delight:recipes/cooking/cave_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-15 20:04:10 +0000"
+    },
+    "done": true
   },
   "alltheores:recipes/misc/raw_tin_block": {
     "criteria": {
@@ -10881,6 +10893,12 @@
   "dungeons_arise:find_heavenly_challenger": {
     "criteria": {
       "location0": "2025-01-15 19:35:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
+    "criteria": {
+      "has_nether_brick_slab": "2025-01-15 20:04:49 +0000"
     },
     "done": true
   },
@@ -10914,15 +10932,39 @@
     },
     "done": true
   },
+  "awesomedungeonnether:nth_giant_crimson_tree/find_normal": {
+    "criteria": {
+      "requirement": "2025-01-15 19:59:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2025-01-15 20:04:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/skull_banner_pattern": {
     "criteria": {
       "has_wither_skeleton_skull": "2025-01-15 19:47:06 +0000"
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/mushroom_stew": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-15 20:04:10 +0000"
+    },
+    "done": true
+  },
   "undead_revamp2:mommy": {
     "criteria": {
       "mommy_0": "2025-01-15 19:34:19 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_ignis": {
+    "criteria": {
+      "ignis": "2025-01-15 20:01:55 +0000"
     },
     "done": true
   },
@@ -10935,6 +10977,12 @@
   "alexsmobs:alexsmobs/crimson_mosquito": {
     "criteria": {
       "killed_by": "2025-01-15 19:52:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2025-01-15 20:04:10 +0000"
     },
     "done": true
   },
