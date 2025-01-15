@@ -2161,6 +2161,7 @@
       "minecraft:piglin_brute": "2025-01-13 22:18:41 +0000",
       "minecraft:spider": "2025-01-13 22:02:40 +0000",
       "minecraft:creeper": "2025-01-14 04:38:21 +0000",
+      "minecraft:slime": "2025-01-15 01:41:04 +0000",
       "minecraft:phantom": "2025-01-13 22:34:57 +0000",
       "minecraft:zombified_piglin": "2025-01-13 22:18:14 +0000",
       "minecraft:witch": "2025-01-14 03:18:37 +0000",
@@ -10299,6 +10300,12 @@
   "skilltree:recipes/misc/copper_nugget": {
     "criteria": {
       "has_ingots_copper": "2025-01-15 01:27:41 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:kill_yourself": {
+    "criteria": {
+      "kill_yourself": "2025-01-15 01:42:38 +0000"
     },
     "done": true
   },

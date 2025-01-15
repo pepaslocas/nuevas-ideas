@@ -3335,3 +3335,48 @@ java.lang.NullPointerException: Element not found: amount
 [15Jan2025 01:33:28.157] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_3_pool
 [15Jan2025 01:33:36.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PavoLoco: Set own game mode to Survival Mode]
 [15Jan2025 01:36:50.373] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/BeehiveBlockEntity$BeeReleaseStatus
+[15Jan2025 01:42:02.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco is bleeding. PavoLoco was shot by Skeleton
+[15Jan2025 01:42:10.895] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/capabilities/magic/RecastResult
+[15Jan2025 01:42:10.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco was shot by Skeleton
+[15Jan2025 01:42:12.219] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tictim/paraglider/api/vessel/VesselContainer$SetResult
+[15Jan2025 01:42:23.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PavoLoco: Set own game mode to Creative Mode]
+[15Jan2025 01:42:33.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PavoLoco: Teleported PavoLoco to -7848.500000, -15.500000, -14776.500000]
+[15Jan2025 01:42:38.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco has made the advancement ['Kill Yourself' Has Acquired a New Meaning]
+[15Jan2025 01:42:38.780] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['PavoLoco'/20502, l='ServerLevel[world]', x=-7850.70, y=-16.00, z=-14776.70] died: PavoLoco was slain by PavoLoco
+[15Jan2025 01:42:40.990] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['PavoLoco'/20506, l='ServerLevel[world]', x=-7846.87, y=-16.00, z=-14776.70] died: PavoLoco was slain by PavoLoco
+[15Jan2025 01:45:32.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PavoLoco: Set own game mode to Survival Mode]
+[15Jan2025 01:46:52.992] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/mehvahdjukaar/amendments/reg/ModBlockProperties$PostType
+[15Jan2025 01:47:20.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[15Jan2025 01:47:20.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: fd<--[HERE]
+[15Jan2025 01:47:41.060] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 157
+[15Jan2025 01:47:41.060] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 158
+[15Jan2025 01:47:41.194] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 159
+[15Jan2025 01:47:41.194] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 160
+[15Jan2025 01:47:41.200] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 161
+[15Jan2025 01:47:41.200] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 162
+[15Jan2025 01:47:41.377] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 163
+[15Jan2025 01:47:41.377] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 164
+[15Jan2025 01:47:41.413] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 165
+[15Jan2025 01:47:41.546] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 166
+[15Jan2025 01:47:41.547] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 167
+[15Jan2025 01:47:41.547] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 168
+[15Jan2025 01:47:42.301] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 169
+[15Jan2025 01:47:42.792] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 170
+[15Jan2025 01:47:43.223] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 171
+[15Jan2025 01:47:43.342] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 172
+[15Jan2025 01:47:43.342] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 173
+[15Jan2025 01:47:43.359] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 174
+[15Jan2025 01:47:43.636] [Netty Epoll Server IO #4/INFO] [Calio/]: Received acknowledgment for login packet with id 175
+[15Jan2025 01:47:43.737] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: denercraft[/127.158.216.55:43901] logged in with entity id 22464 at (-7814.300000011921, 44.0, -14703.636145876593)
+[15Jan2025 01:47:43.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft joined the game
+[15Jan2025 01:47:44.017] [Server thread/INFO] [Jade/]: Syncing config to denercraft (b09a19d2-d4d8-3eae-8b8a-ab0c3f6c210b)
+[15Jan2025 01:47:44.132] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of denercraft (18)
+[15Jan2025 01:47:44.132] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to denercraft
+[15Jan2025 01:47:56.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported denercraft to PavoLoco]
+[15Jan2025 01:47:56.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft has made the advancement [Dungeon Delving]
+[15Jan2025 01:48:55.857] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/entity/mobs/dead_king_boss/DeadKingBoss$AttackType
+[15Jan2025 01:48:55.921] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/entity/mobs/dead_king_boss/DeadKingBoss$Phases
+[15Jan2025 01:49:55.028] [Server thread/ERROR] [Apotheosis : Adventure/]: Failed to execute LootRule irons_spellbooks:necronomicon_spell_book/apotheosis:rare/ABILITY/1.0!
+[15Jan2025 01:49:58.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft has made the advancement [Tools of the Trade]
+[15Jan2025 01:49:58.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft has completed the challenge [Premium!]
+[15Jan2025 01:49:59.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft has completed the challenge [Necronomicon]
