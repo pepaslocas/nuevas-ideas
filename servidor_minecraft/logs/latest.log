@@ -10909,3 +10909,16 @@ java.lang.NullPointerException: Element not found: amount
 [15Jan2025 19:39:44.386] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PavoLoco: Teleported PavoLoco to denercraft]
 [15Jan2025 19:40:25.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
 [15Jan2025 19:40:25.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d<--[HERE]
+[15Jan2025 19:44:36.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PavoLoco: Set own game mode to Creative Mode]
+[15Jan2025 19:46:03.230] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[15Jan2025 19:46:03.740] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/content/mobs/ai/FindPlaceToSleepGoal$Target
+[15Jan2025 19:46:03.881] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/CrossbowAttack$CrossbowState
+[15Jan2025 19:46:09.381] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/contraptions/IControlContraption$MovementMode
+[15Jan2025 19:46:13.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PavoLoco: Set own game mode to Survival Mode]
+[15Jan2025 19:47:04.777] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity WitherSkeleton['Quincy the Pathetic'/19950, l='ServerLevel[world]', x=-622.18, y=39.00, z=-2320.65] died: Quincy the Pathetic was slain by PavoLoco
+[15Jan2025 19:47:06.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco has made the advancement [Spooky Scary Skeleton]
+[15Jan2025 19:48:05.682] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-573, y=34, z=-2370} BlockPos{x=-572, y=35, z=-2372}
+[15Jan2025 19:48:05.724] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-573, y=34, z=-2370} BlockPos{x=-572, y=35, z=-2372}
+[15Jan2025 19:48:05.773] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-573, y=34, z=-2370} BlockPos{x=-572, y=35, z=-2372}
+[15Jan2025 19:48:05.823] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-573, y=34, z=-2370} BlockPos{x=-572, y=35, z=-2372}
+[15Jan2025 19:48:40.572] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-567, y=20, z=-2370} BlockPos{x=-567, y=21, z=-2371}
