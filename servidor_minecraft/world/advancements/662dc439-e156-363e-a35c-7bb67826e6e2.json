@@ -2120,6 +2120,7 @@
       "cold_desert": "2025-01-15 00:32:43 +0000",
       "old_growth_woodland": "2025-01-14 04:31:04 +0000",
       "maple_woods": "2025-01-14 23:11:26 +0000",
+      "crystalline_chasm": "2025-01-15 20:14:11 +0000",
       "field": "2025-01-14 18:12:50 +0000",
       "orchard": "2025-01-15 19:30:22 +0000",
       "lavender_forest": "2025-01-13 21:39:25 +0000",
@@ -2162,6 +2163,7 @@
       "minecraft:pillager": "2025-01-13 22:29:57 +0000",
       "minecraft:blaze": "2025-01-14 03:28:30 +0000",
       "minecraft:skeleton": "2025-01-13 21:13:48 +0000",
+      "minecraft:zoglin": "2025-01-15 20:23:15 +0000",
       "minecraft:hoglin": "2025-01-14 17:48:55 +0000",
       "minecraft:vindicator": "2025-01-13 22:29:53 +0000",
       "minecraft:magma_cube": "2025-01-14 03:20:43 +0000",
@@ -8487,9 +8489,10 @@
       "minecraft:crimson_forest": "2025-01-14 17:08:42 +0000",
       "minecraft:nether_wastes": "2025-01-14 04:51:54 +0000",
       "minecraft:soul_sand_valley": "2025-01-14 04:54:18 +0000",
-      "minecraft:warped_forest": "2025-01-15 19:51:15 +0000"
+      "minecraft:warped_forest": "2025-01-15 19:51:15 +0000",
+      "minecraft:basalt_deltas": "2025-01-15 20:19:31 +0000"
     },
-    "done": false
+    "done": true
   },
   "alltheores:recipes/misc/raw_aluminum_block": {
     "criteria": {
@@ -10860,9 +10863,27 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/mushroom_rice": {
+  "dungeons_arise:find_undead_pirate_ship": {
     "criteria": {
-      "has_any_ingredient": "2025-01-15 20:04:10 +0000"
+      "location0": "2025-01-15 19:26:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2025-01-15 19:29:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/oak_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2025-01-15 19:30:55 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:dark_creator": {
+    "criteria": {
+      "dark_creator_0": "2025-01-15 19:32:59 +0000"
     },
     "done": true
   },
@@ -10872,9 +10893,39 @@
     },
     "done": false
   },
-  "miners_delight:recipes/cooking/cave_soup": {
+  "undead_revamp2:sugarcoat": {
     "criteria": {
-      "has_any_ingredient": "2025-01-15 20:04:10 +0000"
+      "sugarcoat_0": "2025-01-15 19:34:10 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:nowyouknow": {
+    "criteria": {
+      "nowyouknow_0": "2025-01-15 19:34:14 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:mommy": {
+    "criteria": {
+      "mommy_0": "2025-01-15 19:34:19 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_heavenly_challenger": {
+    "criteria": {
+      "location0": "2025-01-15 19:35:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-01-15 19:47:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-01-15 19:47:06 +0000"
     },
     "done": true
   },
@@ -10890,27 +10941,9 @@
     },
     "done": true
   },
-  "dungeons_arise:find_heavenly_challenger": {
+  "alltheores:recipes/misc/tin_ingot_from_raw_blasting": {
     "criteria": {
-      "location0": "2025-01-15 19:35:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
-    "criteria": {
-      "has_nether_brick_slab": "2025-01-15 20:04:49 +0000"
-    },
-    "done": true
-  },
-  "undead_revamp2:nowyouknow": {
-    "criteria": {
-      "nowyouknow_0": "2025-01-15 19:34:14 +0000"
-    },
-    "done": true
-  },
-  "dungeons_arise:find_undead_pirate_ship": {
-    "criteria": {
-      "location0": "2025-01-15 19:26:48 +0000"
+      "has_item": "2025-01-15 19:48:44 +0000"
     },
     "done": true
   },
@@ -10920,15 +10953,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/decorations/oak_cabinet": {
+  "alexsmobs:alexsmobs/crimson_mosquito": {
     "criteria": {
-      "has_oak_trapdoor": "2025-01-15 19:30:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/get_wither_skull": {
-    "criteria": {
-      "wither_skull": "2025-01-15 19:47:06 +0000"
+      "killed_by": "2025-01-15 19:52:11 +0000"
     },
     "done": true
   },
@@ -10938,15 +10965,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/mushroom_stew": {
+  "cataclysm:kill_ignis": {
     "criteria": {
-      "has_red_mushroom": "2025-01-15 20:04:10 +0000"
+      "ignis": "2025-01-15 20:01:55 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/skull_banner_pattern": {
+  "farmersdelight:recipes/cooking/mushroom_rice": {
     "criteria": {
-      "has_wither_skeleton_skull": "2025-01-15 19:47:06 +0000"
+      "has_any_ingredient": "2025-01-15 20:04:10 +0000"
+    },
+    "done": true
+  },
+  "miners_delight:recipes/cooking/cave_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-01-15 20:04:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2025-01-15 20:04:10 +0000"
     },
     "done": true
   },
@@ -10956,51 +10995,33 @@
     },
     "done": true
   },
-  "undead_revamp2:mommy": {
-    "criteria": {
-      "mommy_0": "2025-01-15 19:34:19 +0000"
-    },
-    "done": true
-  },
-  "cataclysm:kill_ignis": {
-    "criteria": {
-      "ignis": "2025-01-15 20:01:55 +0000"
-    },
-    "done": true
-  },
-  "born_in_chaos_v1:dark_creator": {
-    "criteria": {
-      "dark_creator_0": "2025-01-15 19:32:59 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/crimson_mosquito": {
-    "criteria": {
-      "killed_by": "2025-01-15 19:52:11 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_red_mushroom": "2025-01-15 20:04:10 +0000"
     },
     "done": true
   },
-  "undead_revamp2:sugarcoat": {
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
     "criteria": {
-      "sugarcoat_0": "2025-01-15 19:34:10 +0000"
+      "has_nether_brick_slab": "2025-01-15 20:04:49 +0000"
     },
     "done": true
   },
-  "alltheores:recipes/misc/tin_ingot_from_raw_blasting": {
+  "farmersdelight:recipes/decorations/spruce_cabinet": {
     "criteria": {
-      "has_item": "2025-01-15 19:48:44 +0000"
+      "has_spruce_trapdoor": "2025-01-15 20:26:00 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/tools/recovery_compass": {
+  "idas:wizardtower": {
     "criteria": {
-      "has_echo_shard": "2025-01-15 19:29:25 +0000"
+      "in_wizardtower": "2025-01-15 20:22:53 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:nether/find_citadel": {
+    "criteria": {
+      "citadel": "2025-01-15 20:17:18 +0000"
     },
     "done": true
   },

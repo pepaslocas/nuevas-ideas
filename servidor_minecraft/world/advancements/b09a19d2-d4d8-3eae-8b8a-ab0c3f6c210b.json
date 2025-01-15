@@ -1929,6 +1929,7 @@
       "minecraft:bamboo_jungle": "2025-01-15 02:02:20 +0000",
       "minecraft:beach": "2025-01-13 21:51:59 +0000",
       "minecraft:dark_forest": "2025-01-15 01:26:41 +0000",
+      "minecraft:sparse_jungle": "2025-01-15 20:21:49 +0000",
       "minecraft:lukewarm_ocean": "2025-01-13 22:01:20 +0000",
       "minecraft:river": "2025-01-13 21:39:01 +0000",
       "minecraft:stony_shore": "2025-01-13 21:13:53 +0000",
@@ -2692,11 +2693,12 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
+      "in_better_zombie_dungeon": "2025-01-15 20:24:56 +0000",
       "in_better_monster_room": "2025-01-13 21:22:18 +0000",
       "in_better_spider_dungeon": "2025-01-14 02:17:19 +0000",
       "in_better_skeleton_dungeon": "2025-01-15 02:10:10 +0000"
     },
-    "done": false
+    "done": true
   },
   "betterdungeons:small_dungeon": {
     "criteria": {
@@ -3808,6 +3810,7 @@
       "old_growth_woodland": "2025-01-14 04:31:04 +0000",
       "maple_woods": "2025-01-15 01:14:57 +0000",
       "crystalline_chasm": "2025-01-14 04:54:37 +0000",
+      "withered_abyss": "2025-01-15 20:16:16 +0000",
       "field": "2025-01-14 22:49:43 +0000",
       "lavender_forest": "2025-01-13 21:39:11 +0000",
       "mediterranean_forest": "2025-01-13 21:47:42 +0000",
@@ -9597,12 +9600,6 @@
     },
     "done": true
   },
-  "simplyswords:soulkeeper": {
-    "criteria": {
-      "requirement": "2025-01-15 20:05:43 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_blackstone_stairs": {
     "criteria": {
       "has_polished_blackstone": "2025-01-15 19:58:22 +0000"
@@ -9627,24 +9624,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
-    "criteria": {
-      "has_cooked_rabbit": "2025-01-15 20:04:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
-    "criteria": {
-      "has_nether_brick_slab": "2025-01-15 20:04:31 +0000"
-    },
-    "done": true
-  },
-  "simplyswords:wickpiercer": {
-    "criteria": {
-      "requirement": "2025-01-15 20:05:29 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-01-15 19:58:22 +0000"
@@ -9663,18 +9642,6 @@
     },
     "done": true
   },
-  "majruszsdifficulty:warden_treasure_bag": {
-    "criteria": {
-      "bag_opened": "2025-01-15 20:00:57 +0000"
-    },
-    "done": true
-  },
-  "awesomedungeonnether:nth_giant_crimson_tree/find_normal": {
-    "criteria": {
-      "requirement": "2025-01-15 19:59:38 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/polished_blackstone_wall_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-01-15 19:58:22 +0000"
@@ -9684,12 +9651,6 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_stonecutting": {
     "criteria": {
       "has_polished_blackstone": "2025-01-15 19:58:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
-    "criteria": {
-      "has_cooked_rabbit": "2025-01-15 20:04:54 +0000"
     },
     "done": true
   },
@@ -9711,15 +9672,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-15 19:58:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall": {
+    "criteria": {
+      "has_polished_blackstone": "2025-01-15 19:58:22 +0000"
+    },
+    "done": true
+  },
+  "awesomedungeonnether:nth_giant_crimson_tree/find_normal": {
+    "criteria": {
+      "requirement": "2025-01-15 19:59:38 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:warden_treasure_bag": {
+    "criteria": {
+      "bag_opened": "2025-01-15 20:00:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/recovery_compass": {
     "criteria": {
       "has_echo_shard": "2025-01-15 20:00:57 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/polished_blackstone_pressure_plate": {
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks": {
     "criteria": {
-      "has_polished_blackstone": "2025-01-15 19:58:22 +0000"
+      "has_nether_brick_slab": "2025-01-15 20:04:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_brown_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-01-15 20:04:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/rabbit_stew_from_red_mushroom": {
+    "criteria": {
+      "has_cooked_rabbit": "2025-01-15 20:04:54 +0000"
     },
     "done": true
   },
@@ -9729,9 +9726,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/polished_blackstone_wall": {
+  "simplyswords:wickpiercer": {
     "criteria": {
-      "has_polished_blackstone": "2025-01-15 19:58:22 +0000"
+      "requirement": "2025-01-15 20:05:29 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:soulkeeper": {
+    "criteria": {
+      "requirement": "2025-01-15 20:05:43 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:nether/kill_wildfire": {
+    "criteria": {
+      "killed_wildfire": "2025-01-15 20:17:42 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-01-15 20:24:56 +0000"
+    },
+    "done": true
+  },
+  "idas:wizardtower": {
+    "criteria": {
+      "in_wizardtower": "2025-01-15 20:22:58 +0000"
+    },
+    "done": true
+  },
+  "friendsandfoes:nether/find_citadel": {
+    "criteria": {
+      "citadel": "2025-01-15 20:17:05 +0000"
     },
     "done": true
   },
