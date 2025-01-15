@@ -1938,6 +1938,7 @@
       "minecraft:grove": "2025-01-13 21:02:04 +0000",
       "minecraft:swamp": "2025-01-14 23:12:56 +0000",
       "minecraft:cold_ocean": "2025-01-13 21:20:22 +0000",
+      "minecraft:forest": "2025-01-15 02:11:37 +0000",
       "minecraft:lush_caves": "2025-01-15 01:29:43 +0000",
       "minecraft:deep_cold_ocean": "2025-01-13 21:20:23 +0000",
       "minecraft:frozen_ocean": "2025-01-13 21:12:44 +0000",
@@ -2691,7 +2692,8 @@
   "betterdungeons:all_dungeons": {
     "criteria": {
       "in_better_monster_room": "2025-01-13 21:22:18 +0000",
-      "in_better_spider_dungeon": "2025-01-14 02:17:19 +0000"
+      "in_better_spider_dungeon": "2025-01-14 02:17:19 +0000",
+      "in_better_skeleton_dungeon": "2025-01-15 02:10:10 +0000"
     },
     "done": false
   },
@@ -3819,6 +3821,7 @@
       "fir_clearing": "2025-01-14 23:29:37 +0000",
       "pumpkin_patch": "2025-01-14 23:48:35 +0000",
       "grassland": "2025-01-14 23:12:10 +0000",
+      "glowing_grotto": "2025-01-15 02:10:07 +0000",
       "undergrowth": "2025-01-14 17:34:51 +0000",
       "rainforest": "2025-01-13 21:54:21 +0000",
       "ominous_woods": "2025-01-14 23:33:35 +0000"
@@ -8987,6 +8990,18 @@
   "miners_delight:recipes/cooking/cave_soup": {
     "criteria": {
       "has_any_ingredient": "2025-01-15 01:57:24 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:skeleton_dungeon": {
+    "criteria": {
+      "in_better_skeleton_dungeon": "2025-01-15 02:10:10 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_plague_asylum": {
+    "criteria": {
+      "location0": "2025-01-15 02:11:23 +0000"
     },
     "done": true
   },

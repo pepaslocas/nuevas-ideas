@@ -10234,9 +10234,27 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/brown_warped_table": {
+    "criteria": {
+      "has_brown_carpet": "2025-01-15 02:14:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-01-15 02:11:23 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/appliances/copper_diving_helmet": {
     "criteria": {
       "has_item": "2025-01-15 01:27:41 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/brown_acacia_table": {
+    "criteria": {
+      "has_brown_carpet": "2025-01-15 02:14:11 +0000"
     },
     "done": true
   },
@@ -10276,6 +10294,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-01-15 02:11:23 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/froststalker_kill": {
     "criteria": {
       "ex": "2025-01-15 01:22:46 +0000"
@@ -10312,9 +10336,21 @@
     },
     "done": true
   },
+  "dungeons_arise:find_plague_asylum": {
+    "criteria": {
+      "location0": "2025-01-15 02:12:04 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/enter_catacombs": {
     "criteria": {
       "in_catacombs": "2025-01-15 01:33:19 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/brown_dark_oak_table": {
+    "criteria": {
+      "has_brown_carpet": "2025-01-15 02:14:11 +0000"
     },
     "done": true
   },
@@ -10390,6 +10426,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/brown_crimson_table": {
+    "criteria": {
+      "has_brown_carpet": "2025-01-15 02:14:11 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/slice_map": {
     "criteria": {
       "has_map": "2025-01-15 01:21:44 +0000"
@@ -10429,6 +10471,12 @@
   "create:copper": {
     "criteria": {
       "0": "2025-01-15 01:27:41 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/brown_cherry_table": {
+    "criteria": {
+      "has_brown_carpet": "2025-01-15 02:14:11 +0000"
     },
     "done": true
   },
@@ -10534,6 +10582,18 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/brown_oak_table": {
+    "criteria": {
+      "has_brown_carpet": "2025-01-15 02:14:11 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/brown_mangrove_table": {
+    "criteria": {
+      "has_brown_carpet": "2025-01-15 02:14:11 +0000"
+    },
+    "done": true
+  },
   "alltheores:recipes/misc/copper_plate": {
     "criteria": {
       "has_TagKey[minecraft:item / forge:ingots/copper]_ingot": "2025-01-15 01:27:41 +0000"
@@ -10564,15 +10624,33 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/brown_jungle_table": {
+    "criteria": {
+      "has_brown_carpet": "2025-01-15 02:14:11 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/food/dough": {
     "criteria": {
       "has_water": "2025-01-15 01:22:05 +0000"
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/brown_birch_table": {
+    "criteria": {
+      "has_brown_carpet": "2025-01-15 02:14:11 +0000"
+    },
+    "done": true
+  },
   "refurbished_furniture:recipes/misc/constructing/crimson_kitchen_sink": {
     "criteria": {
       "has_copper_ingot": "2025-01-15 01:27:41 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/brown_spruce_table": {
+    "criteria": {
+      "has_brown_carpet": "2025-01-15 02:14:11 +0000"
     },
     "done": true
   },
@@ -10609,6 +10687,12 @@
   "refurbished_furniture:recipes/misc/constructing/cherry_kitchen_sink": {
     "criteria": {
       "has_copper_ingot": "2025-01-15 01:27:41 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:mygothgf": {
+    "criteria": {
+      "mygothgf_0": "2025-01-15 02:08:29 +0000"
     },
     "done": true
   },
