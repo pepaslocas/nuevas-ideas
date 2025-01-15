@@ -2172,6 +2172,7 @@
       "minecraft:spider": "2025-01-13 22:02:40 +0000",
       "minecraft:creeper": "2025-01-14 04:38:21 +0000",
       "minecraft:slime": "2025-01-15 01:41:04 +0000",
+      "quark:forgotten": "2025-01-15 20:48:40 +0000",
       "minecraft:phantom": "2025-01-13 22:34:57 +0000",
       "minecraft:zombified_piglin": "2025-01-13 22:18:14 +0000",
       "minecraft:witch": "2025-01-14 03:18:37 +0000",
@@ -11039,30 +11040,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/end_crystal": {
-    "criteria": {
-      "has_ender_eye": "2025-01-15 20:34:59 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/follow_ender_eye": {
-    "criteria": {
-      "in_integrated_stronghold": "2025-01-15 20:38:01 +0000"
-    },
-    "done": true
-  },
-  "miners_delight:recipes/food/weird_caviar": {
-    "criteria": {
-      "has_silverfish_eggs": "2025-01-15 20:46:11 +0000"
-    },
-    "done": true
-  },
-  "undead_revamp2:parry": {
-    "criteria": {
-      "parry_0": "2025-01-15 20:36:54 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/fire_charge": {
     "criteria": {
       "has_blaze_powder": "2025-01-15 20:34:53 +0000"
@@ -11075,15 +11052,39 @@
     },
     "done": true
   },
+  "skilltree:recipes/combat/fiery_quiver": {
+    "criteria": {
+      "has_blaze_powder": "2025-01-15 20:34:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-01-15 20:34:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ender_chest": {
     "criteria": {
       "has_ender_eye": "2025-01-15 20:34:59 +0000"
     },
     "done": true
   },
-  "skilltree:recipes/combat/fiery_quiver": {
+  "delightful:recipes/food/cooking/ender_nectar": {
     "criteria": {
-      "has_blaze_powder": "2025-01-15 20:34:53 +0000"
+      "has_ender_eye": "2025-01-15 20:34:59 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:parry": {
+    "criteria": {
+      "parry_0": "2025-01-15 20:36:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_integrated_stronghold": "2025-01-15 20:38:01 +0000"
     },
     "done": true
   },
@@ -11093,9 +11094,171 @@
     },
     "done": true
   },
-  "delightful:recipes/food/cooking/ender_nectar": {
+  "miners_delight:recipes/food/weird_caviar": {
     "criteria": {
-      "has_ender_eye": "2025-01-15 20:34:59 +0000"
+      "has_silverfish_eggs": "2025-01-15 20:46:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_brick_stairs": {
+    "criteria": {
+      "has_cut_deepslate_bricks": "2025-01-15 20:49:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_brick_wall_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-01-15 20:49:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-01-15 20:49:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_deepslate_wall_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-01-15 20:49:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/deepslate_pillar_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-01-15 20:49:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_deepslate_brick_slab_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-01-15 20:49:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_wall_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-01-15 20:49:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_brick_stairs_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-01-15 20:49:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_brick_slab": {
+    "criteria": {
+      "has_cut_deepslate_bricks": "2025-01-15 20:49:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_deepslate_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-01-15 20:49:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_bricks_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-01-15 20:49:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/layered_deepslate_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-01-15 20:49:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/deepslate_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-01-15 20:49:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_stairs_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-01-15 20:49:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_deepslate_bricks_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-01-15 20:49:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_deepslate_brick_stairs_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-01-15 20:49:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/small_deepslate_brick_wall_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-01-15 20:49:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_brick_wall": {
+    "criteria": {
+      "has_cut_deepslate_bricks": "2025-01-15 20:49:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_slab_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-01-15 20:49:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_deepslate_stairs_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-01-15 20:49:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_brick_slab_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-01-15 20:49:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/polished_cut_deepslate_slab_from_stone_types_deepslate_stonecutting": {
+    "criteria": {
+      "has_stone_types_deepslate": "2025-01-15 20:49:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_stairs": {
+    "criteria": {
+      "has_cut_deepslate": "2025-01-15 20:52:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_slab": {
+    "criteria": {
+      "has_cut_deepslate": "2025-01-15 20:52:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/building_blocks/cut_deepslate_wall": {
+    "criteria": {
+      "has_cut_deepslate": "2025-01-15 20:52:07 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/soap/spike": {
+    "criteria": {
+      "has_bamboo_spikes_tipped": "2025-01-15 20:52:19 +0000"
+    },
+    "done": true
+  },
+  "quark:watcher_center": {
+    "criteria": {
+      "watcher_center": "2025-01-15 20:53:20 +0000"
     },
     "done": true
   },

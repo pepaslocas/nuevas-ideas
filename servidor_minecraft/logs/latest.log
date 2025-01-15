@@ -14994,3 +14994,55 @@ java.lang.NullPointerException: Element not found: amount
 [15Jan2025 20:50:44.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] [denercraft] Im a little gay
 [15Jan2025 20:51:03.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Set own game mode to Creative Mode]
 [15Jan2025 20:51:10.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Set own game mode to Survival Mode]
+[15Jan2025 20:52:04.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PavoLoco: Set own game mode to Survival Mode]
+[15Jan2025 20:52:54.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft has made the advancement [Palette Swap]
+[15Jan2025 20:53:12.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft has reached the goal [Who Watches the Watcher?]
+[15Jan2025 20:53:20.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco has reached the goal [Who Watches the Watcher?]
+[15Jan2025 20:54:22.085] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PavoLoco lost connection: Disconnected
+[15Jan2025 20:54:22.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco left the game
+[15Jan2025 20:54:22.090] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client PavoLoco
+[15Jan2025 20:54:30.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Set own game mode to Creative Mode]
+[15Jan2025 20:54:52.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Set own game mode to Spectator Mode]
+[15Jan2025 20:55:18.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Set own game mode to Creative Mode]
+[15Jan2025 20:55:28.776] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 157
+[15Jan2025 20:55:28.819] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 158
+[15Jan2025 20:55:28.920] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 159
+[15Jan2025 20:55:28.927] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 160
+[15Jan2025 20:55:28.927] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 161
+[15Jan2025 20:55:29.099] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 162
+[15Jan2025 20:55:29.099] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 163
+[15Jan2025 20:55:29.099] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 164
+[15Jan2025 20:55:29.261] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 165
+[15Jan2025 20:55:29.273] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 166
+[15Jan2025 20:55:29.274] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 167
+[15Jan2025 20:55:29.274] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 168
+[15Jan2025 20:55:29.801] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 169
+[15Jan2025 20:55:30.162] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 170
+[15Jan2025 20:55:30.551] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 171
+[15Jan2025 20:55:30.589] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 172
+[15Jan2025 20:55:30.589] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 173
+[15Jan2025 20:55:30.595] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 174
+[15Jan2025 20:55:30.839] [Netty Epoll Server IO #6/INFO] [Calio/]: Received acknowledgment for login packet with id 175
+[15Jan2025 20:55:30.955] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: PavoLoco[/127.250.170.172:34455] logged in with entity id 78196 at (-3607.6593759558755, -28.0, -2603.253933840934)
+[15Jan2025 20:55:31.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco joined the game
+[15Jan2025 20:55:31.265] [Server thread/INFO] [Jade/]: Syncing config to PavoLoco (662dc439-e156-363e-a35c-7bb67826e6e2)
+[15Jan2025 20:55:32.029] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of PavoLoco (18)
+[15Jan2025 20:55:32.030] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to PavoLoco
+[15Jan2025 20:55:34.531] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Set own game mode to Survival Mode]
+[15Jan2025 20:55:49.583] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PavoLoco lost connection: Disconnected
+[15Jan2025 20:55:49.584] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco left the game
+[15Jan2025 20:55:49.584] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client PavoLoco
+[15Jan2025 20:56:41.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Set spawn point to -3609, -28, -2602 [0.0] in minecraft:overworld for denercraft]
+[15Jan2025 20:56:46.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft is bleeding. denercraft was killed whilst fighting Forgotten
+[15Jan2025 20:56:46.188] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/64069, l='ServerLevel[world]', x=-3469.30, y=78.00, z=-2781.55] died, message: 'Unemployed was killed'
+[15Jan2025 20:56:56.743] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Creeper['Angry Creeper'/73545, l='ServerLevel[world]', x=-3611.33, y=-1.00, z=-2627.48] died: Angry Creeper was killed
+[15Jan2025 20:57:06.702] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Creeper['Angry Creeper'/76796, l='ServerLevel[world]', x=-3613.01, y=-9.00, z=-2669.63] died: Angry Creeper was killed
+[15Jan2025 20:57:06.703] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Creeper['Angry Creeper'/76797, l='ServerLevel[world]', x=-3614.93, y=-12.00, z=-2667.06] died: Angry Creeper was killed
+[15Jan2025 20:57:06.710] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/77083, l='ServerLevel[world]', x=-3441.55, y=78.00, z=-2761.70] died, message: 'Unemployed was killed'
+[15Jan2025 20:57:16.700] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Starbuncle['Inven'/79796, l='ServerLevel[world]', x=-3798.00, y=63.00, z=-2684.00] died: Inven was killed
+[15Jan2025 20:57:16.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Killed 1433 entities]
+[15Jan2025 20:57:16.708] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 30603ms or 612 ticks behind
+[15Jan2025 20:57:16.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft was killed
+[15Jan2025 21:00:48.036] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Difficulty set to 200.0]
+[15Jan2025 21:01:57.974] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@571a0034[id=<null>,name=PavoLoco,properties={},legacy=false] (/127.250.170.172:33691) lost connection: Disconnected
+[15Jan2025 21:02:02.719] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@63306137[id=<null>,name=PavoLoco,properties={},legacy=false] (/127.250.170.172:41787) lost connection: Disconnected
