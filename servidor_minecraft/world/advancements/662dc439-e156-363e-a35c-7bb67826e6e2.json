@@ -1935,6 +1935,7 @@
       "minecraft:dripstone_caves": "2025-01-15 01:33:14 +0000",
       "minecraft:grove": "2025-01-13 21:02:23 +0000",
       "minecraft:cold_ocean": "2025-01-13 21:20:21 +0000",
+      "minecraft:forest": "2025-01-15 20:36:55 +0000",
       "minecraft:lush_caves": "2025-01-15 01:26:52 +0000",
       "minecraft:deep_cold_ocean": "2025-01-13 21:20:22 +0000",
       "minecraft:frozen_ocean": "2025-01-13 21:08:28 +0000",
@@ -3643,6 +3644,7 @@
   },
   "betterdungeons:all_dungeons": {
     "criteria": {
+      "in_better_zombie_dungeon": "2025-01-15 20:31:04 +0000",
       "in_better_monster_room": "2025-01-13 21:22:17 +0000",
       "in_better_spider_dungeon": "2025-01-13 22:35:44 +0000"
     },
@@ -11007,9 +11009,9 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/decorations/spruce_cabinet": {
+  "friendsandfoes:nether/find_citadel": {
     "criteria": {
-      "has_spruce_trapdoor": "2025-01-15 20:26:00 +0000"
+      "citadel": "2025-01-15 20:17:18 +0000"
     },
     "done": true
   },
@@ -11019,9 +11021,63 @@
     },
     "done": true
   },
-  "friendsandfoes:nether/find_citadel": {
+  "farmersdelight:recipes/decorations/spruce_cabinet": {
     "criteria": {
-      "citadel": "2025-01-15 20:17:18 +0000"
+      "has_spruce_trapdoor": "2025-01-15 20:26:00 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:zombie_dungeon": {
+    "criteria": {
+      "in_better_zombie_dungeon": "2025-01-15 20:31:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-01-15 20:34:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-01-15 20:34:59 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:parry": {
+    "criteria": {
+      "parry_0": "2025-01-15 20:36:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-01-15 20:34:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-01-15 20:34:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-01-15 20:34:59 +0000"
+    },
+    "done": true
+  },
+  "skilltree:recipes/combat/fiery_quiver": {
+    "criteria": {
+      "has_blaze_powder": "2025-01-15 20:34:53 +0000"
+    },
+    "done": true
+  },
+  "delightful:recipes/food/cooking/ender_nectar": {
+    "criteria": {
+      "has_ender_eye": "2025-01-15 20:34:59 +0000"
     },
     "done": true
   },
