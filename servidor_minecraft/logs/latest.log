@@ -3311,3 +3311,27 @@ java.lang.NullPointerException: Element not found: amount
 [15Jan2025 01:29:04.301] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PavoLoco moved too quickly! 8.294603918093344,0.0,5.7345320896001795
 [15Jan2025 01:29:04.995] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
 [15Jan2025 01:29:45.386] [Worker-Main-1/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id iceandfire:troll
+[15Jan2025 01:30:13.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PavoLoco: Set own game mode to Survival Mode]
+[15Jan2025 01:31:03.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Set own game mode to Spectator Mode]
+[15Jan2025 01:31:29.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported PavoLoco to denercraft]
+[15Jan2025 01:31:30.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco has made the advancement [Hidden under Roots]
+[15Jan2025 01:31:47.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Set own game mode to Survival Mode]
+[15Jan2025 01:32:01.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco is bleeding. PavoLoco was slain by Skeleton
+[15Jan2025 01:32:26.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco has made the advancement [Local Brewery]
+[15Jan2025 01:33:11.373] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: denercraft lost connection: Disconnected
+[15Jan2025 01:33:11.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft left the game
+[15Jan2025 01:33:11.375] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/api/spells/CastType
+[15Jan2025 01:33:11.377] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client denercraft
+[15Jan2025 01:33:11.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PavoLoco: Set own game mode to Spectator Mode]
+[15Jan2025 01:33:18.102] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/zeta/api/ICollateralMover$MoveResult
+[15Jan2025 01:33:19.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco has made the advancement [Dungeon Delving]
+[15Jan2025 01:33:25.433] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[15Jan2025 01:33:25.433] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[15Jan2025 01:33:25.434] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
+[15Jan2025 01:33:25.434] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
+[15Jan2025 01:33:28.157] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_main_room_pool
+[15Jan2025 01:33:28.157] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_2_pool
+[15Jan2025 01:33:28.157] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_1_pool
+[15Jan2025 01:33:28.157] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:miner_additions_3_pool
+[15Jan2025 01:33:36.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PavoLoco: Set own game mode to Survival Mode]
+[15Jan2025 01:36:50.373] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/BeehiveBlockEntity$BeeReleaseStatus

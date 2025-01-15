@@ -1926,14 +1926,17 @@
       "minecraft:frozen_river": "2025-01-14 23:13:11 +0000",
       "minecraft:windswept_hills": "2025-01-15 01:21:13 +0000",
       "minecraft:beach": "2025-01-13 21:51:59 +0000",
+      "minecraft:dark_forest": "2025-01-15 01:26:41 +0000",
       "minecraft:lukewarm_ocean": "2025-01-13 22:01:20 +0000",
       "minecraft:river": "2025-01-13 21:39:01 +0000",
       "minecraft:stony_shore": "2025-01-13 21:13:53 +0000",
       "minecraft:snowy_plains": "2025-01-14 23:15:16 +0000",
       "minecraft:snowy_taiga": "2025-01-13 21:12:42 +0000",
+      "minecraft:dripstone_caves": "2025-01-15 01:31:09 +0000",
       "minecraft:grove": "2025-01-13 21:02:04 +0000",
       "minecraft:swamp": "2025-01-14 23:12:56 +0000",
       "minecraft:cold_ocean": "2025-01-13 21:20:22 +0000",
+      "minecraft:lush_caves": "2025-01-15 01:29:43 +0000",
       "minecraft:deep_cold_ocean": "2025-01-13 21:20:23 +0000",
       "minecraft:frozen_ocean": "2025-01-13 21:12:44 +0000",
       "minecraft:ocean": "2025-01-13 21:38:53 +0000",
@@ -8388,7 +8391,8 @@
     "criteria": {
       "entered_tower_of_the_undead": "2025-01-15 01:14:57 +0000",
       "entered_pillager_camp": "2025-01-14 23:33:47 +0000",
-      "entered_ruined_building": "2025-01-14 23:44:43 +0000"
+      "entered_ruined_building": "2025-01-14 23:44:43 +0000",
+      "entered_monster_maze": "2025-01-15 01:26:41 +0000"
     },
     "done": false
   },
@@ -8608,6 +8612,12 @@
     },
     "done": true
   },
+  "dungeons_enhanced:seven_world_wonders": {
+    "criteria": {
+      "entered_monster_maze": "2025-01-15 01:26:41 +0000"
+    },
+    "done": false
+  },
   "supplementaries:recipes/decorations/sign_post_jungle": {
     "criteria": {
       "has_planks": "2025-01-15 01:23:25 +0000"
@@ -8623,6 +8633,18 @@
   "valhelsia_furniture:recipes/decorations/light_blue_upholstered_jungle_chair": {
     "criteria": {
       "has_jungle_planks": "2025-01-15 01:23:25 +0000"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/slicing/red_dye_from_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-01-15 01:30:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-01-15 01:30:05 +0000"
     },
     "done": true
   },
@@ -8683,6 +8705,12 @@
   "valhelsia_furniture:recipes/decorations/cyan_upholstered_jungle_chair": {
     "criteria": {
       "has_jungle_planks": "2025-01-15 01:23:25 +0000"
+    },
+    "done": true
+  },
+  "dungeons_enhanced:hidden_under_the_roots": {
+    "criteria": {
+      "entered_monster_maze": "2025-01-15 01:26:41 +0000"
     },
     "done": true
   },
