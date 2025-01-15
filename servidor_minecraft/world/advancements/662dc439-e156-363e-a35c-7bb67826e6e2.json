@@ -2139,6 +2139,7 @@
       "grassland": "2025-01-15 02:01:52 +0000",
       "snowy_coniferous_forest": "2025-01-13 21:09:47 +0000",
       "glowing_grotto": "2025-01-15 03:32:11 +0000",
+      "undergrowth": "2025-01-15 19:46:56 +0000",
       "rainforest": "2025-01-13 21:53:42 +0000",
       "ominous_woods": "2025-01-14 23:44:05 +0000"
     },
@@ -8485,7 +8486,8 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-01-14 17:08:42 +0000",
       "minecraft:nether_wastes": "2025-01-14 04:51:54 +0000",
-      "minecraft:soul_sand_valley": "2025-01-14 04:54:18 +0000"
+      "minecraft:soul_sand_valley": "2025-01-14 04:54:18 +0000",
+      "minecraft:warped_forest": "2025-01-15 19:51:15 +0000"
     },
     "done": false
   },
@@ -10864,6 +10866,18 @@
     },
     "done": false
   },
+  "alltheores:recipes/misc/raw_tin_block": {
+    "criteria": {
+      "has_raw_TagKey[minecraft:item / forge:raw_materials/tin]": "2025-01-15 19:48:44 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/tin_ingot_from_raw": {
+    "criteria": {
+      "has_item": "2025-01-15 19:48:44 +0000"
+    },
+    "done": true
+  },
   "dungeons_arise:find_heavenly_challenger": {
     "criteria": {
       "location0": "2025-01-15 19:35:19 +0000"
@@ -10882,9 +10896,27 @@
     },
     "done": true
   },
+  "alltheores:recipes/misc/raw_tin_from_block": {
+    "criteria": {
+      "has_item": "2025-01-15 19:48:45 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/decorations/oak_cabinet": {
     "criteria": {
       "has_oak_trapdoor": "2025-01-15 19:30:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-01-15 19:47:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-01-15 19:47:06 +0000"
     },
     "done": true
   },
@@ -10900,9 +10932,21 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-01-15 19:52:11 +0000"
+    },
+    "done": true
+  },
   "undead_revamp2:sugarcoat": {
     "criteria": {
       "sugarcoat_0": "2025-01-15 19:34:10 +0000"
+    },
+    "done": true
+  },
+  "alltheores:recipes/misc/tin_ingot_from_raw_blasting": {
+    "criteria": {
+      "has_item": "2025-01-15 19:48:44 +0000"
     },
     "done": true
   },

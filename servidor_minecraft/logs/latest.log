@@ -10922,3 +10922,28 @@ java.lang.NullPointerException: Element not found: amount
 [15Jan2025 19:48:05.773] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-573, y=34, z=-2370} BlockPos{x=-572, y=35, z=-2372}
 [15Jan2025 19:48:05.823] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-573, y=34, z=-2370} BlockPos{x=-572, y=35, z=-2372}
 [15Jan2025 19:48:40.572] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-567, y=20, z=-2370} BlockPos{x=-567, y=21, z=-2371}
+[15Jan2025 19:51:01.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[15Jan2025 19:51:01.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: d<--[HERE]
+[15Jan2025 19:52:11.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco has made the advancement [Nightmare Fuel]
+[15Jan2025 19:52:43.474] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-599, y=41, z=-2345} BlockPos{x=-599, y=40, z=-2344}
+[15Jan2025 19:52:43.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported denercraft to PavoLoco]
+[15Jan2025 19:52:48.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Set own game mode to Survival Mode]
+[15Jan2025 19:53:52.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported denercraft to PavoLoco]
+[15Jan2025 19:54:23.703] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-409, y=69, z=-2007} but found not block entity block Block{minecraft:nether_brick_stairs}[facing=east,half=top,shape=straight,waterlogged=false] at location
+[15Jan2025 19:54:23.703] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:nether_brick_stairs}[facing=east,half=top,shape=straight,waterlogged=false] but failed at location BlockPos{x=-409, y=69, z=-2007}
+[15Jan2025 19:55:11.940] [Worker-Main-31/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/kinetics/transmission/sequencer/InstructionSpeedModifiers
+[15Jan2025 19:55:11.942] [Worker-Main-31/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/foundation/gui/AllGuiTextures
+[15Jan2025 19:56:38.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: The difficulty has been set to Hard]
+[15Jan2025 19:56:44.736] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting io/redspace/ironsspellbooks/entity/mobs/keeper/KeeperEntity$AttackType
+[15Jan2025 19:57:46.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported denercraft to PavoLoco]
+[15Jan2025 19:58:57.884] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: denercraft moved wrongly!
+[15Jan2025 19:59:19.173] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco is bleeding. PavoLoco was slain by denercraft
+[15Jan2025 19:59:35.224] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco has completed the challenge [Find: Giant crimson]
+[15Jan2025 19:59:35.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco is bleeding. PavoLoco was slain by Piglin Brute
+[15Jan2025 19:59:38.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft has completed the challenge [Find: Giant crimson]
+[15Jan2025 20:00:05.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported denercraft to -1008.500000, 66.500000, -2313.500000]
+[15Jan2025 20:00:15.238] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[15Jan2025 20:00:15.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <denercraft> xaero-waypoint:jefe papu:J:-1009:66:-2314:1:false:0:Internal-the-nether-waypoints
+[15Jan2025 20:00:20.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported PavoLoco to denercraft]
+[15Jan2025 20:00:48.822] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/cataclysm/entity/AnimationMonster/BossMonsters/Ignis_Entity$Crackiness
+[15Jan2025 20:00:57.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft has made the advancement [Master of Silence]
