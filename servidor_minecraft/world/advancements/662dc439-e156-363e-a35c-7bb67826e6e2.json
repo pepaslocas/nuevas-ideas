@@ -1941,6 +1941,7 @@
       "minecraft:deep_frozen_ocean": "2025-01-15 01:29:19 +0000",
       "minecraft:ocean": "2025-01-13 21:38:53 +0000",
       "minecraft:snowy_beach": "2025-01-13 21:09:50 +0000",
+      "minecraft:old_growth_birch_forest": "2025-01-15 02:00:16 +0000",
       "minecraft:plains": "2025-01-14 23:15:54 +0000"
     },
     "done": false
@@ -2132,6 +2133,7 @@
       "lavender_field": "2025-01-13 21:39:02 +0000",
       "fir_clearing": "2025-01-14 23:29:37 +0000",
       "pumpkin_patch": "2025-01-14 23:52:03 +0000",
+      "grassland": "2025-01-15 02:01:52 +0000",
       "snowy_coniferous_forest": "2025-01-13 21:09:47 +0000",
       "rainforest": "2025-01-13 21:53:42 +0000",
       "ominous_woods": "2025-01-14 23:44:05 +0000"
@@ -10118,6 +10120,7 @@
   "dungeons_enhanced:ambitious_explorer": {
     "criteria": {
       "entered_tower_of_the_undead": "2025-01-15 01:15:08 +0000",
+      "entered_druid_circle": "2025-01-15 02:01:53 +0000",
       "entered_ruined_building": "2025-01-15 00:21:14 +0000",
       "entered_monster_maze": "2025-01-15 01:31:30 +0000"
     },

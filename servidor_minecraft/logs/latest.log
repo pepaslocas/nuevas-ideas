@@ -3436,3 +3436,101 @@ java.lang.NullPointerException: Element not found: amount
 [15Jan2025 02:00:19.014] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
 [15Jan2025 02:00:19.014] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
 [15Jan2025 02:00:19.015] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[15Jan2025 02:00:28.134] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PavoLoco moved too quickly! 8.778628509582632,0.0,-4.885381244859673
+[15Jan2025 02:00:36.056] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/28975, l='ServerLevel[world]', x=-7361.55, y=94.00, z=-14504.20] died, message: 'Butcher was slain by Sucker'
+[15Jan2025 02:00:40.669] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/28979, l='ServerLevel[world]', x=-7357.23, y=94.00, z=-14531.52] died, message: 'Butcher was slain by Door Knight'
+[15Jan2025 02:00:44.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PavoLoco: Set own game mode to Survival Mode]
+[15Jan2025 02:00:52.497] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/FillCommand$Mode
+[15Jan2025 02:00:53.104] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/SetBlockCommand$Mode
+[15Jan2025 02:00:58.886] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[15Jan2025 02:00:58.886] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[15Jan2025 02:00:58.886] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[15Jan2025 02:00:58.886] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[15Jan2025 02:00:58.886] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[15Jan2025 02:00:58.886] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[15Jan2025 02:01:13.622] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[15Jan2025 02:01:17.375] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_4_pool
+[15Jan2025 02:01:17.376] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_2_pool
+[15Jan2025 02:01:17.376] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_1_pool
+[15Jan2025 02:01:17.377] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[15Jan2025 02:01:17.377] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[15Jan2025 02:01:17.378] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[15Jan2025 02:01:17.378] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[15Jan2025 02:01:17.378] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[15Jan2025 02:01:17.379] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[15Jan2025 02:01:17.379] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[15Jan2025 02:01:41.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PavoLoco: Set own game mode to Spectator Mode]
+[15Jan2025 02:01:54.463] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element dungeons_enhanced:tree_house took 191 ms
+[15Jan2025 02:01:57.994] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[15Jan2025 02:02:02.896] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[15Jan2025 02:02:10.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported denercraft to -8095.500000, 103.637507, -13631.500000]
+[15Jan2025 02:02:10.509] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13913ms or 278 ticks behind
+[15Jan2025 02:02:10.528] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PavoLoco moved too quickly! 0.1231199273324819,-3.3656475061982007,-9.685349546927682
+[15Jan2025 02:02:16.010] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[15Jan2025 02:02:20.023] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PavoLoco moved too quickly! 0.1342671842303389,-6.046685200423539,-8.490085639328754
+[15Jan2025 02:02:23.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PavoLoco: Set own game mode to Survival Mode]
+[15Jan2025 02:02:32.054] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[15Jan2025 02:02:32.054] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[15Jan2025 02:02:33.140] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[15Jan2025 02:02:33.141] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:
+[15Jan2025 02:02:35.855] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element dungeons_enhanced:castle took 325 ms
+[15Jan2025 02:02:49.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported denercraft to -6479.500000, 109.455668, -13151.500000]
+[15Jan2025 02:02:49.449] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10903ms or 218 ticks behind
+[15Jan2025 02:02:49.491] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PavoLoco moved too quickly! -3.681238180224682,-0.04415938806846498,9.472019707784057
+[15Jan2025 02:02:49.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PavoLoco: Set own game mode to Spectator Mode]
+[15Jan2025 02:02:50.305] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[15Jan2025 02:02:50.305] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[15Jan2025 02:02:50.305] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
+[15Jan2025 02:02:56.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft has made the advancement [Forgotten Wars and Kingdoms]
+[15Jan2025 02:03:08.449] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_4_pool
+[15Jan2025 02:03:08.450] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_2_pool
+[15Jan2025 02:03:08.450] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[15Jan2025 02:03:08.450] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[15Jan2025 02:03:08.450] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[15Jan2025 02:03:08.450] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[15Jan2025 02:03:08.450] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[15Jan2025 02:03:12.908] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_2_pool
+[15Jan2025 02:03:12.908] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[15Jan2025 02:03:12.909] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_4_pool
+[15Jan2025 02:03:12.910] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_1_pool
+[15Jan2025 02:03:12.910] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[15Jan2025 02:03:12.910] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[15Jan2025 02:03:12.910] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[15Jan2025 02:03:12.910] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[15Jan2025 02:03:12.910] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[15Jan2025 02:03:15.228] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:angler_additions_3_pool
+[15Jan2025 02:03:31.101] [Worker-Main-1/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-6519, y=41, z=-13319}
+[15Jan2025 02:03:33.475] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[15Jan2025 02:04:03.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported denercraft to 0.500000, 96.765905, 0.500000]
+[15Jan2025 02:07:35.370] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[15Jan2025 02:07:35.371] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_4_pool
+[15Jan2025 02:07:35.371] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_1_pool
+[15Jan2025 02:07:35.371] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_2_pool
+[15Jan2025 02:07:35.371] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[15Jan2025 02:07:35.371] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[15Jan2025 02:07:35.371] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_additions_3_pool
+[15Jan2025 02:07:35.371] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[15Jan2025 02:07:35.371] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:cook_end_1_pool
+[15Jan2025 02:07:42.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PavoLoco: Set own game mode to Survival Mode]
+[15Jan2025 02:07:54.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PavoLoco: Teleported PavoLoco to denercraft]
+[15Jan2025 02:07:55.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco is bleeding. PavoLoco was doomed to fall
+[15Jan2025 02:08:05.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco was doomed to fall
+[15Jan2025 02:08:14.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [PavoLoco: Teleported PavoLoco to denercraft]
+[15Jan2025 02:08:29.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: PavoLoco has completed the challenge [My Bald Satanic Goth Girl Friend]
+[15Jan2025 02:08:45.346] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Husk['Dame Hellwolfthor the Honest'/34139, l='ServerLevel[world]', x=-18.42, y=70.00, z=72.42] died: Dame Hellwolfthor the Honest was slain by PavoLoco
+[15Jan2025 02:09:32.400] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element dungeons_arise:bandit_towers took 827 ms
+[15Jan2025 02:09:56.573] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element betterdungeons:skeleton_dungeon took 7 ms
+[15Jan2025 02:09:58.729] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[15Jan2025 02:09:58.730] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[15Jan2025 02:09:58.730] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_additions_3_pool
+[15Jan2025 02:09:58.730] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[15Jan2025 02:09:58.730] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:lumberjack_end_1_pool
+[15Jan2025 02:10:01.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Teleported denercraft to 208.500000, 85.146574, -383.500000]
+[15Jan2025 02:10:01.158] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2062ms or 41 ticks behind
+[15Jan2025 02:10:01.192] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: PavoLoco moved too quickly! 9.393698433509673,0.3308252358767163,4.267818796554906
+[15Jan2025 02:10:02.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [denercraft: Set own game mode to Spectator Mode]
+[15Jan2025 02:10:10.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: denercraft has made the advancement [A Bone to Pick]
+[15Jan2025 02:10:12.471] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:house_basement_pool
+[15Jan2025 02:10:12.471] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[15Jan2025 02:10:12.471] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_additions_3_pool
+[15Jan2025 02:10:12.471] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:monster_hunter_end_1_pool
